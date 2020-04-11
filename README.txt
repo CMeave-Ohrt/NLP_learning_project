@@ -1,0 +1,19 @@
+------------NLP Learning Project---------------
+
+The goal of this project is to build various natural language processing modules from scratch using PyTorch. Eventually, I would like to implement a German - English translator.
+
+So far I have:
+-Implemented a language corpus that can read text and generate an appropriate vocabulary
+-Implemented word vectorization using SkipGram
+-Implemented a crude Sentiment Analyzer based on Logist Regression on word vector sums
+
+The following files and folders are contained in here:
+-Tokenization: Contains word corpus class and creates my_corpus when run
+-Vectorization: Contains vectorizer class and all its training methods
+-Sentiment_Analysis: contains sentiment analyzer and all its training methods
+-Vectorization_run: Runs vectorization training on data set
+-Training_Sentiment_Analysis: Trains sentiment analysis on data
+-Testing: Tests sentiment analysis
+
+-Parameters: Contains various saved parameters
+-Data: Contains test and training set of 50k each IMDB reviews. Data from Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011)
