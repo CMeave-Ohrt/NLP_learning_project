@@ -16,4 +16,4 @@ The following files and folders are contained in here:
 -Testing: Tests sentiment analysis
 
 -Parameters: Contains various saved parameters
--Data: Contains test and training set of 50k each IMDB reviews. Data from Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011)
+-Data: Should contain test and training set of 50k each IMDB reviews. Download data from https://ai.stanford.edu/~amaas/data/sentiment/. Data from Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011)
