@@ -17,10 +17,10 @@ my_corpus.load_vocab('./Parameters/bible_corpus.pt')
 my_vectorizer = WordsToVec(my_corpus, 150)
 my_vectorizer.load_model_state('./Parameters/bible_vectors_150d.pt')
 
-my_generator = TextGenerator(my_corpus, my_vectorizer)
+my_generator = TextGenerator(my_corpus, my_vectorizer, LSTM_count=8)
 
-#my_generator.load_model('./Parameters/text_generator_autosave_epoch5.pt')
+my_generator.load_model('./Parameters/text_generator_8layerLSTM_ep100.pt')
 
-#print(my_generator.unparse(my_generator.generate('jesus', 100, creativity=10)))
+print(my_generator.unparse(my_generator.generate('1 : 5', 100, creativity=4)))
 
-my_generator.train_model(theText)
+#my_generator.train_model(theText)

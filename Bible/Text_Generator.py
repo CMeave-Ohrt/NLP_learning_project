@@ -5,7 +5,7 @@ import numpy as np
 
 class TextGenerator:
     """Initiates LSTM based model for text generation"""
-    def __init__(self, corpus, vectorizer):
+    def __init__(self, corpus, vectorizer, LSTM_count=4):
         self.corpus = corpus
         self.vocab_size = vectorizer.vocab_size
         self.embed_size = vectorizer.embed_size+len(self.corpus.punctuation)
@@ -27,7 +27,7 @@ class TextGenerator:
         self.embedding[self.corpus.word_to_ind[self.corpus.UNKNOWN], -1] = 1
 
         self.LSTM_model = LSTMModel(input_size=self.vocab_size, embed_size=self.embed_size,
-                                    hidden_size=128, class_count=self.vocab_size)
+                                    hidden_size=128, class_count=self.vocab_size, LSTM_count=LSTM_count)
 
         self.LSTM_model.embedding.weight.data = self.embedding
 
@@ -62,7 +62,7 @@ class TextGenerator:
 
         return batches, batch_count
 
-    def train_model(self, text, section_length=32, batch_size=16, epochs=50):
+    def train_model(self, text, section_length=32, batch_size=16, epochs=100, lr=0.001):
         """trains model, input should be text file"""
 
         print('Pre-processing')
@@ -70,7 +70,7 @@ class TextGenerator:
         batches, batch_count = self.pre_processing(text, batch_size=batch_size, section_length=section_length)
 
         #initialize parameters:
-        optimizer = torch.optim.Adam(self.LSTM_model.parameters(), 0.001)
+        optimizer = torch.optim.Adam(self.LSTM_model.parameters(), lr=lr)
 
         print('Begin Training')
 
@@ -111,15 +111,15 @@ class TextGenerator:
                     running_loss = 0
 
             #User update and sample printing:
-            creativity = np.random.choice(range(2, 6))
-            print('Epoch {} done, here is a sample (creativity {}):'.format(epoch+1), creativity)
+            creativity = int(np.random.choice(range(2, 6)))
+            print('Epoch {} done, here is a sample (creativity {}):'.format(epoch+1, creativity))
 
             sample_indices = self.generate('jesus', 200, creativity=creativity)
 
             print(self.unparse(sample_indices))
 
             #save model state every 5 epochs:
-            if (epoch % 5) == 4:
+            if (epoch % 10) == 9:
                 path = './Parameters/text_generator_autosave_epoch'+str(epoch+1)+'.pt'
                 torch.save(self.LSTM_model.state_dict(), path)
 
@@ -177,15 +177,15 @@ class TextGenerator:
         self.LSTM_model.load_state_dict(torch.load(path))
 
 class LSTMModel (nn.Module):
-    def __init__(self, input_size, embed_size, hidden_size, class_count):
+    def __init__(self, input_size, embed_size, hidden_size, class_count, LSTM_count):
         super(LSTMModel, self).__init__()
 
-        self.LSTM_layers = 4
+        self.LSTM_layers = LSTM_count
         self.hidden_size = hidden_size
 
         self.embedding = nn.Embedding(input_size, embed_size)
         self.LSTM = nn.LSTM(embed_size, self.hidden_size, num_layers=self.LSTM_layers,
-                            bias=True, batch_first=True, dropout=0.5)
+                            bias=True, batch_first=True, dropout=0.25)
 
         self.Adaptive_Softmax = nn.AdaptiveLogSoftmaxWithLoss(self.hidden_size, class_count,
                                                               [round(class_count / 20), 4*round(class_count / 20)])
