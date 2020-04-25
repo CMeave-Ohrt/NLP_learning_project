@@ -1,0 +1,4755 @@
+/usr/local/bin/python3.8 /Users/chris/PycharmProjects/NLP/venv/Bible/Text_Generation_run.py
+Pre-processing
+Begin Training
+Epoch: 1, batch: 100 of 2168, loss: 5.655739393234253
+Epoch: 1, batch: 200 of 2168, loss: 5.519864945411682
+Epoch: 1, batch: 300 of 2168, loss: 5.493139901161194
+Epoch: 1, batch: 400 of 2168, loss: 5.462821793556214
+Epoch: 1, batch: 500 of 2168, loss: 5.494136657714844
+Epoch: 1, batch: 600 of 2168, loss: 5.5003142786026
+Epoch: 1, batch: 700 of 2168, loss: 5.5163209438323975
+Epoch: 1, batch: 800 of 2168, loss: 5.547704124450684
+Epoch: 1, batch: 900 of 2168, loss: 5.528701181411743
+Epoch: 1, batch: 1000 of 2168, loss: 5.522080726623535
+Epoch: 1, batch: 1100 of 2168, loss: 5.561812090873718
+Epoch: 1, batch: 1200 of 2168, loss: 5.521015381813049
+Epoch: 1, batch: 1300 of 2168, loss: 5.548284382820129
+Epoch: 1, batch: 1400 of 2168, loss: 5.525133833885193
+Epoch: 1, batch: 1500 of 2168, loss: 5.5451810169219975
+Epoch: 1, batch: 1600 of 2168, loss: 5.483199372291565
+Epoch: 1, batch: 1700 of 2168, loss: 5.4937718391418455
+Epoch: 1, batch: 1800 of 2168, loss: 5.500829410552979
+Epoch: 1, batch: 1900 of 2168, loss: 5.4968495941162105
+Epoch: 1, batch: 2000 of 2168, loss: 5.508557076454163
+Epoch: 1, batch: 2100 of 2168, loss: 5.505578932762146
+Epoch 1 done, here is a sample (creativity 4):
+jesus, the,,, the and and and
+, the
+ and the the,,
+ and
+ and,,
+
+ the,
+ the
+
+ the,
+,
+ and the the
+, and
+, and the, and and the and,,, the
+ and and
+
+ the
+, and, the
+ and
+,
+,
+ and and and and
+
+ the
+ the
+
+ the the and the,, the the the and
+
+, and and,
+
+ the and, the and the and the
+, the the the
+ and, and,,,
+
+ the, and and the
+ the and and
+, and the and
+ the the
+ and and the,, and the the,,,
+
+ and the the
+ the the and,, the, the the the, the,,,
+ and and
+ and and
+,,, and
+,
+ and the
+ the and and, the, the
+
+Epoch: 2, batch: 100 of 2168, loss: 5.461992044448852
+Epoch: 2, batch: 200 of 2168, loss: 5.462508273124695
+Epoch: 2, batch: 300 of 2168, loss: 5.453285202980042
+Epoch: 2, batch: 400 of 2168, loss: 5.419402670860291
+Epoch: 2, batch: 500 of 2168, loss: 5.457635097503662
+Epoch: 2, batch: 600 of 2168, loss: 5.46994499206543
+Epoch: 2, batch: 700 of 2168, loss: 5.485541467666626
+Epoch: 2, batch: 800 of 2168, loss: 5.507371840476989
+Epoch: 2, batch: 900 of 2168, loss: 5.491448607444763
+Epoch: 2, batch: 1000 of 2168, loss: 5.490540585517883
+Epoch: 2, batch: 1100 of 2168, loss: 5.525851902961731
+Epoch: 2, batch: 1200 of 2168, loss: 5.491422252655029
+Epoch: 2, batch: 1300 of 2168, loss: 5.515115237236023
+Epoch: 2, batch: 1400 of 2168, loss: 5.493000631332397
+Epoch: 2, batch: 1500 of 2168, loss: 5.51344211101532
+Epoch: 2, batch: 1600 of 2168, loss: 5.457601184844971
+Epoch: 2, batch: 1700 of 2168, loss: 5.468338313102723
+Epoch: 2, batch: 1800 of 2168, loss: 5.474751234054565
+Epoch: 2, batch: 1900 of 2168, loss: 5.4725324821472165
+Epoch: 2, batch: 2000 of 2168, loss: 5.483445148468018
+Epoch: 2, batch: 2100 of 2168, loss: 5.48403118133545
+Epoch 2 done, here is a sample (creativity 5):
+jesus
+,: the the,, and:, the the the the, the,,
+ and the::,, the
+ the
+ the and:,,
+
+ the:: and
+ and:,
+,: and:: and
+:::,:
+ the and:, the: the,: the:
+ and,, the: and:: the: the::
+
+,,
+ and, and the and the,,
+
+,: and,
+ and the the, and the,: and, the:,, and:
+ the:
+:, and the and
+ and and:,, the the the:,,, and the:::
+,, and the the,:::, and:
+
+
+ the the
+ the: the and: and, the,: the
+
+
+,
+, the, the, the, and
+ the and and and the the
+, and
+
+Epoch: 3, batch: 100 of 2168, loss: 5.4418502616882325
+Epoch: 3, batch: 200 of 2168, loss: 5.437948770523072
+Epoch: 3, batch: 300 of 2168, loss: 5.432456741333008
+Epoch: 3, batch: 400 of 2168, loss: 5.397115345001221
+Epoch: 3, batch: 500 of 2168, loss: 5.431657190322876
+Epoch: 3, batch: 600 of 2168, loss: 5.446974549293518
+Epoch: 3, batch: 700 of 2168, loss: 5.46261236667633
+Epoch: 3, batch: 800 of 2168, loss: 5.48284686088562
+Epoch: 3, batch: 900 of 2168, loss: 5.47451346874237
+Epoch: 3, batch: 1000 of 2168, loss: 5.467826814651489
+Epoch: 3, batch: 1100 of 2168, loss: 5.501115036010742
+Epoch: 3, batch: 1200 of 2168, loss: 5.473252868652343
+Epoch: 3, batch: 1300 of 2168, loss: 5.498538880348206
+Epoch: 3, batch: 1400 of 2168, loss: 5.478606414794922
+Epoch: 3, batch: 1500 of 2168, loss: 5.499078469276428
+Epoch: 3, batch: 1600 of 2168, loss: 5.443207774162293
+Epoch: 3, batch: 1700 of 2168, loss: 5.459804396629334
+Epoch: 3, batch: 1800 of 2168, loss: 5.464104685783386
+Epoch: 3, batch: 1900 of 2168, loss: 5.4604596996307375
+Epoch: 3, batch: 2000 of 2168, loss: 5.469110651016235
+Epoch: 3, batch: 2100 of 2168, loss: 5.47166449546814
+Epoch 3 done, here is a sample (creativity 3):
+jesus,
+ the,
+, the
+
+ the the the the,
+,
+ the
+,
+, the,,
+,, the,
+,,,
+,,,,, the,, the
+,
+
+
+, the,
+, the the
+
+, the, the,
+
+,, the
+ the
+
+
+ the the
+,
+,
+,
+, the,
+,
+
+,,, the,,,,
+ the
+ the,
+
+
+,,,
+
+, the the
+
+
+,,
+
+
+,
+,,
+ the the
+ the
+
+ the
+,, the
+
+ the
+,,
+,,,,
+
+,
+
+,
+ the,, the
+
+,
+ the
+, the
+ the the the the,,
+ the,, the the,,
+
+
+
+
+ the the the
+
+ the the
+
+ the the
+,
+Epoch: 4, batch: 100 of 2168, loss: 5.434039878845215
+Epoch: 4, batch: 200 of 2168, loss: 5.427435574531555
+Epoch: 4, batch: 300 of 2168, loss: 5.418675546646118
+Epoch: 4, batch: 400 of 2168, loss: 5.388534560203552
+Epoch: 4, batch: 500 of 2168, loss: 5.423865122795105
+Epoch: 4, batch: 600 of 2168, loss: 5.433101153373718
+Epoch: 4, batch: 700 of 2168, loss: 5.4531921911239625
+Epoch: 4, batch: 800 of 2168, loss: 5.473379845619202
+Epoch: 4, batch: 900 of 2168, loss: 5.46470540523529
+Epoch: 4, batch: 1000 of 2168, loss: 5.457275924682617
+Epoch: 4, batch: 1100 of 2168, loss: 5.490351614952087
+Epoch: 4, batch: 1200 of 2168, loss: 5.462503771781922
+Epoch: 4, batch: 1300 of 2168, loss: 5.489325633049011
+Epoch: 4, batch: 1400 of 2168, loss: 5.4694427347183225
+Epoch: 4, batch: 1500 of 2168, loss: 5.489800100326538
+Epoch: 4, batch: 1600 of 2168, loss: 5.435675210952759
+Epoch: 4, batch: 1700 of 2168, loss: 5.454343123435974
+Epoch: 4, batch: 1800 of 2168, loss: 5.458264470100403
+Epoch: 4, batch: 1900 of 2168, loss: 5.451603746414184
+Epoch: 4, batch: 2000 of 2168, loss: 5.461763272285461
+Epoch: 4, batch: 2100 of 2168, loss: 5.464917325973511
+Epoch 4 done, here is a sample (creativity 2):
+jesus the the the the
+
+
+ the
+
+ the the the
+
+ the
+ the the
+
+ the
+ the the the the the the the the the
+ the the the the the
+ the
+
+
+ the
+ the
+
+
+ the the the
+
+
+ the the the
+
+
+ the
+ the the the the the the
+
+
+
+ the the the the
+
+
+
+
+
+ the the
+
+
+ the
+ the
+
+ the the
+
+ the the the the the the the
+
+ the
+
+ the
+ the the the the the the
+
+ the the
+ the the
+ the the
+ the the
+ the
+
+ the
+
+ the the the
+ the
+ the
+
+ the the
+
+ the the the
+ the
+
+
+
+
+ the the
+ the
+
+
+
+
+
+ the the
+
+
+ the
+ the
+ the the
+ the
+
+ the the
+ the the
+ the
+ the
+ the
+
+ the
+
+Epoch: 5, batch: 100 of 2168, loss: 5.434749774932861
+Epoch: 5, batch: 200 of 2168, loss: 5.421713099479676
+Epoch: 5, batch: 300 of 2168, loss: 5.411622204780579
+Epoch: 5, batch: 400 of 2168, loss: 5.386553325653076
+Epoch: 5, batch: 500 of 2168, loss: 5.418001484870911
+Epoch: 5, batch: 600 of 2168, loss: 5.427736406326294
+Epoch: 5, batch: 700 of 2168, loss: 5.446210689544678
+Epoch: 5, batch: 800 of 2168, loss: 5.472217745780945
+Epoch: 5, batch: 900 of 2168, loss: 5.456081080436706
+Epoch: 5, batch: 1000 of 2168, loss: 5.4524329471588135
+Epoch: 5, batch: 1100 of 2168, loss: 5.483057360649109
+Epoch: 5, batch: 1200 of 2168, loss: 5.4561270809173585
+Epoch: 5, batch: 1300 of 2168, loss: 5.487374062538147
+Epoch: 5, batch: 1400 of 2168, loss: 5.464004669189453
+Epoch: 5, batch: 1500 of 2168, loss: 5.482486324310303
+Epoch: 5, batch: 1600 of 2168, loss: 5.429390578269959
+Epoch: 5, batch: 1700 of 2168, loss: 5.45077582359314
+Epoch: 5, batch: 1800 of 2168, loss: 5.452960891723633
+Epoch: 5, batch: 1900 of 2168, loss: 5.44984504699707
+Epoch: 5, batch: 2000 of 2168, loss: 5.457055997848511
+Epoch: 5, batch: 2100 of 2168, loss: 5.46039430141449
+Epoch 5 done, here is a sample (creativity 4):
+jesus the,, and the, the
+
+,
+,, the and the and,
+, and
+ the and, and,
+ the the and,, and,
+ the and the and
+ and
+
+,, and, the
+ and the the and
+
+,
+ the the and
+,,,, the the
+
+ the and the, the
+ the,
+ the, and
+, and
+ the,
+
+, and the the and the, the the,,,
+ the,
+ and
+ and and
+ the the
+ the
+ and,,, the and
+ and, the
+
+,
+ and and and and the and and and the
+
+ and and,,, the, the and the the
+
+ the
+ the the
+
+
+ the
+, and
+ the and, and the
+ and and and and the and and the the and the the the and,,
+ and,,
+, the the the and the and
+Epoch: 6, batch: 100 of 2168, loss: 5.430936512947082
+Epoch: 6, batch: 200 of 2168, loss: 5.414189028739929
+Epoch: 6, batch: 300 of 2168, loss: 5.404654150009155
+Epoch: 6, batch: 400 of 2168, loss: 5.379810194969178
+Epoch: 6, batch: 500 of 2168, loss: 5.41732006072998
+Epoch: 6, batch: 600 of 2168, loss: 5.424420418739319
+Epoch: 6, batch: 700 of 2168, loss: 5.43931640625
+Epoch: 6, batch: 800 of 2168, loss: 5.468708825111389
+Epoch: 6, batch: 900 of 2168, loss: 5.453285579681396
+Epoch: 6, batch: 1000 of 2168, loss: 5.449453353881836
+Epoch: 6, batch: 1100 of 2168, loss: 5.476340436935425
+Epoch: 6, batch: 1200 of 2168, loss: 5.451247081756592
+Epoch: 6, batch: 1300 of 2168, loss: 5.482634286880494
+Epoch: 6, batch: 1400 of 2168, loss: 5.460155000686646
+Epoch: 6, batch: 1500 of 2168, loss: 5.481256098747253
+Epoch: 6, batch: 1600 of 2168, loss: 5.4271037387847905
+Epoch: 6, batch: 1700 of 2168, loss: 5.4457208776474
+Epoch: 6, batch: 1800 of 2168, loss: 5.450163803100586
+Epoch: 6, batch: 1900 of 2168, loss: 5.44597647190094
+Epoch: 6, batch: 2000 of 2168, loss: 5.451671829223633
+Epoch: 6, batch: 2100 of 2168, loss: 5.459427356719971
+Epoch 6 done, here is a sample (creativity 4):
+jesus and
+, the
+ the the the
+
+ the
+,
+,
+, the and
+ the
+ the
+,
+ the
+
+,, the
+ and the
+ and the, the
+,, and, and and,
+ the and and,,
+ and
+,
+
+ the
+
+
+ the,, the, and,,
+ and, the
+
+,
+ the
+,
+ and,,
+ the
+ the
+
+ the and the, and the and and
+ the,
+ the
+, the
+
+,, and, the the, the and
+ the and the
+ the and the the the and the
+ the the, the and, and
+, and the
+,, and
+
+ the
+ the and, and and, and,,
+ and
+
+ and, the
+ the the,
+
+ and, and
+, the the,
+ and
+
+ and and the and
+ and and, and,, the,,
+Epoch: 7, batch: 100 of 2168, loss: 5.427562594413757
+Epoch: 7, batch: 200 of 2168, loss: 5.405942401885986
+Epoch: 7, batch: 300 of 2168, loss: 5.401313872337341
+Epoch: 7, batch: 400 of 2168, loss: 5.375679202079773
+Epoch: 7, batch: 500 of 2168, loss: 5.411558938026428
+Epoch: 7, batch: 600 of 2168, loss: 5.425046195983887
+Epoch: 7, batch: 700 of 2168, loss: 5.434457769393921
+Epoch: 7, batch: 800 of 2168, loss: 5.46345157623291
+Epoch: 7, batch: 900 of 2168, loss: 5.449399690628052
+Epoch: 7, batch: 1000 of 2168, loss: 5.446476106643677
+Epoch: 7, batch: 1100 of 2168, loss: 5.474623413085937
+Epoch: 7, batch: 1200 of 2168, loss: 5.446105141639709
+Epoch: 7, batch: 1300 of 2168, loss: 5.481035170555114
+Epoch: 7, batch: 1400 of 2168, loss: 5.456365547180176
+Epoch: 7, batch: 1500 of 2168, loss: 5.481089391708374
+Epoch: 7, batch: 1600 of 2168, loss: 5.425991625785827
+Epoch: 7, batch: 1700 of 2168, loss: 5.444061884880066
+Epoch: 7, batch: 1800 of 2168, loss: 5.4484834957122805
+Epoch: 7, batch: 1900 of 2168, loss: 5.4384044790267945
+Epoch: 7, batch: 2000 of 2168, loss: 5.449539151191711
+Epoch: 7, batch: 2100 of 2168, loss: 5.4542037916183475
+Epoch 7 done, here is a sample (creativity 2):
+jesus
+
+
+ the
+
+
+
+
+ the
+
+ the
+ the
+ the the the
+
+ the
+
+ the
+ the
+
+
+ the the the
+
+
+
+
+ the
+
+ the
+ the
+
+
+ the the
+
+ the
+ the the
+ the the the
+ the the the the
+
+ the the
+ the the
+ the the the
+
+ the
+ the the
+
+
+
+ the the the
+ the the
+
+ the
+ the
+ the
+
+ the
+ the the the
+
+
+ the
+
+
+
+ the the the
+
+ the
+
+ the
+ the
+ the
+
+
+
+ the the the
+
+ the
+ the
+ the the the
+ the the
+
+ the
+
+
+
+
+
+
+
+
+
+ the
+ the the
+
+
+
+ the
+ the the
+ the
+ the
+
+ the the the the the
+ the the the the
+
+
+
+
+
+
+
+ the
+ the
+
+ the
+Epoch: 8, batch: 100 of 2168, loss: 5.422352838516235
+Epoch: 8, batch: 200 of 2168, loss: 5.4069505262374875
+Epoch: 8, batch: 300 of 2168, loss: 5.395784244537354
+Epoch: 8, batch: 400 of 2168, loss: 5.373820915222168
+Epoch: 8, batch: 500 of 2168, loss: 5.410965991020203
+Epoch: 8, batch: 600 of 2168, loss: 5.422080230712891
+Epoch: 8, batch: 700 of 2168, loss: 5.429494695663452
+Epoch: 8, batch: 800 of 2168, loss: 5.459957332611084
+Epoch: 8, batch: 900 of 2168, loss: 5.445787754058838
+Epoch: 8, batch: 1000 of 2168, loss: 5.442792820930481
+Epoch: 8, batch: 1100 of 2168, loss: 5.468560838699341
+Epoch: 8, batch: 1200 of 2168, loss: 5.441716442108154
+Epoch: 8, batch: 1300 of 2168, loss: 5.483921585083007
+Epoch: 8, batch: 1400 of 2168, loss: 5.452764210700988
+Epoch: 8, batch: 1500 of 2168, loss: 5.480786380767822
+Epoch: 8, batch: 1600 of 2168, loss: 5.420636434555053
+Epoch: 8, batch: 1700 of 2168, loss: 5.440365395545959
+Epoch: 8, batch: 1800 of 2168, loss: 5.454573502540589
+Epoch: 8, batch: 1900 of 2168, loss: 5.450408840179444
+Epoch: 8, batch: 2000 of 2168, loss: 5.453821468353271
+Epoch: 8, batch: 2100 of 2168, loss: 5.458266367912293
+Epoch 8 done, here is a sample (creativity 2):
+jesus the the
+ the the the
+
+
+
+ the the the the the the
+
+
+
+
+
+ the
+ the
+ the
+
+
+ the the
+
+
+ the the
+
+ the
+
+
+
+ the
+
+
+
+ the the
+ the the
+ the the the
+
+ the
+ the
+
+ the
+
+ the
+
+ the the
+
+
+ the the
+
+ the the the the
+ the
+
+ the
+ the
+ the
+ the
+ the the the
+ the
+ the
+
+ the the the the the
+
+
+ the the
+
+ the
+
+ the the the
+
+
+ the the
+
+ the the the
+ the the
+ the the the the
+
+ the the the
+ the the the the
+ the
+
+
+ the the
+
+ the
+ the
+
+ the the the the
+ the the the the the
+ the
+
+ the
+ the
+ the
+
+ the the
+ the the the the
+
+
+ the the
+
+
+Epoch: 9, batch: 100 of 2168, loss: 5.431017503738404
+Epoch: 9, batch: 200 of 2168, loss: 5.413397536277771
+Epoch: 9, batch: 300 of 2168, loss: 5.405747551918029
+Epoch: 9, batch: 400 of 2168, loss: 5.379229669570923
+Epoch: 9, batch: 500 of 2168, loss: 5.417649741172791
+Epoch: 9, batch: 600 of 2168, loss: 5.427792439460754
+Epoch: 9, batch: 700 of 2168, loss: 5.440212559700012
+Epoch: 9, batch: 800 of 2168, loss: 5.469463300704956
+Epoch: 9, batch: 900 of 2168, loss: 5.452367725372315
+Epoch: 9, batch: 1000 of 2168, loss: 5.4548466730117795
+Epoch: 9, batch: 1100 of 2168, loss: 5.478299078941345
+Epoch: 9, batch: 1200 of 2168, loss: 5.447522568702698
+Epoch: 9, batch: 1300 of 2168, loss: 5.485135269165039
+Epoch: 9, batch: 1400 of 2168, loss: 5.455839376449585
+Epoch: 9, batch: 1500 of 2168, loss: 5.48498272895813
+Epoch: 9, batch: 1600 of 2168, loss: 5.426623778343201
+Epoch: 9, batch: 1700 of 2168, loss: 5.446758003234863
+Epoch: 9, batch: 1800 of 2168, loss: 5.455377550125122
+Epoch: 9, batch: 1900 of 2168, loss: 5.4461958122253415
+Epoch: 9, batch: 2000 of 2168, loss: 5.447514319419861
+Epoch: 9, batch: 2100 of 2168, loss: 5.45708167552948
+Epoch 9 done, here is a sample (creativity 3):
+jesus,
+,
+
+, the
+ the the
+,
+ the, the
+ the the the
+
+,,
+, the
+,
+ the the,
+ the
+, the, the the the the,,
+
+
+
+
+ the
+
+,,,,
+ the, the
+
+
+, the the the, the, the
+ the the the the
+
+
+
+ the the, the the,,,,
+ the
+ the the,,
+,, the
+
+ the,,
+
+
+ the,
+ the, the, the the
+,,
+,,,
+,,
+,
+ the the,,,,
+, the
+ the the,,
+ the, the,, the
+ the the
+,, the the the,, the, the the the the
+ the, the the the,, the,
+ the
+,
+ the
+ the the,
+,
+,
+,,,
+
+
+
+Epoch: 10, batch: 100 of 2168, loss: 5.427579588890076
+Epoch: 10, batch: 200 of 2168, loss: 5.413812208175659
+Epoch: 10, batch: 300 of 2168, loss: 5.406788301467896
+Epoch: 10, batch: 400 of 2168, loss: 5.37894763469696
+Epoch: 10, batch: 500 of 2168, loss: 5.415734248161316
+Epoch: 10, batch: 600 of 2168, loss: 5.426029667854309
+Epoch: 10, batch: 700 of 2168, loss: 5.435876693725586
+Epoch: 10, batch: 800 of 2168, loss: 5.467932004928588
+Epoch: 10, batch: 900 of 2168, loss: 5.450709199905395
+Epoch: 10, batch: 1000 of 2168, loss: 5.451734104156494
+Epoch: 10, batch: 1100 of 2168, loss: 5.475026550292969
+Epoch: 10, batch: 1200 of 2168, loss: 5.4449711561203005
+Epoch: 10, batch: 1300 of 2168, loss: 5.484292073249817
+Epoch: 10, batch: 1400 of 2168, loss: 5.450340013504029
+Epoch: 10, batch: 1500 of 2168, loss: 5.483643712997437
+Epoch: 10, batch: 1600 of 2168, loss: 5.426544799804687
+Epoch: 10, batch: 1700 of 2168, loss: 5.44225920677185
+Epoch: 10, batch: 1800 of 2168, loss: 5.4509362649917605
+Epoch: 10, batch: 1900 of 2168, loss: 5.4440885925292966
+Epoch: 10, batch: 2000 of 2168, loss: 5.444262146949768
+Epoch: 10, batch: 2100 of 2168, loss: 5.456577067375183
+Epoch 10 done, here is a sample (creativity 4):
+jesus, and
+, the, and,
+ and,
+ the and
+ the and, the and and and the and and the
+
+ the and,
+, and,
+ and, and and the and
+ and the,
+,
+
+, the, the and
+
+
+
+ and
+ and
+
+ and
+ and
+, the
+,
+ and and
+ and, the
+ and
+ and and
+ and
+ the the, the and and, the and
+ the,,
+
+ the the and,, and,
+
+, and
+,, and,
+,, the and, the
+ the
+,,,
+
+,
+, the the
+ and and and
+
+,
+ and,
+ and and and
+ the the,
+,
+, the
+ and and,
+
+ the and, the
+ and and
+,
+, and
+
+ and,
+ the
+
+ and and
+
+ the
+ the
+ and and the and,
+Epoch: 11, batch: 100 of 2168, loss: 5.426978569030762
+Epoch: 11, batch: 200 of 2168, loss: 5.410872993469238
+Epoch: 11, batch: 300 of 2168, loss: 5.403732380867004
+Epoch: 11, batch: 400 of 2168, loss: 5.378417959213257
+Epoch: 11, batch: 500 of 2168, loss: 5.412617478370667
+Epoch: 11, batch: 600 of 2168, loss: 5.423063349723816
+Epoch: 11, batch: 700 of 2168, loss: 5.433921437263489
+Epoch: 11, batch: 800 of 2168, loss: 5.464301671981811
+Epoch: 11, batch: 900 of 2168, loss: 5.4492786693573
+Epoch: 11, batch: 1000 of 2168, loss: 5.447700266838074
+Epoch: 11, batch: 1100 of 2168, loss: 5.47281596660614
+Epoch: 11, batch: 1200 of 2168, loss: 5.444173111915588
+Epoch: 11, batch: 1300 of 2168, loss: 5.48043357372284
+Epoch: 11, batch: 1400 of 2168, loss: 5.446479659080506
+Epoch: 11, batch: 1500 of 2168, loss: 5.482308773994446
+Epoch: 11, batch: 1600 of 2168, loss: 5.424987807273864
+Epoch: 11, batch: 1700 of 2168, loss: 5.440607914924621
+Epoch: 11, batch: 1800 of 2168, loss: 5.446933941841126
+Epoch: 11, batch: 1900 of 2168, loss: 5.442397804260254
+Epoch: 11, batch: 2000 of 2168, loss: 5.445297212600708
+Epoch: 11, batch: 2100 of 2168, loss: 5.452697215080261
+Epoch 11 done, here is a sample (creativity 2):
+jesus
+
+ the the
+
+
+ the
+
+ the the the
+
+
+
+ the
+
+ the
+ the the the the the
+ the the the
+ the
+ the the the the
+ the
+ the the the
+
+
+ the the
+ the
+ the
+ the
+
+
+
+ the the
+ the
+
+ the the
+ the
+
+ the
+ the the
+
+ the the
+ the the the the
+
+
+
+ the
+ the
+
+
+
+
+
+ the the
+ the
+ the
+
+
+ the
+ the
+ the
+
+ the
+
+ the the
+ the
+
+
+
+
+ the
+
+ the the the the
+ the the
+ the the
+ the
+
+
+
+ the
+ the
+ the the the
+ the the the
+
+ the
+ the the the
+
+
+ the the
+ the
+
+ the
+ the
+
+
+
+
+
+ the
+ the the
+ the
+
+ the
+
+ the
+
+ the
+
+ the the
+
+Epoch: 12, batch: 100 of 2168, loss: 5.4305286741256715
+Epoch: 12, batch: 200 of 2168, loss: 5.413421583175659
+Epoch: 12, batch: 300 of 2168, loss: 5.402288084030151
+Epoch: 12, batch: 400 of 2168, loss: 5.376339583396912
+Epoch: 12, batch: 500 of 2168, loss: 5.407488608360291
+Epoch: 12, batch: 600 of 2168, loss: 5.421238079071045
+Epoch: 12, batch: 700 of 2168, loss: 5.4340547895431515
+Epoch: 12, batch: 800 of 2168, loss: 5.462988119125367
+Epoch: 12, batch: 900 of 2168, loss: 5.448549256324768
+Epoch: 12, batch: 1000 of 2168, loss: 5.444123587608337
+Epoch: 12, batch: 1100 of 2168, loss: 5.471131219863891
+Epoch: 12, batch: 1200 of 2168, loss: 5.440880298614502
+Epoch: 12, batch: 1300 of 2168, loss: 5.478159465789795
+Epoch: 12, batch: 1400 of 2168, loss: 5.446387071609497
+Epoch: 12, batch: 1500 of 2168, loss: 5.47986792087555
+Epoch: 12, batch: 1600 of 2168, loss: 5.423747854232788
+Epoch: 12, batch: 1700 of 2168, loss: 5.439731826782227
+Epoch: 12, batch: 1800 of 2168, loss: 5.451171045303345
+Epoch: 12, batch: 1900 of 2168, loss: 5.441237626075744
+Epoch: 12, batch: 2000 of 2168, loss: 5.447291569709778
+Epoch: 12, batch: 2100 of 2168, loss: 5.449920382499695
+Epoch 12 done, here is a sample (creativity 5):
+jesus,,: the and
+ and,, and
+: and: the, the the,
+ and
+ the and the
+
+ the the the and, the
+: and, the
+ the:, the
+: the,,
+, the
+
+::
+
+ the the and the and
+: and the: the: the:,,:, the: the and the
+ and: the and and, the and:,,,:: and and and
+
+, the the the: and the:
+
+ the
+
+
+,: the, the,
+ the the: and and
+ the and
+:
+ the,: and the: the:, the
+,: the the and, the,,:
+, the
+, and
+:,
+
+,
+
+, the:::, and:: and the the the
+ and the
+:: and the the the
+ the the,
+
+ and:
+
+
+Epoch: 13, batch: 100 of 2168, loss: 5.424913058280945
+Epoch: 13, batch: 200 of 2168, loss: 5.41107672214508
+Epoch: 13, batch: 300 of 2168, loss: 5.4001966381073
+Epoch: 13, batch: 400 of 2168, loss: 5.372001605033875
+Epoch: 13, batch: 500 of 2168, loss: 5.407857718467713
+Epoch: 13, batch: 600 of 2168, loss: 5.420361928939819
+Epoch: 13, batch: 700 of 2168, loss: 5.4320615816116335
+Epoch: 13, batch: 800 of 2168, loss: 5.45969398021698
+Epoch: 13, batch: 900 of 2168, loss: 5.445908417701721
+Epoch: 13, batch: 1000 of 2168, loss: 5.439732580184937
+Epoch: 13, batch: 1100 of 2168, loss: 5.469414405822754
+Epoch: 13, batch: 1200 of 2168, loss: 5.4381649827957155
+Epoch: 13, batch: 1300 of 2168, loss: 5.475472931861877
+Epoch: 13, batch: 1400 of 2168, loss: 5.4453347969055175
+Epoch: 13, batch: 1500 of 2168, loss: 5.478850793838501
+Epoch: 13, batch: 1600 of 2168, loss: 5.42122718334198
+Epoch: 13, batch: 1700 of 2168, loss: 5.439018144607544
+Epoch: 13, batch: 1800 of 2168, loss: 5.445770978927612
+Epoch: 13, batch: 1900 of 2168, loss: 5.440611271858216
+Epoch: 13, batch: 2000 of 2168, loss: 5.4451782464981076
+Epoch: 13, batch: 2100 of 2168, loss: 5.448642477989197
+Epoch 13 done, here is a sample (creativity 5):
+jesus:, the:: and
+ and:
+ the the:, the the the
+:
+:,
+: the:, the:: the,,: the
+, and the:: and
+ the the,,
+ and and
+:
+, the, the, the: and and the,:,:
+ the and,,
+
+ and,, the and the the and:
+:
+ the,,,, and
+:
+,::,: and,,,, and and: and::,, and the
+ and
+ the:
+:
+ the,,,::, and
+
+,
+,,
+: and
+,,:
+,
+
+ the
+
+ and, and::
+
+:: and and and and
+, the and, and:: and and the the the
+,: and,: the
+ and,, the the the the and:
+
+ the,, and
+Epoch: 14, batch: 100 of 2168, loss: 5.424812421798706
+Epoch: 14, batch: 200 of 2168, loss: 5.409004096984863
+Epoch: 14, batch: 300 of 2168, loss: 5.399261407852173
+Epoch: 14, batch: 400 of 2168, loss: 5.3680276107788085
+Epoch: 14, batch: 500 of 2168, loss: 5.406719179153442
+Epoch: 14, batch: 600 of 2168, loss: 5.4179430055618285
+Epoch: 14, batch: 700 of 2168, loss: 5.429135622978211
+Epoch: 14, batch: 800 of 2168, loss: 5.458224601745606
+Epoch: 14, batch: 900 of 2168, loss: 5.443207931518555
+Epoch: 14, batch: 1000 of 2168, loss: 5.437541851997375
+Epoch: 14, batch: 1100 of 2168, loss: 5.469233355522156
+Epoch: 14, batch: 1200 of 2168, loss: 5.435232315063477
+Epoch: 14, batch: 1300 of 2168, loss: 5.474365768432617
+Epoch: 14, batch: 1400 of 2168, loss: 5.443170199394226
+Epoch: 14, batch: 1500 of 2168, loss: 5.476197919845581
+Epoch: 14, batch: 1600 of 2168, loss: 5.4189725112915035
+Epoch: 14, batch: 1700 of 2168, loss: 5.438733158111572
+Epoch: 14, batch: 1800 of 2168, loss: 5.442321424484253
+Epoch: 14, batch: 1900 of 2168, loss: 5.436208148002624
+Epoch: 14, batch: 2000 of 2168, loss: 5.4442400550842285
+Epoch: 14, batch: 2100 of 2168, loss: 5.44801420211792
+Epoch 14 done, here is a sample (creativity 3):
+jesus,, the the, the
+ the, the
+,
+
+,
+, the,, the
+
+, the the,
+, the
+ the
+
+ the, the
+,
+ the
+, the
+
+ the
+, the the, the the the the,, the,
+ the,, the the,
+ the
+, the
+ the
+
+ the the
+,,,
+ the the
+
+ the the the the the
+
+,
+
+,,,,, the
+ the the
+, the
+
+ the,,,,,, the
+ the, the,
+,,,,
+,
+ the the, the
+, the the, the, the the,
+,,,
+,
+,,, the,
+
+
+ the, the,
+ the
+,
+, the
+ the
+, the the the
+
+ the
+, the
+,
+,,,
+
+
+
+ the
+ the,,
+Epoch: 15, batch: 100 of 2168, loss: 5.423893170356751
+Epoch: 15, batch: 200 of 2168, loss: 5.408098850250244
+Epoch: 15, batch: 300 of 2168, loss: 5.394888763427734
+Epoch: 15, batch: 400 of 2168, loss: 5.365525517463684
+Epoch: 15, batch: 500 of 2168, loss: 5.405812835693359
+Epoch: 15, batch: 600 of 2168, loss: 5.4150143194198606
+Epoch: 15, batch: 700 of 2168, loss: 5.428299913406372
+Epoch: 15, batch: 800 of 2168, loss: 5.457523217201233
+Epoch: 15, batch: 900 of 2168, loss: 5.441282625198364
+Epoch: 15, batch: 1000 of 2168, loss: 5.437881379127503
+Epoch: 15, batch: 1100 of 2168, loss: 5.468838973045349
+Epoch: 15, batch: 1200 of 2168, loss: 5.433010234832763
+Epoch: 15, batch: 1300 of 2168, loss: 5.473135380744934
+Epoch: 15, batch: 1400 of 2168, loss: 5.4415435171127315
+Epoch: 15, batch: 1500 of 2168, loss: 5.476637892723083
+Epoch: 15, batch: 1600 of 2168, loss: 5.417271580696106
+Epoch: 15, batch: 1700 of 2168, loss: 5.4372004842758175
+Epoch: 15, batch: 1800 of 2168, loss: 5.442077298164367
+Epoch: 15, batch: 1900 of 2168, loss: 5.435654482841492
+Epoch: 15, batch: 2000 of 2168, loss: 5.441764631271362
+Epoch: 15, batch: 2100 of 2168, loss: 5.4456432437896725
+Epoch 15 done, here is a sample (creativity 4):
+jesus the
+, and
+,,
+ and and,, the and
+ the, and,,,,
+,,
+ the the
+,
+ and, the, the
+, the and the,, and the and,, and and the and and and
+ and,
+,
+ and, and, and, and
+ and and
+ and,, the
+ the
+,, and,
+ and
+
+,, and
+
+, and the and the, the,, the and and, and, the, and,
+
+ the, the the
+
+,
+
+ the and and
+,
+
+, the, the the and
+ and and the
+ and,,, the,
+,
+ and
+,
+, and and and
+
+ the and,, the,,, and
+ and the,
+
+ the and,, and the,,,
+ the, and and
+ and the, and,
+
+, the, the,
+Epoch: 16, batch: 100 of 2168, loss: 5.420082983970642
+Epoch: 16, batch: 200 of 2168, loss: 5.409973678588867
+Epoch: 16, batch: 300 of 2168, loss: 5.3962502813339235
+Epoch: 16, batch: 400 of 2168, loss: 5.362612743377685
+Epoch: 16, batch: 500 of 2168, loss: 5.404150772094726
+Epoch: 16, batch: 600 of 2168, loss: 5.415997238159179
+Epoch: 16, batch: 700 of 2168, loss: 5.427473816871643
+Epoch: 16, batch: 800 of 2168, loss: 5.455856232643128
+Epoch: 16, batch: 900 of 2168, loss: 5.439876747131348
+Epoch: 16, batch: 1000 of 2168, loss: 5.433301587104797
+Epoch: 16, batch: 1100 of 2168, loss: 5.467875618934631
+Epoch: 16, batch: 1200 of 2168, loss: 5.431052670478821
+Epoch: 16, batch: 1300 of 2168, loss: 5.47118570804596
+Epoch: 16, batch: 1400 of 2168, loss: 5.446914710998535
+Epoch: 16, batch: 1500 of 2168, loss: 5.475370759963989
+Epoch: 16, batch: 1600 of 2168, loss: 5.41649176120758
+Epoch: 16, batch: 1700 of 2168, loss: 5.438374390602112
+Epoch: 16, batch: 1800 of 2168, loss: 5.4412679195404055
+Epoch: 16, batch: 1900 of 2168, loss: 5.434180064201355
+Epoch: 16, batch: 2000 of 2168, loss: 5.44156123638153
+Epoch: 16, batch: 2100 of 2168, loss: 5.444145522117615
+Epoch 16 done, here is a sample (creativity 4):
+jesus the the the the
+,,
+,,, the
+ the the,
+ and the and
+ the
+
+ the and
+
+ and and,,
+
+,,
+, the,
+ and,, and and and, the and, and and
+ and
+,,
+
+,
+
+ the the, the
+
+,
+ and the and and and the the
+
+, the the
+ and and
+, and the and the and and the and the, the,,
+, the,,, the and
+ the the the the the
+,, the
+ and the,
+
+ the
+ and, the,
+ and, and and and
+
+ and and and
+ the
+ and
+,
+ the and
+ and and the
+ and the
+ and and and
+,, and the,
+
+
+ the
+,
+, the and
+
+
+
+,, the, the and, the
+, and and the
+ and the and
+
+Epoch: 17, batch: 100 of 2168, loss: 5.418229804039002
+Epoch: 17, batch: 200 of 2168, loss: 5.408440709114075
+Epoch: 17, batch: 300 of 2168, loss: 5.3924652862548825
+Epoch: 17, batch: 400 of 2168, loss: 5.362081108093261
+Epoch: 17, batch: 500 of 2168, loss: 5.403168315887451
+Epoch: 17, batch: 600 of 2168, loss: 5.414515795707703
+Epoch: 17, batch: 700 of 2168, loss: 5.428954238891602
+Epoch: 17, batch: 800 of 2168, loss: 5.454411544799805
+Epoch: 17, batch: 900 of 2168, loss: 5.439461884498596
+Epoch: 17, batch: 1000 of 2168, loss: 5.432685403823853
+Epoch: 17, batch: 1100 of 2168, loss: 5.4660881233215335
+Epoch: 17, batch: 1200 of 2168, loss: 5.430013885498047
+Epoch: 17, batch: 1300 of 2168, loss: 5.4739522457122805
+Epoch: 17, batch: 1400 of 2168, loss: 5.446989469528198
+Epoch: 17, batch: 1500 of 2168, loss: 5.473710713386535
+Epoch: 17, batch: 1600 of 2168, loss: 5.416493821144104
+Epoch: 17, batch: 1700 of 2168, loss: 5.437259130477905
+Epoch: 17, batch: 1800 of 2168, loss: 5.438309388160706
+Epoch: 17, batch: 1900 of 2168, loss: 5.433970627784729
+Epoch: 17, batch: 2000 of 2168, loss: 5.439914679527282
+Epoch: 17, batch: 2100 of 2168, loss: 5.445886082649231
+Epoch 17 done, here is a sample (creativity 5):
+jesus the and::
+,:
+
+ the and
+ the and
+ and the the:
+ and the
+:: and
+ and: and the and:,,
+ and the the
+,, the and,: the:: the:
+ and and the,
+: and the the and,
+
+ the
+:
+ the the:
+ and:
+ and
+::
+ and the and: and,: and and
+ and,
+ the, and,, the: the and: and and:: and
+,
+ the the:
+: the and: and
+,,:
+, and and
+ and and and: and and the and:, the,::,
+, the,
+
+ and
+
+ the and
+: and,:: the
+, and:,,, and, the and the
+
+
+,, the
+
+
+:
+: the,,::,
+ the,
+ the
+ and
+Epoch: 18, batch: 100 of 2168, loss: 5.418808655738831
+Epoch: 18, batch: 200 of 2168, loss: 5.4051215982437135
+Epoch: 18, batch: 300 of 2168, loss: 5.373486642837524
+Epoch: 18, batch: 400 of 2168, loss: 5.140715112686157
+Epoch: 18, batch: 500 of 2168, loss: 5.088162031173706
+Epoch: 18, batch: 600 of 2168, loss: 5.079907641410828
+Epoch: 18, batch: 700 of 2168, loss: 5.085134081840515
+Epoch: 18, batch: 800 of 2168, loss: 5.099476408958435
+Epoch: 18, batch: 900 of 2168, loss: 5.081529088020325
+Epoch: 18, batch: 1000 of 2168, loss: 5.081605811119079
+Epoch: 18, batch: 1100 of 2168, loss: 5.118245854377746
+Epoch: 18, batch: 1200 of 2168, loss: 5.070497713088989
+Epoch: 18, batch: 1300 of 2168, loss: 5.1213532114028935
+Epoch: 18, batch: 1400 of 2168, loss: 5.083184728622436
+Epoch: 18, batch: 1500 of 2168, loss: 5.110636510848999
+Epoch: 18, batch: 1600 of 2168, loss: 5.03209846496582
+Epoch: 18, batch: 1700 of 2168, loss: 5.0633495330810545
+Epoch: 18, batch: 1800 of 2168, loss: 5.064762530326843
+Epoch: 18, batch: 1900 of 2168, loss: 5.065657510757446
+Epoch: 18, batch: 2000 of 2168, loss: 5.07378351688385
+Epoch: 18, batch: 2100 of 2168, loss: 5.077889461517334
+Epoch 18 done, here is a sample (creativity 4):
+jesus
+, the the and
+ the and,
+ and the, and the the and
+ and,
+, and, and and
+,,, and
+ the the
+ the and
+ and the,
+ the,
+ and and
+ and,,,, and
+, the the
+, the and and, the and, the
+ and,,
+
+,
+
+, and
+,
+, and, the
+ the the and the the, and the, the the, and,, and the,
+ and
+, the and and, the
+, the the and,,,,, the and, the
+, the the
+ the the,, the and
+, and and the the
+ and
+ the the and and,, the and and and, and,
+ the and the the the
+, the,
+
+
+ and and the the,
+
+,
+ the, and the
+,
+ the
+
+ the,
+ the the,,
+Epoch: 19, batch: 100 of 2168, loss: 5.078524603843689
+Epoch: 19, batch: 200 of 2168, loss: 5.0692771673202515
+Epoch: 19, batch: 300 of 2168, loss: 5.050429935455322
+Epoch: 19, batch: 400 of 2168, loss: 5.0045754337310795
+Epoch: 19, batch: 500 of 2168, loss: 5.043324103355408
+Epoch: 19, batch: 600 of 2168, loss: 5.044522786140442
+Epoch: 19, batch: 700 of 2168, loss: 5.062671027183533
+Epoch: 19, batch: 800 of 2168, loss: 5.0785874032974245
+Epoch: 19, batch: 900 of 2168, loss: 5.054360589981079
+Epoch: 19, batch: 1000 of 2168, loss: 5.0651080656051635
+Epoch: 19, batch: 1100 of 2168, loss: 5.101866817474365
+Epoch: 19, batch: 1200 of 2168, loss: 5.052633266448975
+Epoch: 19, batch: 1300 of 2168, loss: 5.1049771928787235
+Epoch: 19, batch: 1400 of 2168, loss: 5.0692305707931515
+Epoch: 19, batch: 1500 of 2168, loss: 5.0986917781829835
+Epoch: 19, batch: 1600 of 2168, loss: 5.019609212875366
+Epoch: 19, batch: 1700 of 2168, loss: 5.054197463989258
+Epoch: 19, batch: 1800 of 2168, loss: 5.0549376010894775
+Epoch: 19, batch: 1900 of 2168, loss: 5.055835537910461
+Epoch: 19, batch: 2000 of 2168, loss: 5.064878263473511
+Epoch: 19, batch: 2100 of 2168, loss: 5.071925506591797
+Epoch 19 done, here is a sample (creativity 3):
+jesus, and the and,, the,, the,,, the
+, the the,, the
+
+
+ the the
+
+,,
+
+,
+
+ the
+ the,
+
+ the, the
+, the
+,,,
+,, the the,,,
+,,,
+ the
+ the the the,
+ the,
+ the the,,,,,, the
+,
+
+,, the the, the
+ the the the,
+
+, the the
+ the the
+
+,,
+,, the
+,,,
+,,
+, the,
+
+ the the
+,
+ the the the
+ the the, the,
+, the
+, the the the,,
+
+
+,
+
+
+ the, the, the, the
+,
+
+ the the the,,,,
+ the
+
+
+ the
+
+
+ the, the,
+ the
+
+
+
+
+
+,
+ the
+Epoch: 20, batch: 100 of 2168, loss: 5.07077832698822
+Epoch: 20, batch: 200 of 2168, loss: 5.059994840621949
+Epoch: 20, batch: 300 of 2168, loss: 5.049187793731689
+Epoch: 20, batch: 400 of 2168, loss: 4.9983448314666745
+Epoch: 20, batch: 500 of 2168, loss: 5.038005890846253
+Epoch: 20, batch: 600 of 2168, loss: 5.0407587337493895
+Epoch: 20, batch: 700 of 2168, loss: 5.057045903205871
+Epoch: 20, batch: 800 of 2168, loss: 5.067807197570801
+Epoch: 20, batch: 900 of 2168, loss: 5.04280827999115
+Epoch: 20, batch: 1000 of 2168, loss: 5.0595436811447145
+Epoch: 20, batch: 1100 of 2168, loss: 5.095248169898987
+Epoch: 20, batch: 1200 of 2168, loss: 5.041645741462707
+Epoch: 20, batch: 1300 of 2168, loss: 5.097440257072448
+Epoch: 20, batch: 1400 of 2168, loss: 5.060790281295777
+Epoch: 20, batch: 1500 of 2168, loss: 5.092584862709045
+Epoch: 20, batch: 1600 of 2168, loss: 5.013650441169739
+Epoch: 20, batch: 1700 of 2168, loss: 5.048040103912354
+Epoch: 20, batch: 1800 of 2168, loss: 5.048340830802918
+Epoch: 20, batch: 1900 of 2168, loss: 5.051582698822021
+Epoch: 20, batch: 2000 of 2168, loss: 5.056906642913819
+Epoch: 20, batch: 2100 of 2168, loss: 5.063777017593384
+Epoch 20 done, here is a sample (creativity 2):
+jesus the the,, the the, the, the,, the the,, the,, the, the the,, the,, the,, the,, the, the,, the, the, the,, the the the,, the,, the, the the,,,,,, the the, the the,,,,, the, the,,, the the, the the the, the,, the, the the the the, the, the,,, the the, the the the,, the the,,, the the,, the,, the the, the, the,, the the the,,, the, the the, the the, the,,,, the the the the the the the,,,,, the the the, the the the the the the the the the the,,,, the the,, the,,,, the,, the, the the the the, the
+Epoch: 21, batch: 100 of 2168, loss: 5.061147150993347
+Epoch: 21, batch: 200 of 2168, loss: 5.056249046325684
+Epoch: 21, batch: 300 of 2168, loss: 5.036063756942749
+Epoch: 21, batch: 400 of 2168, loss: 4.992506580352783
+Epoch: 21, batch: 500 of 2168, loss: 5.029729695320129
+Epoch: 21, batch: 600 of 2168, loss: 5.033975086212158
+Epoch: 21, batch: 700 of 2168, loss: 5.049522881507873
+Epoch: 21, batch: 800 of 2168, loss: 5.060353903770447
+Epoch: 21, batch: 900 of 2168, loss: 5.034960355758667
+Epoch: 21, batch: 1000 of 2168, loss: 5.046306385993957
+Epoch: 21, batch: 1100 of 2168, loss: 5.087197546958923
+Epoch: 21, batch: 1200 of 2168, loss: 5.04148561000824
+Epoch: 21, batch: 1300 of 2168, loss: 5.092827444076538
+Epoch: 21, batch: 1400 of 2168, loss: 5.053602933883667
+Epoch: 21, batch: 1500 of 2168, loss: 5.085280594825744
+Epoch: 21, batch: 1600 of 2168, loss: 5.007343916893006
+Epoch: 21, batch: 1700 of 2168, loss: 5.038291983604431
+Epoch: 21, batch: 1800 of 2168, loss: 5.0428888130187985
+Epoch: 21, batch: 1900 of 2168, loss: 5.043934726715088
+Epoch: 21, batch: 2000 of 2168, loss: 5.050688738822937
+Epoch: 21, batch: 2100 of 2168, loss: 5.059136810302735
+Epoch 21 done, here is a sample (creativity 5):
+jesus the the
+
+ and the of of the
+
+ and the the and and, of
+ of and
+ the and, the, of
+,
+ of
+ the the
+
+ and, of, the of and and and of of of and the and, the and of
+ the,
+ of
+ the of of, the
+ of and
+
+ the and, of the and and of, and and the
+
+
+
+, and
+,, of of the
+ and,,, and the,
+ and and
+ of of of, and of of
+ and the of
+
+ of and, of the
+
+ of
+ the and
+ and
+ the the and and of of,, and, and and of, the of and,
+ the the the,
+ the,,, and
+ of the, and the
+,
+, of of and of of
+ of the,
+ of the of
+ of,
+ the and and and
+ and
+ of and
+Epoch: 22, batch: 100 of 2168, loss: 5.060194249153137
+Epoch: 22, batch: 200 of 2168, loss: 5.061210370063781
+Epoch: 22, batch: 300 of 2168, loss: 5.035491180419922
+Epoch: 22, batch: 400 of 2168, loss: 4.991242899894714
+Epoch: 22, batch: 500 of 2168, loss: 5.031473989486694
+Epoch: 22, batch: 600 of 2168, loss: 5.034971790313721
+Epoch: 22, batch: 700 of 2168, loss: 5.04572114944458
+Epoch: 22, batch: 800 of 2168, loss: 5.055476484298706
+Epoch: 22, batch: 900 of 2168, loss: 5.032096495628357
+Epoch: 22, batch: 1000 of 2168, loss: 5.041211242675781
+Epoch: 22, batch: 1100 of 2168, loss: 5.083782911300659
+Epoch: 22, batch: 1200 of 2168, loss: 5.032975797653198
+Epoch: 22, batch: 1300 of 2168, loss: 5.091177444458008
+Epoch: 22, batch: 1400 of 2168, loss: 5.049358096122742
+Epoch: 22, batch: 1500 of 2168, loss: 5.0815281534194945
+Epoch: 22, batch: 1600 of 2168, loss: 5.003171367645264
+Epoch: 22, batch: 1700 of 2168, loss: 5.0358655834198
+Epoch: 22, batch: 1800 of 2168, loss: 5.0380043697357175
+Epoch: 22, batch: 1900 of 2168, loss: 5.040030064582825
+Epoch: 22, batch: 2000 of 2168, loss: 5.043333029747009
+Epoch: 22, batch: 2100 of 2168, loss: 5.050874805450439
+Epoch 22 done, here is a sample (creativity 4):
+jesus and,
+
+
+ the
+ the the, and
+ the,
+ and
+,
+
+, the
+, and, the,
+,
+ and and, and,, and the and
+ and and,
+ and and the, the,,,,
+ the
+
+
+ the
+ the, the and,
+,
+
+, and, and the
+ and and and, and
+ the and and the and and
+ and
+ the the
+ and
+,, the
+ the and
+
+
+
+ and the and and
+
+,
+,
+ the and the, and and and and the
+ and,
+, the,,, and and, the
+ the
+ the and the,
+ the
+
+, and and the
+
+, the
+
+ the
+ and and the, the
+ and the, and the
+, and
+ and,
+,,,,,, and
+ the
+ and,
+, and
+, the
+,
+
+Epoch: 23, batch: 100 of 2168, loss: 5.048762397766113
+Epoch: 23, batch: 200 of 2168, loss: 5.049012584686279
+Epoch: 23, batch: 300 of 2168, loss: 5.022701287269593
+Epoch: 23, batch: 400 of 2168, loss: 4.981120252609253
+Epoch: 23, batch: 500 of 2168, loss: 5.023429074287415
+Epoch: 23, batch: 600 of 2168, loss: 5.025514068603516
+Epoch: 23, batch: 700 of 2168, loss: 5.038647656440735
+Epoch: 23, batch: 800 of 2168, loss: 5.046383504867554
+Epoch: 23, batch: 900 of 2168, loss: 5.024356236457825
+Epoch: 23, batch: 1000 of 2168, loss: 5.030448131561279
+Epoch: 23, batch: 1100 of 2168, loss: 5.073951368331909
+Epoch: 23, batch: 1200 of 2168, loss: 5.023725385665894
+Epoch: 23, batch: 1300 of 2168, loss: 5.07683159828186
+Epoch: 23, batch: 1400 of 2168, loss: 5.048125805854798
+Epoch: 23, batch: 1500 of 2168, loss: 5.084691972732544
+Epoch: 23, batch: 1600 of 2168, loss: 4.999029998779297
+Epoch: 23, batch: 1700 of 2168, loss: 5.029645400047302
+Epoch: 23, batch: 1800 of 2168, loss: 5.028571367263794
+Epoch: 23, batch: 1900 of 2168, loss: 5.036132893562317
+Epoch: 23, batch: 2000 of 2168, loss: 5.0404994010925295
+Epoch: 23, batch: 2100 of 2168, loss: 5.048371195793152
+Epoch 23 done, here is a sample (creativity 2):
+jesus, the,, the, the,,
+, the,,,,, the,, the the the,, the the the, the the the the the the the the the, the the the,, the the, the the,, the the, the, the the the the the,, the, the the the,, the the, the the, the,, the the, the,, the the,, the,,, the the, the,, the the the,,, the, the the the the,, the,,,,,,, the, the the the, the,, the the the, the, the the,, the, the,, the, the the the the, the the the, the the the,,,, the,, the the,,,, the the the the the, the,,,,, the the, the the,,, the, the the, the the the
+Epoch: 24, batch: 100 of 2168, loss: 5.040013766288757
+Epoch: 24, batch: 200 of 2168, loss: 5.039069061279297
+Epoch: 24, batch: 300 of 2168, loss: 5.013395619392395
+Epoch: 24, batch: 400 of 2168, loss: 4.969369626045227
+Epoch: 24, batch: 500 of 2168, loss: 5.009065270423889
+Epoch: 24, batch: 600 of 2168, loss: 5.013826994895935
+Epoch: 24, batch: 700 of 2168, loss: 5.0261602878570555
+Epoch: 24, batch: 800 of 2168, loss: 5.0364191579818725
+Epoch: 24, batch: 900 of 2168, loss: 5.012886791229248
+Epoch: 24, batch: 1000 of 2168, loss: 5.023966546058655
+Epoch: 24, batch: 1100 of 2168, loss: 5.063845806121826
+Epoch: 24, batch: 1200 of 2168, loss: 5.017288794517517
+Epoch: 24, batch: 1300 of 2168, loss: 5.063340139389038
+Epoch: 24, batch: 1400 of 2168, loss: 5.035149555206299
+Epoch: 24, batch: 1500 of 2168, loss: 5.068907608985901
+Epoch: 24, batch: 1600 of 2168, loss: 4.9857014417648315
+Epoch: 24, batch: 1700 of 2168, loss: 5.01452790260315
+Epoch: 24, batch: 1800 of 2168, loss: 5.012811713218689
+Epoch: 24, batch: 1900 of 2168, loss: 5.023883013725281
+Epoch: 24, batch: 2000 of 2168, loss: 5.029727635383606
+Epoch: 24, batch: 2100 of 2168, loss: 5.035874543190002
+Epoch 24 done, here is a sample (creativity 3):
+jesus
+, and and,
+ the
+ the,, the the the,, the the the
+ the
+, the
+
+
+,, the
+,
+
+
+, the, the
+ the,, the, the the
+
+ the the the
+,
+
+,
+
+, the the, the,
+
+, the the the, the
+, the the the, the,
+
+
+
+
+
+,
+,
+ the the,
+, the
+ the the,
+, the, the, the the, the the the,,
+,,
+ the
+
+
+ the, the,,,, the
+,
+ the the
+
+,
+, the,
+
+,
+
+ the
+
+
+ the
+ the
+, the, the the,, the
+ the
+
+
+ the,
+
+ the the the,, the
+ the the the
+,
+
+
+, the,
+
+
+,,
+,
+,
+Epoch: 25, batch: 100 of 2168, loss: 5.033725724220276
+Epoch: 25, batch: 200 of 2168, loss: 5.033576698303222
+Epoch: 25, batch: 300 of 2168, loss: 5.007857995033264
+Epoch: 25, batch: 400 of 2168, loss: 4.964204998016357
+Epoch: 25, batch: 500 of 2168, loss: 5.003997850418091
+Epoch: 25, batch: 600 of 2168, loss: 5.009766316413879
+Epoch: 25, batch: 700 of 2168, loss: 5.021595273017883
+Epoch: 25, batch: 800 of 2168, loss: 5.031505780220032
+Epoch: 25, batch: 900 of 2168, loss: 5.009742646217346
+Epoch: 25, batch: 1000 of 2168, loss: 5.017473936080933
+Epoch: 25, batch: 1100 of 2168, loss: 5.061937308311462
+Epoch: 25, batch: 1200 of 2168, loss: 5.0126620864868165
+Epoch: 25, batch: 1300 of 2168, loss: 5.058144221305847
+Epoch: 25, batch: 1400 of 2168, loss: 5.029787912368774
+Epoch: 25, batch: 1500 of 2168, loss: 5.066228709220886
+Epoch: 25, batch: 1600 of 2168, loss: 4.982302708625793
+Epoch: 25, batch: 1700 of 2168, loss: 5.010736317634582
+Epoch: 25, batch: 1800 of 2168, loss: 5.007595891952515
+Epoch: 25, batch: 1900 of 2168, loss: 5.020632472038269
+Epoch: 25, batch: 2000 of 2168, loss: 5.023737382888794
+Epoch: 25, batch: 2100 of 2168, loss: 4.934377274513245
+Epoch 25 done, here is a sample (creativity 4):
+jesus the the
+ the of of of, for, 4 and of the the
+ the, and
+
+, that
+ the, the: and the
+ of the,
+ amen
+,
+ the: 4 the
+ of of, that,
+ and the, and
+ of of, that, and and, the, 4: and and
+ the the the the the the. selah they answered, the: and and, that of the
+ of of the of of, for they of of. and all
+, s the
+, the the
+ the
+,
+ the the and of of.
+
+ 22 all 3 the they, and of, and, and: the the
+ the,
+ for: 4,
+ the:
+ and,
+ and, the: the,
+ the the, and, the:
+ and,
+
+ 68 of the,
+
+ 68 the, the
+
+
+, the,
+ for
+ the of, and
+ of
+.
+Epoch: 26, batch: 100 of 2168, loss: 4.865588045120239
+Epoch: 26, batch: 200 of 2168, loss: 4.8499372816085815
+Epoch: 26, batch: 300 of 2168, loss: 4.815508165359497
+Epoch: 26, batch: 400 of 2168, loss: 4.776806659698487
+Epoch: 26, batch: 500 of 2168, loss: 4.798014969825744
+Epoch: 26, batch: 600 of 2168, loss: 4.78731677532196
+Epoch: 26, batch: 700 of 2168, loss: 4.788371543884278
+Epoch: 26, batch: 800 of 2168, loss: 4.807089371681213
+Epoch: 26, batch: 900 of 2168, loss: 4.792754292488098
+Epoch: 26, batch: 1000 of 2168, loss: 4.784445424079895
+Epoch: 26, batch: 1100 of 2168, loss: 4.825033578872681
+Epoch: 26, batch: 1200 of 2168, loss: 4.771868786811829
+Epoch: 26, batch: 1300 of 2168, loss: 4.809191355705261
+Epoch: 26, batch: 1400 of 2168, loss: 4.7981763935089115
+Epoch: 26, batch: 1500 of 2168, loss: 4.820181221961975
+Epoch: 26, batch: 1600 of 2168, loss: 4.741531081199646
+Epoch: 26, batch: 1700 of 2168, loss: 4.772571129798889
+Epoch: 26, batch: 1800 of 2168, loss: 4.763291645050049
+Epoch: 26, batch: 1900 of 2168, loss: 4.775538215637207
+Epoch: 26, batch: 2000 of 2168, loss: 4.781420969963074
+Epoch: 26, batch: 2100 of 2168, loss: 4.781142992973328
+Epoch 26 done, here is a sample (creativity 3):
+jesus: and and the of, that, and
+ of of, and
+
+ the the,
+ that the the of the the, the: 2 and the the, the,
+ that the the the of the, the, the,
+ that the,
+ and,
+ and, the, and the of the the of the the.
+ amen 12 the the of the the of of the
+ the
+, the: 4: 3 but the, and, and the
+,
+ the: 3 and, i, the of the of of the of of of.
+
+ 4 the, and i of the the of,
+ the: 7 for the, and, and of the the the of the the.
+ and 4 the the of of the, that,
+ the, i: 3 and, the the of of, the, and, the the
+ the the. selah they
+ the of the the. and.
+ amen 4: 1 and god, o of
+Epoch: 27, batch: 100 of 2168, loss: 4.779101819992065
+Epoch: 27, batch: 200 of 2168, loss: 4.776007032394409
+Epoch: 27, batch: 300 of 2168, loss: 4.744627137184143
+Epoch: 27, batch: 400 of 2168, loss: 4.7112242794036865
+Epoch: 27, batch: 500 of 2168, loss: 4.737932667732239
+Epoch: 27, batch: 600 of 2168, loss: 4.741654915809631
+Epoch: 27, batch: 700 of 2168, loss: 4.7429173994064335
+Epoch: 27, batch: 800 of 2168, loss: 4.7701665925979615
+Epoch: 27, batch: 900 of 2168, loss: 4.760030813217163
+Epoch: 27, batch: 1000 of 2168, loss: 4.754601407051086
+Epoch: 27, batch: 1100 of 2168, loss: 4.796192359924317
+Epoch: 27, batch: 1200 of 2168, loss: 4.742218637466431
+Epoch: 27, batch: 1300 of 2168, loss: 4.784441909790039
+Epoch: 27, batch: 1400 of 2168, loss: 4.772773094177246
+Epoch: 27, batch: 1500 of 2168, loss: 4.79895694732666
+Epoch: 27, batch: 1600 of 2168, loss: 4.721215562820435
+Epoch: 27, batch: 1700 of 2168, loss: 4.754026918411255
+Epoch: 27, batch: 1800 of 2168, loss: 4.739992122650147
+Epoch: 27, batch: 1900 of 2168, loss: 4.756222634315491
+Epoch: 27, batch: 2000 of 2168, loss: 4.760024495124817
+Epoch: 27, batch: 2100 of 2168, loss: 4.7635893058776855
+Epoch 27 done, here is a sample (creativity 2):
+jesus,
+ the the, the the the the the the the, that the the, and
+
+
+,
+ and, and, the: 3 and the the the, and, and, and: 2 and, and, and: 3 and, and, the: 2
+, and, and, and, and: 3 and, and, and: 2
+, and, and: 3 and, and, and, and: and
+, and, and, and: 12 and, and, and: 3 and, and, and, and: and and, and, and, and, and: 2 and, and, and: 3 and, and, and: 2 and, and, and, and: and and, and, and: 2 and, and, and, and: and and, and, and: 3
+, and, and, and: and and, and, and: 2 and, and, and, and: 2 and, and
+Epoch: 28, batch: 100 of 2168, loss: 4.75660514831543
+Epoch: 28, batch: 200 of 2168, loss: 4.755725650787354
+Epoch: 28, batch: 300 of 2168, loss: 4.724662909507751
+Epoch: 28, batch: 400 of 2168, loss: 4.695879511833191
+Epoch: 28, batch: 500 of 2168, loss: 4.722901754379272
+Epoch: 28, batch: 600 of 2168, loss: 4.729334139823914
+Epoch: 28, batch: 700 of 2168, loss: 4.73061815738678
+Epoch: 28, batch: 800 of 2168, loss: 4.7520738792419435
+Epoch: 28, batch: 900 of 2168, loss: 4.743131418228149
+Epoch: 28, batch: 1000 of 2168, loss: 4.738189458847046
+Epoch: 28, batch: 1100 of 2168, loss: 4.783723964691162
+Epoch: 28, batch: 1200 of 2168, loss: 4.72675130367279
+Epoch: 28, batch: 1300 of 2168, loss: 4.770931115150452
+Epoch: 28, batch: 1400 of 2168, loss: 4.758528351783752
+Epoch: 28, batch: 1500 of 2168, loss: 4.787597298622131
+Epoch: 28, batch: 1600 of 2168, loss: 4.7050371170043945
+Epoch: 28, batch: 1700 of 2168, loss: 4.740034918785096
+Epoch: 28, batch: 1800 of 2168, loss: 4.720667796134949
+Epoch: 28, batch: 1900 of 2168, loss: 4.739010939598083
+Epoch: 28, batch: 2000 of 2168, loss: 4.743295345306397
+Epoch: 28, batch: 2100 of 2168, loss: 4.747278265953064
+Epoch 28 done, here is a sample (creativity 3):
+jesus,
+ and: 3 the, i the of, the the of, that, and
+
+ the,
+ which the the, that, and: 3 and, the: and and the of,
+ and, and, the: 12 the of, the the: and the
+, and, the, the, and:
+ and: 2 the the, and, and, and: 2 the, and, and:
+ and: 46: and and the of of of of, the the the the: the the the
+ of the the
+
+ the the. and the the
+ the the the the the of the,
+ and: 4 for when of of the, and, i the the
+
+ the
+
+ and the
+
+ for the the of the the the. selah he the unto the, and the. and he
+ say the the, and they the the the, and, the: 7 the
+ the of the, the the the,
+ the
+Epoch: 29, batch: 100 of 2168, loss: 4.740699152946473
+Epoch: 29, batch: 200 of 2168, loss: 4.737944121360779
+Epoch: 29, batch: 300 of 2168, loss: 4.709388751983642
+Epoch: 29, batch: 400 of 2168, loss: 4.6822691822052
+Epoch: 29, batch: 500 of 2168, loss: 4.705085072517395
+Epoch: 29, batch: 600 of 2168, loss: 4.713738574981689
+Epoch: 29, batch: 700 of 2168, loss: 4.713962907791138
+Epoch: 29, batch: 800 of 2168, loss: 4.735094408988953
+Epoch: 29, batch: 900 of 2168, loss: 4.72724977016449
+Epoch: 29, batch: 1000 of 2168, loss: 4.7205272388458255
+Epoch: 29, batch: 1100 of 2168, loss: 4.765564937591552
+Epoch: 29, batch: 1200 of 2168, loss: 4.710625066757202
+Epoch: 29, batch: 1300 of 2168, loss: 4.753806385993958
+Epoch: 29, batch: 1400 of 2168, loss: 4.741849641799927
+Epoch: 29, batch: 1500 of 2168, loss: 4.772562665939331
+Epoch: 29, batch: 1600 of 2168, loss: 4.690946516990661
+Epoch: 29, batch: 1700 of 2168, loss: 4.726138129234314
+Epoch: 29, batch: 1800 of 2168, loss: 4.704869947433472
+Epoch: 29, batch: 1900 of 2168, loss: 4.725762572288513
+Epoch: 29, batch: 2000 of 2168, loss: 4.731219449043274
+Epoch: 29, batch: 2100 of 2168, loss: 4.7350382900238035
+Epoch 29 done, here is a sample (creativity 2):
+jesus the,
+ the, the: 3 the the, and, the, and, and: 2 and, and, and,
+ and, and: 3 and, and, and, and, and, and: 3 and, and, and, and, and, and, and, and, and, and: 3 and, and, and, and, and, and, and, and, and: 3 and, and, and, and, and, and, and, and, and: 2 and, and, and, and, and, and, and, and: 2 and, and, and, and, and, and, and, and:
+
+ 66: 2 and, and, and, and, and, and, and: 2 and, and, and, and, and, and, and, and: 3 and, and, and, and, and, and, and, and, and, and, and, and, and:
+Epoch: 30, batch: 100 of 2168, loss: 4.727948451042176
+Epoch: 30, batch: 200 of 2168, loss: 4.725787925720215
+Epoch: 30, batch: 300 of 2168, loss: 4.6960377025604245
+Epoch: 30, batch: 400 of 2168, loss: 4.673572006225586
+Epoch: 30, batch: 500 of 2168, loss: 4.69240149974823
+Epoch: 30, batch: 600 of 2168, loss: 4.703968172073364
+Epoch: 30, batch: 700 of 2168, loss: 4.705314149856568
+Epoch: 30, batch: 800 of 2168, loss: 4.724718089103699
+Epoch: 30, batch: 900 of 2168, loss: 4.7131573629379275
+Epoch: 30, batch: 1000 of 2168, loss: 4.709195189476013
+Epoch: 30, batch: 1100 of 2168, loss: 4.754890084266663
+Epoch: 30, batch: 1200 of 2168, loss: 4.697358484268189
+Epoch: 30, batch: 1300 of 2168, loss: 4.744366855621338
+Epoch: 30, batch: 1400 of 2168, loss: 4.7308660411834715
+Epoch: 30, batch: 1500 of 2168, loss: 4.76615222454071
+Epoch: 30, batch: 1600 of 2168, loss: 4.684106488227844
+Epoch: 30, batch: 1700 of 2168, loss: 4.716727623939514
+Epoch: 30, batch: 1800 of 2168, loss: 4.694625358581543
+Epoch: 30, batch: 1900 of 2168, loss: 4.719155468940735
+Epoch: 30, batch: 2000 of 2168, loss: 4.722375106811524
+Epoch: 30, batch: 2100 of 2168, loss: 4.728827323913574
+Epoch 30 done, here is a sample (creativity 4):
+jesus, and, and
+ of of of the
+ the.
+ selah 15: 7 for god, and lord is of the, and thou of the
+
+,
+ the, the, the the, that, and: 2 the children son of of the
+ the
+ the of the of, and the the the
+, and, the
+, and, i
+ the of of the of. selah all said
+ people say, amen, the: 14
+
+, the
+ the the the of. and he the of, amen say, the say the, and the.
+ and 15 the of the, o the the the.
+ and 4 the of the, and the, o the of the, the the of.
+ selah 12
+ of the, amen i
+, and,
+ and of the the of. and all
+
+ people say.
+ amen 27 the the the,
+ 1 of lord, o the
+ the of.
+ and 1 amen 68,
+Epoch: 31, batch: 100 of 2168, loss: 4.717555441856384
+Epoch: 31, batch: 200 of 2168, loss: 4.717584323883057
+Epoch: 31, batch: 300 of 2168, loss: 4.687170901298523
+Epoch: 31, batch: 400 of 2168, loss: 4.663382225036621
+Epoch: 31, batch: 500 of 2168, loss: 4.680956926345825
+Epoch: 31, batch: 600 of 2168, loss: 4.696777853965759
+Epoch: 31, batch: 700 of 2168, loss: 4.697413063049316
+Epoch: 31, batch: 800 of 2168, loss: 4.716532950401306
+Epoch: 31, batch: 900 of 2168, loss: 4.70151463508606
+Epoch: 31, batch: 1000 of 2168, loss: 4.700121183395385
+Epoch: 31, batch: 1100 of 2168, loss: 4.7454627418518065
+Epoch: 31, batch: 1200 of 2168, loss: 4.690781235694885
+Epoch: 31, batch: 1300 of 2168, loss: 4.737472229003906
+Epoch: 31, batch: 1400 of 2168, loss: 4.724349093437195
+Epoch: 31, batch: 1500 of 2168, loss: 4.758454713821411
+Epoch: 31, batch: 1600 of 2168, loss: 4.677296147346497
+Epoch: 31, batch: 1700 of 2168, loss: 4.708986482620239
+Epoch: 31, batch: 1800 of 2168, loss: 4.686435565948487
+Epoch: 31, batch: 1900 of 2168, loss: 4.713081116676331
+Epoch: 31, batch: 2000 of 2168, loss: 4.711512613296509
+Epoch: 31, batch: 2100 of 2168, loss: 4.716082968711853
+Epoch 31 done, here is a sample (creativity 3):
+jesus of of, that, the the the, and the
+ of
+, and
+
+
+ for, and, the, and, and, and, and:
+ and: and: the, the,
+ and: 12: 3 and, the, the: the: the, and
+, and,
+ 12: 3 and children, the, the, and, and: and
+ of of, the the
+. these the of,
+ the,
+ the. and they, i. these he answered unto say. amen the
+ unto people the the, and. and
+ said
+, he, behold he the of the, that the the
+. selah the said said, s the, and the, the the the, the, the: the,
+ the, and, and, the: the the of,
+ and, the the, the, the the.
+
+ 7: 5 cursed the the the, and saith the the, and all, and
+Epoch: 32, batch: 100 of 2168, loss: 4.70137957572937
+Epoch: 32, batch: 200 of 2168, loss: 4.7003643465042115
+Epoch: 32, batch: 300 of 2168, loss: 4.667076063156128
+Epoch: 32, batch: 400 of 2168, loss: 4.630549139976502
+Epoch: 32, batch: 500 of 2168, loss: 4.62970148563385
+Epoch: 32, batch: 600 of 2168, loss: 4.629182171821594
+Epoch: 32, batch: 700 of 2168, loss: 4.620231714248657
+Epoch: 32, batch: 800 of 2168, loss: 4.63511794090271
+Epoch: 32, batch: 900 of 2168, loss: 4.6115091609954835
+Epoch: 32, batch: 1000 of 2168, loss: 4.601808223724365
+Epoch: 32, batch: 1100 of 2168, loss: 4.650032424926758
+Epoch: 32, batch: 1200 of 2168, loss: 4.598869137763977
+Epoch: 32, batch: 1300 of 2168, loss: 4.641782612800598
+Epoch: 32, batch: 1400 of 2168, loss: 4.6266475105285645
+Epoch: 32, batch: 1500 of 2168, loss: 4.652931609153748
+Epoch: 32, batch: 1600 of 2168, loss: 4.562620882987976
+Epoch: 32, batch: 1700 of 2168, loss: 4.5837917184829715
+Epoch: 32, batch: 1800 of 2168, loss: 4.5592245817184445
+Epoch: 32, batch: 1900 of 2168, loss: 4.568677592277527
+Epoch: 32, batch: 2000 of 2168, loss: 4.560853762626648
+Epoch: 32, batch: 2100 of 2168, loss: 4.563118824958801
+Epoch 32 done, here is a sample (creativity 5):
+jesus shall
+
+ it the not. amen they said them the him
+ god. and the david, o,
+ the, he he have do the the: i i have not
+ the
+, as thou be the, that will be be
+ that be.
+ amen 12: 3 for he said, the god lord, i thou shall come the:
+
+ 64 the the of, o the, the of. and he answered answered unto say, saith the; and, i is. so he said, and is of of, that i be not not the: the it is of of of. but
+ the the, and the the
+. amen the
+ said, behold is of, amen lord, the, behold the of, that he will have not not be be that not be
+ be for, but i thou have have do,
+ the they shall will have have have not be the, but i
+ have be be that shall not have come thee the. and
+Epoch: 33, batch: 100 of 2168, loss: 4.545423374176026
+Epoch: 33, batch: 200 of 2168, loss: 4.54189859867096
+Epoch: 33, batch: 300 of 2168, loss: 4.502179336547852
+Epoch: 33, batch: 400 of 2168, loss: 4.470546717643738
+Epoch: 33, batch: 500 of 2168, loss: 4.4834130048751835
+Epoch: 33, batch: 600 of 2168, loss: 4.48910053730011
+Epoch: 33, batch: 700 of 2168, loss: 4.4838077211380005
+Epoch: 33, batch: 800 of 2168, loss: 4.510715742111206
+Epoch: 33, batch: 900 of 2168, loss: 4.478963990211486
+Epoch: 33, batch: 1000 of 2168, loss: 4.475177035331726
+Epoch: 33, batch: 1100 of 2168, loss: 4.5205373239517215
+Epoch: 33, batch: 1200 of 2168, loss: 4.470758838653564
+Epoch: 33, batch: 1300 of 2168, loss: 4.51954984664917
+Epoch: 33, batch: 1400 of 2168, loss: 4.495652289390564
+Epoch: 33, batch: 1500 of 2168, loss: 4.527880959510803
+Epoch: 33, batch: 1600 of 2168, loss: 4.4386370706558225
+Epoch: 33, batch: 1700 of 2168, loss: 4.453275747299195
+Epoch: 33, batch: 1800 of 2168, loss: 4.431791348457336
+Epoch: 33, batch: 1900 of 2168, loss: 4.452488842010498
+Epoch: 33, batch: 2000 of 2168, loss: 4.443123602867127
+Epoch: 33, batch: 2100 of 2168, loss: 4.446604461669922
+Epoch 33 done, here is a sample (creativity 4):
+jesus i
+ will be a the, which will go in the, which have have
+ be not the: and they will have come the the.
+
+ 4: 7 and he came to pass, that the lord be the to,
+ and the them the. and the said unto unto the. so they
+ shall be not be in. and. the
+ of the unto the of, and they went
+ the of. then.
+ and 66: 5 and thou will make, thou hast not not be a in. for they is
+ in, that i shall bring, i shall have not
+ not the, that thou have not be a the, which will be the.
+ and 15 the people the.
+ then 8
+ is is the the of. for all the, o
+, behold lord, the lord is in, and they have come the.
+ amen 22: 1 then they shalt be the unto in, the the of of the of
+ lord: the,
+Epoch: 34, batch: 100 of 2168, loss: 4.43906991481781
+Epoch: 34, batch: 200 of 2168, loss: 4.43263530254364
+Epoch: 34, batch: 300 of 2168, loss: 4.403969802856445
+Epoch: 34, batch: 400 of 2168, loss: 4.37869665145874
+Epoch: 34, batch: 500 of 2168, loss: 4.395053024291992
+Epoch: 34, batch: 600 of 2168, loss: 4.4009177780151365
+Epoch: 34, batch: 700 of 2168, loss: 4.374906253814697
+Epoch: 34, batch: 800 of 2168, loss: 4.365406737327576
+Epoch: 34, batch: 900 of 2168, loss: 4.300652003288269
+Epoch: 34, batch: 1000 of 2168, loss: 4.282745239734649
+Epoch: 34, batch: 1100 of 2168, loss: 4.324824743270874
+Epoch: 34, batch: 1200 of 2168, loss: 4.260468792915344
+Epoch: 34, batch: 1300 of 2168, loss: 4.304056208133698
+Epoch: 34, batch: 1400 of 2168, loss: 4.281516308784485
+Epoch: 34, batch: 1500 of 2168, loss: 4.30622220993042
+Epoch: 34, batch: 1600 of 2168, loss: 4.196180071830749
+Epoch: 34, batch: 1700 of 2168, loss: 4.203001027107239
+Epoch: 34, batch: 1800 of 2168, loss: 4.192849941253662
+Epoch: 34, batch: 1900 of 2168, loss: 4.209083092212677
+Epoch: 34, batch: 2000 of 2168, loss: 4.194417421817779
+Epoch: 34, batch: 2100 of 2168, loss: 4.188178091049195
+Epoch 34 done, here is a sample (creativity 2):
+jesus
+ the lord, and they shall not not not be the lord. and the people, s
+ lord, s lord shall be the people of god.
+
+ 8 the the lord, s god, and the lord
+ shall not be a people of god, that i shall be
+ the lord, and the lord shall be the lord, and the
+ lord, and i will be the lord, that i shall be the lord
+ shall be the lord, and the lord shall not not
+ be a people.
+
+ 8: 8 and the lord said, and the people of god, and
+ the lord of god, and the lord, and the lord, s the lord,
+ and the lord, and the lord: for i will not make the
+ lord. and the lord said, i shall not be a people, that i will
+ not be a people of the people, that the lord shall be the
+ lord, that i shall not be the people.
+
+
+Epoch: 35, batch: 100 of 2168, loss: 4.164667227268219
+Epoch: 35, batch: 200 of 2168, loss: 4.1512176489830015
+Epoch: 35, batch: 300 of 2168, loss: 4.108249132633209
+Epoch: 35, batch: 400 of 2168, loss: 4.061279623508454
+Epoch: 35, batch: 500 of 2168, loss: 4.096274411678314
+Epoch: 35, batch: 600 of 2168, loss: 4.1069267868995665
+Epoch: 35, batch: 700 of 2168, loss: 4.100536255836487
+Epoch: 35, batch: 800 of 2168, loss: 4.131058394908905
+Epoch: 35, batch: 900 of 2168, loss: 4.085988593101502
+Epoch: 35, batch: 1000 of 2168, loss: 4.085219333171844
+Epoch: 35, batch: 1100 of 2168, loss: 4.1513257145881655
+Epoch: 35, batch: 1200 of 2168, loss: 4.096998860836029
+Epoch: 35, batch: 1300 of 2168, loss: 4.139956026077271
+Epoch: 35, batch: 1400 of 2168, loss: 4.128601968288422
+Epoch: 35, batch: 1500 of 2168, loss: 4.163207824230194
+Epoch: 35, batch: 1600 of 2168, loss: 4.052316308021545
+Epoch: 35, batch: 1700 of 2168, loss: 4.05790509223938
+Epoch: 35, batch: 1800 of 2168, loss: 4.054945449829102
+Epoch: 35, batch: 1900 of 2168, loss: 4.075177702903748
+Epoch: 35, batch: 2000 of 2168, loss: 4.0614579796791075
+Epoch: 35, batch: 2100 of 2168, loss: 4.064790396690369
+Epoch 35 done, here is a sample (creativity 5):
+jesus the
+ people: and they was in the lord, when he was no in
+ them, that they was a name of their lord.
+
+ 8, 4 the people of god is the people: i will not be the
+ commandments: i hast shall not come, i am not the god thereof. selah. the
+ them the god to be in him, s name,
+ which is the lord, and they shall go. this the lord' that
+ he shall be the sword. and all the lord was unto the lord. so the king said him. amen all all him' and the sons
+ was david to his mother: but he had not come.
+ then 14 the wall to said the son to the lord: he went unto his
+ people, that they had not the people, to he had made the lord
+ was a land and his land' that he were in him: but the lord had was the lord
+ that the lord was the people of israel.
+Epoch: 36, batch: 100 of 2168, loss: 4.062152271270752
+Epoch: 36, batch: 200 of 2168, loss: 4.03693430185318
+Epoch: 36, batch: 300 of 2168, loss: 4.00652349948883
+Epoch: 36, batch: 400 of 2168, loss: 3.961926646232605
+Epoch: 36, batch: 500 of 2168, loss: 4.004469764232636
+Epoch: 36, batch: 600 of 2168, loss: 4.021066365242004
+Epoch: 36, batch: 700 of 2168, loss: 4.0265041041374205
+Epoch: 36, batch: 800 of 2168, loss: 4.0531691908836365
+Epoch: 36, batch: 900 of 2168, loss: 4.002070558071137
+Epoch: 36, batch: 1000 of 2168, loss: 4.00222499370575
+Epoch: 36, batch: 1100 of 2168, loss: 4.081452116966248
+Epoch: 36, batch: 1200 of 2168, loss: 4.030370683670044
+Epoch: 36, batch: 1300 of 2168, loss: 4.072006227970124
+Epoch: 36, batch: 1400 of 2168, loss: 4.064657807350159
+Epoch: 36, batch: 1500 of 2168, loss: 4.101656632423401
+Epoch: 36, batch: 1600 of 2168, loss: 3.9889305901527403
+Epoch: 36, batch: 1700 of 2168, loss: 3.990363128185272
+Epoch: 36, batch: 1800 of 2168, loss: 3.9955203557014465
+Epoch: 36, batch: 1900 of 2168, loss: 4.010293083190918
+Epoch: 36, batch: 2000 of 2168, loss: 3.9981182479858397
+Epoch: 36, batch: 2100 of 2168, loss: 3.99748605966568
+Epoch 36 done, here is a sample (creativity 4):
+jesus he shall have
+ done me, and i have made me, but thou shalt not be the
+ lord: but thou have not given in them, i have made,
+ the heart of israel, and the people: i will have given
+ thee: i will have not not not the father. so the people shall not do
+ thee. this all them, s god shall not go the
+ god? for he is no that shall be in you.
+ that 15 the sight of the lord shall not be the people of
+ the earth; and thou am not a people, s house shall be in you
+ of god; for i will be no thy land, that the
+ sword shall have made them. and the mother that is in his
+ hand, and all their lord shall come in them: but the lord shall
+ give it. this, i am no that shall do, i have
+ not not no a name, s lord. so when he is the
+ mother to
+Epoch: 37, batch: 100 of 2168, loss: 4.001735939979553
+Epoch: 37, batch: 200 of 2168, loss: 3.972355797290802
+Epoch: 37, batch: 300 of 2168, loss: 3.9524905061721802
+Epoch: 37, batch: 400 of 2168, loss: 3.901322991847992
+Epoch: 37, batch: 500 of 2168, loss: 3.9478633308410647
+Epoch: 37, batch: 600 of 2168, loss: 3.967693951129913
+Epoch: 37, batch: 700 of 2168, loss: 3.9676317024230956
+Epoch: 37, batch: 800 of 2168, loss: 3.9927411675453186
+Epoch: 37, batch: 900 of 2168, loss: 3.9427972340583803
+Epoch: 37, batch: 1000 of 2168, loss: 3.9517316699028013
+Epoch: 37, batch: 1100 of 2168, loss: 4.029009454250335
+Epoch: 37, batch: 1200 of 2168, loss: 3.9753415393829346
+Epoch: 37, batch: 1300 of 2168, loss: 4.022980272769928
+Epoch: 37, batch: 1400 of 2168, loss: 4.021427140235901
+Epoch: 37, batch: 1500 of 2168, loss: 4.052010605335235
+Epoch: 37, batch: 1600 of 2168, loss: 3.937688105106354
+Epoch: 37, batch: 1700 of 2168, loss: 3.938666994571686
+Epoch: 37, batch: 1800 of 2168, loss: 3.942305579185486
+Epoch: 37, batch: 1900 of 2168, loss: 3.9631573724746705
+Epoch: 37, batch: 2000 of 2168, loss: 3.947910261154175
+Epoch: 37, batch: 2100 of 2168, loss: 3.9465603828430176
+Epoch 37 done, here is a sample (creativity 5):
+jesus he had made, that i hast
+ not given in thee? and the people shall come, and thou will not
+ do in thee, but the people of thy people is done in the land,
+ and thou hast made him, but thou have no no in me,
+ that he may go the lord: but he is no more in
+ the earth? for he hath not that i be no the lord' s sake,
+ the god, which hath not been a people, and i will do
+ the name that he shall have spoken. so he
+ said him to him. so when i saw to him, i hast not
+ not given. so he answered, let the lord thy god is in him, i art not a man:
+ for they have given the people; he is not that, and i hast
+ not given the people? 6 am thou i do, that thou will not be a people, and thou will do it: i will do, o
+
+Epoch: 38, batch: 100 of 2168, loss: 3.965097153186798
+Epoch: 38, batch: 200 of 2168, loss: 3.9199340534210205
+Epoch: 38, batch: 300 of 2168, loss: 3.907159199714661
+Epoch: 38, batch: 400 of 2168, loss: 3.85026805639267
+Epoch: 38, batch: 500 of 2168, loss: 3.9045645236968993
+Epoch: 38, batch: 600 of 2168, loss: 3.925745434761047
+Epoch: 38, batch: 700 of 2168, loss: 3.926445186138153
+Epoch: 38, batch: 800 of 2168, loss: 3.9522981023788453
+Epoch: 38, batch: 900 of 2168, loss: 3.894084861278534
+Epoch: 38, batch: 1000 of 2168, loss: 3.903677637577057
+Epoch: 38, batch: 1100 of 2168, loss: 3.9882411336898804
+Epoch: 38, batch: 1200 of 2168, loss: 3.934329924583435
+Epoch: 38, batch: 1300 of 2168, loss: 3.983103725910187
+Epoch: 38, batch: 1400 of 2168, loss: 3.9775668501853945
+Epoch: 38, batch: 1500 of 2168, loss: 4.011525416374207
+Epoch: 38, batch: 1600 of 2168, loss: 3.9008697366714475
+Epoch: 38, batch: 1700 of 2168, loss: 3.8961948132514954
+Epoch: 38, batch: 1800 of 2168, loss: 3.895733428001404
+Epoch: 38, batch: 1900 of 2168, loss: 3.9204777240753175
+Epoch: 38, batch: 2000 of 2168, loss: 3.909498007297516
+Epoch: 38, batch: 2100 of 2168, loss: 3.901441442966461
+Epoch 38 done, here is a sample (creativity 3):
+jesus shall
+ have not given. selah is a lord, o god, s god, and the lord
+ hath spoken me: for thou have made thee. so the people
+ of his mother. so he answered to pass unto the people: and the lord
+ was a people, s house. so the lord spake unto him and his house, s
+ lord. and they went unto him and the house. and he went to pass
+ into the people.
+ amen 14 said him and him. and the lord spake
+ unto moses. and he said, what they is come. and the king
+ wept, and went unto the people' and said him to the sight. and
+ they was the father.
+
+ 4 and, the lord is a man, and said the lord.
+
+ 22 the stead of the house that were called in him.
+ amen 14: 1 and they said to them, and the king was the people.
+ amen 4 and him was the lord was
+Epoch: 39, batch: 100 of 2168, loss: 3.926630320549011
+Epoch: 39, batch: 200 of 2168, loss: 3.874945349693298
+Epoch: 39, batch: 300 of 2168, loss: 3.868406755924225
+Epoch: 39, batch: 400 of 2168, loss: 3.8110647559165955
+Epoch: 39, batch: 500 of 2168, loss: 3.863837959766388
+Epoch: 39, batch: 600 of 2168, loss: 3.8886065459251404
+Epoch: 39, batch: 700 of 2168, loss: 3.8876416516304015
+Epoch: 39, batch: 800 of 2168, loss: 3.9161147761344908
+Epoch: 39, batch: 900 of 2168, loss: 3.855613148212433
+Epoch: 39, batch: 1000 of 2168, loss: 3.8665444827079773
+Epoch: 39, batch: 1100 of 2168, loss: 3.95219188451767
+Epoch: 39, batch: 1200 of 2168, loss: 3.895360817909241
+Epoch: 39, batch: 1300 of 2168, loss: 3.9421806478500367
+Epoch: 39, batch: 1400 of 2168, loss: 3.9434361147880552
+Epoch: 39, batch: 1500 of 2168, loss: 3.9727481245994567
+Epoch: 39, batch: 1600 of 2168, loss: 3.8579829359054565
+Epoch: 39, batch: 1700 of 2168, loss: 3.859642539024353
+Epoch: 39, batch: 1800 of 2168, loss: 3.862410798072815
+Epoch: 39, batch: 1900 of 2168, loss: 3.888298933506012
+Epoch: 39, batch: 2000 of 2168, loss: 3.8711170029640196
+Epoch: 39, batch: 2100 of 2168, loss: 3.8651018500328065
+Epoch 39 done, here is a sample (creativity 5):
+jesus:
+ and the lord is a lord be not his lord: but he was
+ no the man: he hath made a sword. selah. the lord saith and the
+ lord god; he shall come to thee: thou have said thee of my house, that thou hast made me
+ with my earth, that the people.
+ selah 22 and the lord' s house, the name which i be a lord. and they came out
+ unto him: and the king of his people is called. selah is he of a lord, and the
+ people of israel, which is a people. and the lord spake,
+ what he is not come to him, that thou will not have
+ given thee of thy people; but they was not in thee. this is a man, that thou have made the
+ children thereof, and he is not. so they was no a lord,
+ the name that were called in me: but there was no the
+ house thereof, s name'
+Epoch: 40, batch: 100 of 2168, loss: 3.8948298621177675
+Epoch: 40, batch: 200 of 2168, loss: 3.8399077796936036
+Epoch: 40, batch: 300 of 2168, loss: 3.8340595531463624
+Epoch: 40, batch: 400 of 2168, loss: 3.7744041228294374
+Epoch: 40, batch: 500 of 2168, loss: 3.8282805919647216
+Epoch: 40, batch: 600 of 2168, loss: 3.8556887197494505
+Epoch: 40, batch: 700 of 2168, loss: 3.855600893497467
+Epoch: 40, batch: 800 of 2168, loss: 3.88156227350235
+Epoch: 40, batch: 900 of 2168, loss: 3.821132531166077
+Epoch: 40, batch: 1000 of 2168, loss: 3.8272902822494506
+Epoch: 40, batch: 1100 of 2168, loss: 3.9211161065101625
+Epoch: 40, batch: 1200 of 2168, loss: 3.8665506768226625
+Epoch: 40, batch: 1300 of 2168, loss: 3.9113802194595335
+Epoch: 40, batch: 1400 of 2168, loss: 3.9075730061531067
+Epoch: 40, batch: 1500 of 2168, loss: 3.9425715947151185
+Epoch: 40, batch: 1600 of 2168, loss: 3.82074946641922
+Epoch: 40, batch: 1700 of 2168, loss: 3.8270046734809875
+Epoch: 40, batch: 1800 of 2168, loss: 3.832158727645874
+Epoch: 40, batch: 1900 of 2168, loss: 3.8532095980644225
+Epoch: 40, batch: 2000 of 2168, loss: 3.840202605724335
+Epoch: 40, batch: 2100 of 2168, loss: 3.8307915496826173
+Epoch 40 done, here is a sample (creativity 4):
+jesus, and
+ said of their house; and the philistines, s god shall go. this the lord, and all the people. and all david
+ went to the house that was in them. and he took the house,
+ that he had made him.
+ amen 4 and pharaoh was a people, s name. and the
+ king was told the house of god, and went, the people, s god, s
+ children of israel was come to him, and went to them:
+ 1: 2 but they said to me and a lord: and there said to them
+ the son that was called with the house, that it might come, the man, and all the land of israel: but i have not done
+ the people to the lord thy lord. selah is the man which is of israel shall
+ have no a father. selah. but all david said up
+ the hand, that they were not.
+ and she said unto him and a house. and he
+
+Epoch: 41, batch: 100 of 2168, loss: 3.8675607872009277
+Epoch: 41, batch: 200 of 2168, loss: 3.8033212542533876
+Epoch: 41, batch: 300 of 2168, loss: 3.8038989973068236
+Epoch: 41, batch: 400 of 2168, loss: 3.739253268241882
+Epoch: 41, batch: 500 of 2168, loss: 3.7976325654983523
+Epoch: 41, batch: 600 of 2168, loss: 3.824881899356842
+Epoch: 41, batch: 700 of 2168, loss: 3.8182742953300477
+Epoch: 41, batch: 800 of 2168, loss: 3.8485100531578063
+Epoch: 41, batch: 900 of 2168, loss: 3.7847330737113953
+Epoch: 41, batch: 1000 of 2168, loss: 3.797170152664185
+Epoch: 41, batch: 1100 of 2168, loss: 3.893381178379059
+Epoch: 41, batch: 1200 of 2168, loss: 3.8350062274932863
+Epoch: 41, batch: 1300 of 2168, loss: 3.878711504936218
+Epoch: 41, batch: 1400 of 2168, loss: 3.881452968120575
+Epoch: 41, batch: 1500 of 2168, loss: 3.9118364691734313
+Epoch: 41, batch: 1600 of 2168, loss: 3.7945430421829225
+Epoch: 41, batch: 1700 of 2168, loss: 3.797597017288208
+Epoch: 41, batch: 1800 of 2168, loss: 3.800022695064545
+Epoch: 41, batch: 1900 of 2168, loss: 3.8230958938598634
+Epoch: 41, batch: 2000 of 2168, loss: 3.8036702728271483
+Epoch: 41, batch: 2100 of 2168, loss: 3.7998591899871825
+Epoch 41 done, here is a sample (creativity 3):
+jesus
+ shall come to thee: for they hath not done the lord, and the lord
+ hath given thee.
+ and the lord had done.
+ saith 14: 7 i hast not given the lord thy hosts: and i am my
+ god. and he answered to pass unto them. and the king of
+ israel was in him: and they was no the father of god: and the name
+ that was in him. so they came unto him. and they went unto him the prophet
+ the king of the people, and went, i will be, when thou will not go
+ unto me: and i have not done, i am not my father' and
+ the lord' and thy daughter. this ye the king' s god. so he answered,
+ i will be more a father. this the lord, i pray the lord god, i
+ shalt not be a son, s hand: i shalt bring thee of the
+ land, and the lord shall not have put
+Epoch: 42, batch: 100 of 2168, loss: 3.8433700227737426
+Epoch: 42, batch: 200 of 2168, loss: 3.7713821840286257
+Epoch: 42, batch: 300 of 2168, loss: 3.7779649758338927
+Epoch: 42, batch: 400 of 2168, loss: 3.710260922908783
+Epoch: 42, batch: 500 of 2168, loss: 3.771008219718933
+Epoch: 42, batch: 600 of 2168, loss: 3.8001399397850038
+Epoch: 42, batch: 700 of 2168, loss: 3.796258473396301
+Epoch: 42, batch: 800 of 2168, loss: 3.823074049949646
+Epoch: 42, batch: 900 of 2168, loss: 3.7562590765953066
+Epoch: 42, batch: 1000 of 2168, loss: 3.7632619738578796
+Epoch: 42, batch: 1100 of 2168, loss: 3.8657479882240295
+Epoch: 42, batch: 1200 of 2168, loss: 3.8080415105819703
+Epoch: 42, batch: 1300 of 2168, loss: 3.8526516008377074
+Epoch: 42, batch: 1400 of 2168, loss: 3.8534448838233946
+Epoch: 42, batch: 1500 of 2168, loss: 3.8849720191955566
+Epoch: 42, batch: 1600 of 2168, loss: 3.7679412531852723
+Epoch: 42, batch: 1700 of 2168, loss: 3.7716238737106322
+Epoch: 42, batch: 1800 of 2168, loss: 3.776111509799957
+Epoch: 42, batch: 1900 of 2168, loss: 3.8010522174835204
+Epoch: 42, batch: 2000 of 2168, loss: 3.782103931903839
+Epoch: 42, batch: 2100 of 2168, loss: 3.772887182235718
+Epoch 42 done, here is a sample (creativity 3):
+jesus shall not
+ be in thee: for thou will bring the lord. and they shall not be
+ the people of god.
+ amen 14 and the people, and the children thereof.
+ amen 22 and the children thereof shall have made the name of israel?
+ and i shalt bring the people of thy hand. and the lord
+ said unto him, and said to the people, s lord, and his
+ daughter. and they went unto the lord.
+ and he answered unto them and the house, the lord was kindled,
+ that he was no a house. and the people was told him:
+ for the people was called. and he said to the lord god, and
+ the mother was the people. and they went, i have made the
+ children thereof; i am the father, s sake: and i am a lord:
+
+ 66: 2 and the lord thy hosts shall not be the son, that thou will not do. so he shall not do thee.
+Epoch: 43, batch: 100 of 2168, loss: 3.819616177082062
+Epoch: 43, batch: 200 of 2168, loss: 3.740873236656189
+Epoch: 43, batch: 300 of 2168, loss: 3.7524453258514403
+Epoch: 43, batch: 400 of 2168, loss: 3.681728012561798
+Epoch: 43, batch: 500 of 2168, loss: 3.7447089838981626
+Epoch: 43, batch: 600 of 2168, loss: 3.774584949016571
+Epoch: 43, batch: 700 of 2168, loss: 3.764256412982941
+Epoch: 43, batch: 800 of 2168, loss: 3.796544725894928
+Epoch: 43, batch: 900 of 2168, loss: 3.724784712791443
+Epoch: 43, batch: 1000 of 2168, loss: 3.7393438529968264
+Epoch: 43, batch: 1100 of 2168, loss: 3.844461953639984
+Epoch: 43, batch: 1200 of 2168, loss: 3.7813015460968016
+Epoch: 43, batch: 1300 of 2168, loss: 3.8242280411720277
+Epoch: 43, batch: 1400 of 2168, loss: 3.825211787223816
+Epoch: 43, batch: 1500 of 2168, loss: 3.8586397314071657
+Epoch: 43, batch: 1600 of 2168, loss: 3.74353666305542
+Epoch: 43, batch: 1700 of 2168, loss: 3.7436495089530943
+Epoch: 43, batch: 1800 of 2168, loss: 3.749702308177948
+Epoch: 43, batch: 1900 of 2168, loss: 3.7775343298912047
+Epoch: 43, batch: 2000 of 2168, loss: 3.761264057159424
+Epoch: 43, batch: 2100 of 2168, loss: 3.749464700222015
+Epoch 43 done, here is a sample (creativity 3):
+jesus, s
+ house.
+
+ 8 and the people of israel was come unto the house of the lord: for he is not
+ a god. so the people of the philistines was in the people. and
+ the lord was called. so the people said unto them. and david went, and
+ they had given him to his people. so the people said to
+ them the king, and said to them the father of david.
+
+ 3 and he said unto david. and they said to him
+ unto his father. so the king of his lord was in him, and said unto them. so
+ he went to him. and he went unto the king of the lord
+ god. and david said unto the king of israel.
+
+ 14: 2 now they came to jerusalem in the house of the lord' that he
+ was come of his land: and he said unto him, why ye not go,
+ i will not go, i will not go unto you.
+Epoch: 44, batch: 100 of 2168, loss: 3.7968518137931824
+Epoch: 44, batch: 200 of 2168, loss: 3.713435027599335
+Epoch: 44, batch: 300 of 2168, loss: 3.7255119037628175
+Epoch: 44, batch: 400 of 2168, loss: 3.6573639011383055
+Epoch: 44, batch: 500 of 2168, loss: 3.725657510757446
+Epoch: 44, batch: 600 of 2168, loss: 3.749622433185577
+Epoch: 44, batch: 700 of 2168, loss: 3.743611068725586
+Epoch: 44, batch: 800 of 2168, loss: 3.7701658391952515
+Epoch: 44, batch: 900 of 2168, loss: 3.6956900811195372
+Epoch: 44, batch: 1000 of 2168, loss: 3.7108616423606873
+Epoch: 44, batch: 1100 of 2168, loss: 3.8151839780807495
+Epoch: 44, batch: 1200 of 2168, loss: 3.7560311818122862
+Epoch: 44, batch: 1300 of 2168, loss: 3.8021783804893494
+Epoch: 44, batch: 1400 of 2168, loss: 3.7990769219398497
+Epoch: 44, batch: 1500 of 2168, loss: 3.8335784220695497
+Epoch: 44, batch: 1600 of 2168, loss: 3.7150231051445006
+Epoch: 44, batch: 1700 of 2168, loss: 3.7191320657730103
+Epoch: 44, batch: 1800 of 2168, loss: 3.7320521545410155
+Epoch: 44, batch: 1900 of 2168, loss: 3.7478186798095705
+Epoch: 44, batch: 2000 of 2168, loss: 3.734520363807678
+Epoch: 44, batch: 2100 of 2168, loss: 3.721179587841034
+Epoch 44 done, here is a sample (creativity 3):
+jesus, and
+ said unto them. and the king' and his people' s house: and the people
+ was the people, s daughter, the name, the daughter, and his
+ children, and all his land: the name of israel was in the lord. so
+ he went, and the people was in them, that he were not a people
+ in the house. so they came to jerusalem.
+ and they answered to the house, that he were come. and he
+ went to pass, that they was the day, that they had made. so
+ david answered to pass, when he had made him, he said to him. and he went unto them, go,
+ thou will be the father.
+
+ 4: 7 and the king said, i have sinned, and thou will be, when i have given thee, and i will not do. and
+ the lord said to him. and david went, i will go, thou will go, i
+
+Epoch: 45, batch: 100 of 2168, loss: 3.776207137107849
+Epoch: 45, batch: 200 of 2168, loss: 3.689596016407013
+Epoch: 45, batch: 300 of 2168, loss: 3.7022729659080507
+Epoch: 45, batch: 400 of 2168, loss: 3.6354427123069764
+Epoch: 45, batch: 500 of 2168, loss: 3.701384541988373
+Epoch: 45, batch: 600 of 2168, loss: 3.722527937889099
+Epoch: 45, batch: 700 of 2168, loss: 3.7184916043281557
+Epoch: 45, batch: 800 of 2168, loss: 3.7472797560691835
+Epoch: 45, batch: 900 of 2168, loss: 3.6737287282943725
+Epoch: 45, batch: 1000 of 2168, loss: 3.6895832133293154
+Epoch: 45, batch: 1100 of 2168, loss: 3.798137438297272
+Epoch: 45, batch: 1200 of 2168, loss: 3.7298708009719848
+Epoch: 45, batch: 1300 of 2168, loss: 3.7796140575408934
+Epoch: 45, batch: 1400 of 2168, loss: 3.781695296764374
+Epoch: 45, batch: 1500 of 2168, loss: 3.812306327819824
+Epoch: 45, batch: 1600 of 2168, loss: 3.6967008256912233
+Epoch: 45, batch: 1700 of 2168, loss: 3.696047079563141
+Epoch: 45, batch: 1800 of 2168, loss: 3.708833281993866
+Epoch: 45, batch: 1900 of 2168, loss: 3.724002797603607
+Epoch: 45, batch: 2000 of 2168, loss: 3.715480592250824
+Epoch: 45, batch: 2100 of 2168, loss: 3.701373329162598
+Epoch 45 done, here is a sample (creativity 4):
+jesus
+ that i command me, that ye have made me, that i hast not
+ done thee.
+ and the lord spake, i have made him, that ye have done. amen and his king' and all the people. and they said to, that he
+ shall come in. this the lord said. so the sons
+ of israel did come, he did a son of his people. and
+ they answered unto him. and he said, why saith, i am the god
+ thereof? 12 am the children of israel is come. and
+ the people of david went out of the land, saying to
+ me. this things said to the disciples to him. and the lord had called. this was he
+ was called. and they said unto him. and he went, let not go unto the way. so he said
+ and the lord god. this was a name was in the people of his house: and they said unto the loud
+ house. and david sent him
+Epoch: 46, batch: 100 of 2168, loss: 3.7576595616340636
+Epoch: 46, batch: 200 of 2168, loss: 3.6667658925056457
+Epoch: 46, batch: 300 of 2168, loss: 3.6784628725051878
+Epoch: 46, batch: 400 of 2168, loss: 3.6101445293426515
+Epoch: 46, batch: 500 of 2168, loss: 3.677409031391144
+Epoch: 46, batch: 600 of 2168, loss: 3.7050706005096434
+Epoch: 46, batch: 700 of 2168, loss: 3.700293378829956
+Epoch: 46, batch: 800 of 2168, loss: 3.729199640750885
+Epoch: 46, batch: 900 of 2168, loss: 3.6529204082489013
+Epoch: 46, batch: 1000 of 2168, loss: 3.6696808552742004
+Epoch: 46, batch: 1100 of 2168, loss: 3.7792909240722654
+Epoch: 46, batch: 1200 of 2168, loss: 3.7138889598846436
+Epoch: 46, batch: 1300 of 2168, loss: 3.755267882347107
+Epoch: 46, batch: 1400 of 2168, loss: 3.7602563190460203
+Epoch: 46, batch: 1500 of 2168, loss: 3.788149538040161
+Epoch: 46, batch: 1600 of 2168, loss: 3.6776608395576478
+Epoch: 46, batch: 1700 of 2168, loss: 3.676276800632477
+Epoch: 46, batch: 1800 of 2168, loss: 3.6890682315826417
+Epoch: 46, batch: 1900 of 2168, loss: 3.7092625594139097
+Epoch: 46, batch: 2000 of 2168, loss: 3.698383505344391
+Epoch: 46, batch: 2100 of 2168, loss: 3.6833537554740907
+Epoch 46 done, here is a sample (creativity 5):
+jesus
+ of them. selah. and the philistines' s name,
+ the daughter that the mother was not in them; and there was come out. and he said unto
+ the loud hand; the king, and his daughter. amen, god called
+ it in the lord god in the sight, and they was no
+ the people.
+ amen 12 and david, he said to them the father. so they did a king' and his mother
+ went to the mother, and went unto me: for the mother, the
+ name. and he said unto david the prophet; and there went out
+ into the people, that he may be, when i will give it the
+ people. then they shall come unto you the father of egypt, i
+ shalt surely go, that he shall not have given them in you: for i have
+ spoken to the land, s wife. and they was no in the
+ people' which were called, which were with a land. then they
+Epoch: 47, batch: 100 of 2168, loss: 3.7405476856231687
+Epoch: 47, batch: 200 of 2168, loss: 3.64602117061615
+Epoch: 47, batch: 300 of 2168, loss: 3.6566711831092835
+Epoch: 47, batch: 400 of 2168, loss: 3.5922942614555358
+Epoch: 47, batch: 500 of 2168, loss: 3.6618393301963805
+Epoch: 47, batch: 600 of 2168, loss: 3.68643456697464
+Epoch: 47, batch: 700 of 2168, loss: 3.679166989326477
+Epoch: 47, batch: 800 of 2168, loss: 3.708379499912262
+Epoch: 47, batch: 900 of 2168, loss: 3.6312343406677248
+Epoch: 47, batch: 1000 of 2168, loss: 3.648629071712494
+Epoch: 47, batch: 1100 of 2168, loss: 3.7625480818748476
+Epoch: 47, batch: 1200 of 2168, loss: 3.6924908494949342
+Epoch: 47, batch: 1300 of 2168, loss: 3.7399819707870483
+Epoch: 47, batch: 1400 of 2168, loss: 3.7425175499916077
+Epoch: 47, batch: 1500 of 2168, loss: 3.775511472225189
+Epoch: 47, batch: 1600 of 2168, loss: 3.658027331829071
+Epoch: 47, batch: 1700 of 2168, loss: 3.6574429750442503
+Epoch: 47, batch: 1800 of 2168, loss: 3.6687576365470886
+Epoch: 47, batch: 1900 of 2168, loss: 3.689673538208008
+Epoch: 47, batch: 2000 of 2168, loss: 3.675815725326538
+Epoch: 47, batch: 2100 of 2168, loss: 3.66207049369812
+Epoch 47 done, here is a sample (creativity 3):
+jesus, s
+ children of god.
+ amen. and he went unto him the son that came to the house of israel. so the king'
+ and said, i am come into the house of god, and the
+ house of god. this, and
+ all that i have given thee, saith the son.
+ and they answered unto them.
+
+ 12 and they said unto them the father, the lord, my god hath
+ spoken in thee. and the people' s house and him.
+
+ 27: 4 and the philistines was a lord' and his king, and all his house, s house,
+ and his levites. so the lord was kindled in his house: for the lord
+ had said, and the lord was in thee. so they said to him
+ that the lord said, go. then the king said unto them the father, the
+ daughter that i am the father, that thou will not go unto thee.
+ amen, the lord god,
+Epoch: 48, batch: 100 of 2168, loss: 3.721093304157257
+Epoch: 48, batch: 200 of 2168, loss: 3.6230992436408997
+Epoch: 48, batch: 300 of 2168, loss: 3.640314338207245
+Epoch: 48, batch: 400 of 2168, loss: 3.571213161945343
+Epoch: 48, batch: 500 of 2168, loss: 3.641855263710022
+Epoch: 48, batch: 600 of 2168, loss: 3.668294517993927
+Epoch: 48, batch: 700 of 2168, loss: 3.6621238946914674
+Epoch: 48, batch: 800 of 2168, loss: 3.6953849959373475
+Epoch: 48, batch: 900 of 2168, loss: 3.611978299617767
+Epoch: 48, batch: 1000 of 2168, loss: 3.630527970790863
+Epoch: 48, batch: 1100 of 2168, loss: 3.73929967880249
+Epoch: 48, batch: 1200 of 2168, loss: 3.6765655946731566
+Epoch: 48, batch: 1300 of 2168, loss: 3.7221130251884462
+Epoch: 48, batch: 1400 of 2168, loss: 3.7272187781333925
+Epoch: 48, batch: 1500 of 2168, loss: 3.751725640296936
+Epoch: 48, batch: 1600 of 2168, loss: 3.64160174369812
+Epoch: 48, batch: 1700 of 2168, loss: 3.6390838694572447
+Epoch: 48, batch: 1800 of 2168, loss: 3.6551555371284485
+Epoch: 48, batch: 1900 of 2168, loss: 3.6692619824409487
+Epoch: 48, batch: 2000 of 2168, loss: 3.6644384169578554
+Epoch: 48, batch: 2100 of 2168, loss: 3.641404163837433
+Epoch 48 done, here is a sample (creativity 4):
+jesus. and the king said unto the lord to him
+ that were with the city of israel: wherefore is i the king' that the mother
+ which i have given me to do. and he answered, what will i be the lord? for it is no
+ a lord, and my people. so he said unto him the son
+ of the lord god; and they was filled with them, that they had
+ done, that he were in a midst of egypt; for there is the people,
+ they went up into a hand. so the lord was the hundred hand, the lord had
+ given him the people to go, as the children was in them. and
+ the lord commanded moses, saying, there hath no my name. and he
+ brought the voice. then david brought him into their hand.
+ saith unto him to pass.
+ that said the lord god; 1 that i have not spoken in his lord.
+ amen, to they, that he was the son
+Epoch: 49, batch: 100 of 2168, loss: 3.70469055891037
+Epoch: 49, batch: 200 of 2168, loss: 3.6069301557540894
+Epoch: 49, batch: 300 of 2168, loss: 3.6196647024154665
+Epoch: 49, batch: 400 of 2168, loss: 3.55491149187088
+Epoch: 49, batch: 500 of 2168, loss: 3.626766889095306
+Epoch: 49, batch: 600 of 2168, loss: 3.653493134975433
+Epoch: 49, batch: 700 of 2168, loss: 3.6411793661117553
+Epoch: 49, batch: 800 of 2168, loss: 3.674080591201782
+Epoch: 49, batch: 900 of 2168, loss: 3.589584312438965
+Epoch: 49, batch: 1000 of 2168, loss: 3.6111099171638488
+Epoch: 49, batch: 1100 of 2168, loss: 3.7244127774238587
+Epoch: 49, batch: 1200 of 2168, loss: 3.6576417899131775
+Epoch: 49, batch: 1300 of 2168, loss: 3.7030450463294984
+Epoch: 49, batch: 1400 of 2168, loss: 3.708132035732269
+Epoch: 49, batch: 1500 of 2168, loss: 3.7328979134559632
+Epoch: 49, batch: 1600 of 2168, loss: 3.627874574661255
+Epoch: 49, batch: 1700 of 2168, loss: 3.618856921195984
+Epoch: 49, batch: 1800 of 2168, loss: 3.634524483680725
+Epoch: 49, batch: 1900 of 2168, loss: 3.6563464975357056
+Epoch: 49, batch: 2000 of 2168, loss: 3.646885199546814
+Epoch: 49, batch: 2100 of 2168, loss: 3.6286476635932923
+Epoch 49 done, here is a sample (creativity 3):
+jesus,
+ saying, i will not be in the lord thy god.
+ and they said, i shalt not be a son in you. and he
+ answered, i will be a people, and the lord thy god. and he said
+ to me.
+
+ 20: 2 now he said and told them the son of the king of
+ moses the king of the lord god, and the people was a great hand
+ with his house: and the philistines was a great hand, that he were in the midst of
+ his house: for he were a great god, that he might be the god. so he said unto
+ the people of pharaoh. and the mother of the lord was come to jerusalem. and the
+ people said unto him. and they said and saith to the disciples of israel.
+ and the king said unto them, i am the lord, and i shalt not be a prophet, and
+ i hast said unto thee, o is thou. and he went,
+Epoch: 50, batch: 100 of 2168, loss: 3.691865291595459
+Epoch: 50, batch: 200 of 2168, loss: 3.591080403327942
+Epoch: 50, batch: 300 of 2168, loss: 3.609459161758423
+Epoch: 50, batch: 400 of 2168, loss: 3.5395668053627016
+Epoch: 50, batch: 500 of 2168, loss: 3.61306832075119
+Epoch: 50, batch: 600 of 2168, loss: 3.637299497127533
+Epoch: 50, batch: 700 of 2168, loss: 3.6279249715805055
+Epoch: 50, batch: 800 of 2168, loss: 3.660803236961365
+Epoch: 50, batch: 900 of 2168, loss: 3.5769227266311647
+Epoch: 50, batch: 1000 of 2168, loss: 3.596152613162994
+Epoch: 50, batch: 1100 of 2168, loss: 3.713957087993622
+Epoch: 50, batch: 1200 of 2168, loss: 3.6429835391044616
+Epoch: 50, batch: 1300 of 2168, loss: 3.695427803993225
+Epoch: 50, batch: 1400 of 2168, loss: 3.6933536434173586
+Epoch: 50, batch: 1500 of 2168, loss: 3.71668336391449
+Epoch: 50, batch: 1600 of 2168, loss: 3.6172331881523134
+Epoch: 50, batch: 1700 of 2168, loss: 3.608580756187439
+Epoch: 50, batch: 1800 of 2168, loss: 3.6246052312850954
+Epoch: 50, batch: 1900 of 2168, loss: 3.6470394468307497
+Epoch: 50, batch: 2000 of 2168, loss: 3.63653128862381
+Epoch: 50, batch: 2100 of 2168, loss: 3.6155272030830385
+Epoch 50 done, here is a sample (creativity 4):
+jesus of
+ the philistines, the mother, and of that men did be the lord
+ our covenant. selah that i hast given you to thee: but the
+ name which thou am not of you: but the people hath not done, that ye have not
+ done me; and thou shalt make thee the name, and will not go.
+
+ 4 for he that are with you, that he might do him: for they shall come into
+ his house. this, the lord will not give them, nor i
+ shall bring them unto thee, to the house that the lord thy king
+ will do thee: and thou shalt take you out to thy hand. and they said and
+ said unto the king, go not, i am the lord, that the lord hath given thee, that
+ the lord is my lord. this things and the lord' and the people
+ that i command me; i have heard my people: and thou hast said unto
+ thee: and i will be
+Epoch: 51, batch: 100 of 2168, loss: 3.6790515613555907
+Epoch: 51, batch: 200 of 2168, loss: 3.574840202331543
+Epoch: 51, batch: 300 of 2168, loss: 3.5963050723075867
+Epoch: 51, batch: 400 of 2168, loss: 3.5243303036689757
+Epoch: 51, batch: 500 of 2168, loss: 3.6009206199645996
+Epoch: 51, batch: 600 of 2168, loss: 3.623192286491394
+Epoch: 51, batch: 700 of 2168, loss: 3.6141728949546814
+Epoch: 51, batch: 800 of 2168, loss: 3.6451345324516295
+Epoch: 51, batch: 900 of 2168, loss: 3.5578513240814207
+Epoch: 51, batch: 1000 of 2168, loss: 3.5839996123313904
+Epoch: 51, batch: 1100 of 2168, loss: 3.7008492612838744
+Epoch: 51, batch: 1200 of 2168, loss: 3.63373690366745
+Epoch: 51, batch: 1300 of 2168, loss: 3.681468484401703
+Epoch: 51, batch: 1400 of 2168, loss: 3.684700996875763
+Epoch: 51, batch: 1500 of 2168, loss: 3.7044363498687742
+Epoch: 51, batch: 1600 of 2168, loss: 3.6015954780578614
+Epoch: 51, batch: 1700 of 2168, loss: 3.5983164167404174
+Epoch: 51, batch: 1800 of 2168, loss: 3.616324818134308
+Epoch: 51, batch: 1900 of 2168, loss: 3.6314715147018433
+Epoch: 51, batch: 2000 of 2168, loss: 3.6224763560295106
+Epoch: 51, batch: 2100 of 2168, loss: 3.60117671251297
+Epoch 51 done, here is a sample (creativity 5):
+jesus. and the lord had called
+ me with the hand.
+ amen. then they brought them into his house, the daughter
+ was with him to him, to the people. then when he had made him of a
+ house. then david said to them. jesus said to his lord and all
+ him to come to jerusalem in jerusalem to come, saying to him. then the
+ king came, saying to him that was in him; the name was come
+ to war; he had no the name of god that were in
+ the land' even. ) i was the man' s daughter. then they
+ went to the philistines. then the lord had heard the people. so the sons was in them. jesus
+ said and the disciples, he said. so the lord spake, because he had
+ done. now he was the great voice of the philistines: and the
+ disciples' and their servants the mother of the people, he said. then they did
+ come, that
+Epoch: 52, batch: 100 of 2168, loss: 3.661173906326294
+Epoch: 52, batch: 200 of 2168, loss: 3.5615222549438474
+Epoch: 52, batch: 300 of 2168, loss: 3.5816291904449464
+Epoch: 52, batch: 400 of 2168, loss: 3.5144542956352236
+Epoch: 52, batch: 500 of 2168, loss: 3.5850431632995607
+Epoch: 52, batch: 600 of 2168, loss: 3.6128521871566774
+Epoch: 52, batch: 700 of 2168, loss: 3.607967450618744
+Epoch: 52, batch: 800 of 2168, loss: 3.6359387636184692
+Epoch: 52, batch: 900 of 2168, loss: 3.547518427371979
+Epoch: 52, batch: 1000 of 2168, loss: 3.575115897655487
+Epoch: 52, batch: 1100 of 2168, loss: 3.693599877357483
+Epoch: 52, batch: 1200 of 2168, loss: 3.6199316000938415
+Epoch: 52, batch: 1300 of 2168, loss: 3.663570544719696
+Epoch: 52, batch: 1400 of 2168, loss: 3.6695157361030577
+Epoch: 52, batch: 1500 of 2168, loss: 3.695463478565216
+Epoch: 52, batch: 1600 of 2168, loss: 3.5883529806137084
+Epoch: 52, batch: 1700 of 2168, loss: 3.5853590393066406
+Epoch: 52, batch: 1800 of 2168, loss: 3.6051345252990723
+Epoch: 52, batch: 1900 of 2168, loss: 3.6203903770446777
+Epoch: 52, batch: 2000 of 2168, loss: 3.6108462524414064
+Epoch: 52, batch: 2100 of 2168, loss: 3.5922303771972657
+Epoch 52 done, here is a sample (creativity 3):
+jesus
+ the son that i am the father. and they went, saying the
+ lord, that they might go, i am in you, that thou have done, and
+ the lord will be the god, which thou hast given thee to thee:
+ and the lord thy fathers shall choose them to possess the name of israel. this is
+ this day that thou shalt do. and all israel he went to him the son
+ of god. this day, and the mother of god the king,
+ the name that the king' whom was of israel in his
+ lord. so the lord had said unto them the king. so the king said unto him,
+ behold. and he said unto him, i will be, that thou hast not been a father' s.
+ then they sat. and the mother said unto
+ the people of joab, the people, that thou have done. so the king said
+ unto him and to him, saying unto him. then david answered,
+
+Epoch: 53, batch: 100 of 2168, loss: 3.6541220784187316
+Epoch: 53, batch: 200 of 2168, loss: 3.5490082478523255
+Epoch: 53, batch: 300 of 2168, loss: 3.571727089881897
+Epoch: 53, batch: 400 of 2168, loss: 3.5046380758285522
+Epoch: 53, batch: 500 of 2168, loss: 3.5787502765655517
+Epoch: 53, batch: 600 of 2168, loss: 3.6017223405838013
+Epoch: 53, batch: 700 of 2168, loss: 3.5988330030441285
+Epoch: 53, batch: 800 of 2168, loss: 3.6242622423171995
+Epoch: 53, batch: 900 of 2168, loss: 3.540286433696747
+Epoch: 53, batch: 1000 of 2168, loss: 3.564273452758789
+Epoch: 53, batch: 1100 of 2168, loss: 3.679352445602417
+Epoch: 53, batch: 1200 of 2168, loss: 3.6135220313072205
+Epoch: 53, batch: 1300 of 2168, loss: 3.658289952278137
+Epoch: 53, batch: 1400 of 2168, loss: 3.661515555381775
+Epoch: 53, batch: 1500 of 2168, loss: 3.685162191390991
+Epoch: 53, batch: 1600 of 2168, loss: 3.5805535531044006
+Epoch: 53, batch: 1700 of 2168, loss: 3.5778158116340637
+Epoch: 53, batch: 1800 of 2168, loss: 3.5919088339805603
+Epoch: 53, batch: 1900 of 2168, loss: 3.6072960662841798
+Epoch: 53, batch: 2000 of 2168, loss: 3.599650058746338
+Epoch: 53, batch: 2100 of 2168, loss: 3.5788037943840028
+Epoch 53 done, here is a sample (creativity 2):
+jesus. and the
+ philistines was the chief of his house. and he went to the city.
+ and the people was in him, and the lord was called. and he
+ went, and went to him, and said, i will be called. and he
+ said unto him. and he said, i will be a prophet.
+
+ 27 and i will not go unto thee, that thou will do thee. and
+ he answered unto them, i will be the lord.
+ and he said, it shall be a prophet. and the people of the
+ philistines shall come to thee, that the people be in thee, that he
+ might not be the people of the lord, that thou shalt do. and the lord said unto moses
+ the son, that thou will be called, that i will not be the
+ people.
+ and the lord said, it is not. and the people said unto him. and
+ david went to jerusalem.
+ and he said unto him
+Epoch: 54, batch: 100 of 2168, loss: 3.6448396396636964
+Epoch: 54, batch: 200 of 2168, loss: 3.5393919777870178
+Epoch: 54, batch: 300 of 2168, loss: 3.5638462233543398
+Epoch: 54, batch: 400 of 2168, loss: 3.490685160160065
+Epoch: 54, batch: 500 of 2168, loss: 3.5719257187843323
+Epoch: 54, batch: 600 of 2168, loss: 3.595158839225769
+Epoch: 54, batch: 700 of 2168, loss: 3.5923290920257567
+Epoch: 54, batch: 800 of 2168, loss: 3.6157486271858215
+Epoch: 54, batch: 900 of 2168, loss: 3.5266899394989015
+Epoch: 54, batch: 1000 of 2168, loss: 3.5524381136894227
+Epoch: 54, batch: 1100 of 2168, loss: 3.6680583119392396
+Epoch: 54, batch: 1200 of 2168, loss: 3.601055917739868
+Epoch: 54, batch: 1300 of 2168, loss: 3.647138214111328
+Epoch: 54, batch: 1400 of 2168, loss: 3.650140767097473
+Epoch: 54, batch: 1500 of 2168, loss: 3.6708361983299254
+Epoch: 54, batch: 1600 of 2168, loss: 3.5684850573539735
+Epoch: 54, batch: 1700 of 2168, loss: 3.5667459058761595
+Epoch: 54, batch: 1800 of 2168, loss: 3.5830967354774477
+Epoch: 54, batch: 1900 of 2168, loss: 3.6001608085632326
+Epoch: 54, batch: 2000 of 2168, loss: 3.592911319732666
+Epoch: 54, batch: 2100 of 2168, loss: 3.572987365722656
+Epoch 54 done, here is a sample (creativity 5):
+jesus. selah
+ the lord thy servant.
+ selah 25. amen: 8 the people that i command the name which i hast
+ given thee; for i shalt give thee a covenant with thee, saith
+ the god: for thou hast brought them away from me, and thou
+ hast spoken in thee: thou am thy father' s daughter: thou shalt bring him into
+ the hand thereof, that the people will be cut unto thee; i
+ have no a holy hand.
+ and they answered, the people of god is true; the father,
+ that i will be called more.
+ then it saith not unto him to be a brother. this things. but the
+ people came into his house: but there went not out. so
+ david went unto the city of the lord.
+ was she had said unto him; but they were a god. so the king
+ sent out unto them, that it came to pass unto him in his lord'
+ mother. so he said
+Epoch: 55, batch: 100 of 2168, loss: 3.6371864032745362
+Epoch: 55, batch: 200 of 2168, loss: 3.5292736291885376
+Epoch: 55, batch: 300 of 2168, loss: 3.553760471343994
+Epoch: 55, batch: 400 of 2168, loss: 3.4800792050361635
+Epoch: 55, batch: 500 of 2168, loss: 3.562281641960144
+Epoch: 55, batch: 600 of 2168, loss: 3.585311372280121
+Epoch: 55, batch: 700 of 2168, loss: 3.582403085231781
+Epoch: 55, batch: 800 of 2168, loss: 3.606444022655487
+Epoch: 55, batch: 900 of 2168, loss: 3.518026897907257
+Epoch: 55, batch: 1000 of 2168, loss: 3.5418608021736144
+Epoch: 55, batch: 1100 of 2168, loss: 3.6572716093063353
+Epoch: 55, batch: 1200 of 2168, loss: 3.5898405742645263
+Epoch: 55, batch: 1300 of 2168, loss: 3.6374300694465638
+Epoch: 55, batch: 1400 of 2168, loss: 3.640620679855347
+Epoch: 55, batch: 1500 of 2168, loss: 3.6626072788238524
+Epoch: 55, batch: 1600 of 2168, loss: 3.5642785954475404
+Epoch: 55, batch: 1700 of 2168, loss: 3.5577662992477417
+Epoch: 55, batch: 1800 of 2168, loss: 3.5752609753608704
+Epoch: 55, batch: 1900 of 2168, loss: 3.593599855899811
+Epoch: 55, batch: 2000 of 2168, loss: 3.5848579239845275
+Epoch: 55, batch: 2100 of 2168, loss: 3.558730335235596
+Epoch 55 done, here is a sample (creativity 5):
+jesus' son;
+ but i have given the people to the people; he will not go unto them
+ and a lord. selah: i am a god. so
+ the mother that he was of jerusalem had heard it: and
+ when the mother was not a great man in their name,
+ the daughter, he was the lord.
+ wrote and they was to thee, saith of israel that were called. so he came up into a
+ temple' feet of david the king' s wife; but david went to jerusalem in
+ the loud house' feet. ) the people was in his people' s
+ house, saying unto them and the king of judah, that they were not. so
+ david was filled. and joab went out of david into his philistines, that the lord
+ said him to me, the son was not in them, saith the
+ lord; 20, 7 the children was very with all his people, even all all the people that the soul
+ commanded them
+Epoch: 56, batch: 100 of 2168, loss: 3.6256568384170533
+Epoch: 56, batch: 200 of 2168, loss: 3.5162126541137697
+Epoch: 56, batch: 300 of 2168, loss: 3.5429241847991944
+Epoch: 56, batch: 400 of 2168, loss: 3.4722465562820433
+Epoch: 56, batch: 500 of 2168, loss: 3.5522172975540163
+Epoch: 56, batch: 600 of 2168, loss: 3.574540581703186
+Epoch: 56, batch: 700 of 2168, loss: 3.5731204175949096
+Epoch: 56, batch: 800 of 2168, loss: 3.596163439750671
+Epoch: 56, batch: 900 of 2168, loss: 3.510955605506897
+Epoch: 56, batch: 1000 of 2168, loss: 3.528837184906006
+Epoch: 56, batch: 1100 of 2168, loss: 3.650014865398407
+Epoch: 56, batch: 1200 of 2168, loss: 3.583765895366669
+Epoch: 56, batch: 1300 of 2168, loss: 3.6329364490509035
+Epoch: 56, batch: 1400 of 2168, loss: 3.6301387429237364
+Epoch: 56, batch: 1500 of 2168, loss: 3.6551360845565797
+Epoch: 56, batch: 1600 of 2168, loss: 3.555231635570526
+Epoch: 56, batch: 1700 of 2168, loss: 3.5525548577308657
+Epoch: 56, batch: 1800 of 2168, loss: 3.5683501052856443
+Epoch: 56, batch: 1900 of 2168, loss: 3.586143798828125
+Epoch: 56, batch: 2000 of 2168, loss: 3.5750842547416686
+Epoch: 56, batch: 2100 of 2168, loss: 3.547622437477112
+Epoch 56 done, here is a sample (creativity 4):
+jesus
+ and him: i shalt also be in thee, and i shall not do thee
+ to do, nor will be a son.
+ saith.
+ shalt shall do: i will have a lord thy king. selah, he shall be
+ unto him: i shall make the lord your god; i hast
+ spoken in thee and thy sake, and thy statutes' to all thy people: i will bring the
+ people in them, saith the word. and the people was in
+ them.
+ and the king' journey. so moses said unto the people. then david did eat the name
+ thereof. so the lord called him to the people, the lord, the god, that he had made him
+ in me: and the king was come up to battle, the name of
+ israel.
+ and it came, the man, the name of eli. then
+ he did not come unto the lord, and went to jerusalem. then he
+ went unto them. then he said
+Epoch: 57, batch: 100 of 2168, loss: 3.6186566281318666
+Epoch: 57, batch: 200 of 2168, loss: 3.5069623827934264
+Epoch: 57, batch: 300 of 2168, loss: 3.533820333480835
+Epoch: 57, batch: 400 of 2168, loss: 3.461990761756897
+Epoch: 57, batch: 500 of 2168, loss: 3.5480038690567017
+Epoch: 57, batch: 600 of 2168, loss: 3.564686212539673
+Epoch: 57, batch: 700 of 2168, loss: 3.566055760383606
+Epoch: 57, batch: 800 of 2168, loss: 3.588830132484436
+Epoch: 57, batch: 900 of 2168, loss: 3.501658310890198
+Epoch: 57, batch: 1000 of 2168, loss: 3.5194055914878843
+Epoch: 57, batch: 1100 of 2168, loss: 3.64007226228714
+Epoch: 57, batch: 1200 of 2168, loss: 3.57275972366333
+Epoch: 57, batch: 1300 of 2168, loss: 3.621937665939331
+Epoch: 57, batch: 1400 of 2168, loss: 3.6233244585990905
+Epoch: 57, batch: 1500 of 2168, loss: 3.646247034072876
+Epoch: 57, batch: 1600 of 2168, loss: 3.542925839424133
+Epoch: 57, batch: 1700 of 2168, loss: 3.540299301147461
+Epoch: 57, batch: 1800 of 2168, loss: 3.558805162906647
+Epoch: 57, batch: 1900 of 2168, loss: 3.572561228275299
+Epoch: 57, batch: 2000 of 2168, loss: 3.566769404411316
+Epoch: 57, batch: 2100 of 2168, loss: 3.546740565299988
+Epoch 57 done, here is a sample (creativity 5):
+jesus
+ and me: therefore the children was very the great man: and when he was dead
+ unto me in a sight that were the man that was in him.
+ and he sat unto them. then samuel answered, there is not a people
+ to them; the father' son of the house of jacob and the name that were in the land' sake. and he said, i art in you, to the people: i
+ have no a lord. amen and a hand that i shalt not give thee, i shalt go to
+ pass, as the egyptians be come up to death. then the king
+ called that he would. this is a name was in the midst. and they went up to meet.
+ then there stood in the side. and the philistines answered unto the lord
+ the prophet of god: he is the great priest, to bring them to him:
+ but the lord god said of his house in jerusalem and aaron
+ in the lord: for there was the
+Epoch: 58, batch: 100 of 2168, loss: 3.61017968416214
+Epoch: 58, batch: 200 of 2168, loss: 3.495791187286377
+Epoch: 58, batch: 300 of 2168, loss: 3.524889976978302
+Epoch: 58, batch: 400 of 2168, loss: 3.454414484500885
+Epoch: 58, batch: 500 of 2168, loss: 3.5344112300872803
+Epoch: 58, batch: 600 of 2168, loss: 3.556726922988892
+Epoch: 58, batch: 700 of 2168, loss: 3.5569263339042663
+Epoch: 58, batch: 800 of 2168, loss: 3.580608048439026
+Epoch: 58, batch: 900 of 2168, loss: 3.4928756403923034
+Epoch: 58, batch: 1000 of 2168, loss: 3.5146469020843507
+Epoch: 58, batch: 1100 of 2168, loss: 3.6330165576934816
+Epoch: 58, batch: 1200 of 2168, loss: 3.5651504611968994
+Epoch: 58, batch: 1300 of 2168, loss: 3.6137631249427797
+Epoch: 58, batch: 1400 of 2168, loss: 3.614593963623047
+Epoch: 58, batch: 1500 of 2168, loss: 3.639237666130066
+Epoch: 58, batch: 1600 of 2168, loss: 3.5386196684837343
+Epoch: 58, batch: 1700 of 2168, loss: 3.534995322227478
+Epoch: 58, batch: 1800 of 2168, loss: 3.5474421906471254
+Epoch: 58, batch: 1900 of 2168, loss: 3.5688831400871277
+Epoch: 58, batch: 2000 of 2168, loss: 3.562028901576996
+Epoch: 58, batch: 2100 of 2168, loss: 3.535948700904846
+Epoch 58 done, here is a sample (creativity 5):
+jesus. selah
+ therefore. but thou will say and said to them, go to me that is
+ numbered, that he have not done: he is the people' journey in his name. this is, he shall
+ not do, neither shalt i make the lord thy covenant: he will
+ give them thy covenant upon thy lord.
+: 66. moreover these shall be as this thing.
+
+ 66 for they that shall be the sign, ye have not given thee: but he that shall be a name: for
+ the name thereof be a stranger, even that thou have not
+ heard. so the servants come unto the king, the name. and when the man was in
+ jerusalem, saying he. and the mother was a lord. then
+ moses went to the house to joab, that there came to pass, when it is a day,
+ when she went. then when they had taken him into him to go to death, he said to the disciples, i
+ shalt
+Epoch: 59, batch: 100 of 2168, loss: 3.6016662669181825
+Epoch: 59, batch: 200 of 2168, loss: 3.4862711143493654
+Epoch: 59, batch: 300 of 2168, loss: 3.52136150598526
+Epoch: 59, batch: 400 of 2168, loss: 3.446442918777466
+Epoch: 59, batch: 500 of 2168, loss: 3.5289796733856202
+Epoch: 59, batch: 600 of 2168, loss: 3.552846133708954
+Epoch: 59, batch: 700 of 2168, loss: 3.554471130371094
+Epoch: 59, batch: 800 of 2168, loss: 3.573960795402527
+Epoch: 59, batch: 900 of 2168, loss: 3.4884605264663695
+Epoch: 59, batch: 1000 of 2168, loss: 3.504905364513397
+Epoch: 59, batch: 1100 of 2168, loss: 3.629461123943329
+Epoch: 59, batch: 1200 of 2168, loss: 3.5605410528182984
+Epoch: 59, batch: 1300 of 2168, loss: 3.6080600142478945
+Epoch: 59, batch: 1400 of 2168, loss: 3.6078303170204165
+Epoch: 59, batch: 1500 of 2168, loss: 3.6306667137145996
+Epoch: 59, batch: 1600 of 2168, loss: 3.5326034688949584
+Epoch: 59, batch: 1700 of 2168, loss: 3.5283141040802004
+Epoch: 59, batch: 1800 of 2168, loss: 3.5464437866210936
+Epoch: 59, batch: 1900 of 2168, loss: 3.562104923725128
+Epoch: 59, batch: 2000 of 2168, loss: 3.552638502120972
+Epoch: 59, batch: 2100 of 2168, loss: 3.5259081745147705
+Epoch 59 done, here is a sample (creativity 3):
+jesus the god
+ that is numbered of the house of the children of the fathers, that he
+ had spoken unto them, and he shall come forth out from you. amen. moreover he said unto them the third time
+ the second day, that thou will not be the son of the lord, that
+ the people shall go into a house: and the people will
+ be upon him: and the children that i shalt do the people. amen. and
+ he saith, i am my lord.
+
+ 27 and he saith unto me, go, i will go up to the
+ land, to give the lord thy god, to make thee a name, to do them.
+ to they said unto the king of israel the son. and he
+ shall not go unto thee, saying, thou will be the lord.
+ when the people shall be cut unto you, and i shalt give the
+ name of israel. and he went out to him, and said unto them the third
+
+Epoch: 60, batch: 100 of 2168, loss: 3.5949776649475096
+Epoch: 60, batch: 200 of 2168, loss: 3.4776993370056153
+Epoch: 60, batch: 300 of 2168, loss: 3.51084321975708
+Epoch: 60, batch: 400 of 2168, loss: 3.4418153381347656
+Epoch: 60, batch: 500 of 2168, loss: 3.5262538313865663
+Epoch: 60, batch: 600 of 2168, loss: 3.543672523498535
+Epoch: 60, batch: 700 of 2168, loss: 3.544101676940918
+Epoch: 60, batch: 800 of 2168, loss: 3.5676032519340515
+Epoch: 60, batch: 900 of 2168, loss: 3.4794704937934875
+Epoch: 60, batch: 1000 of 2168, loss: 3.498511073589325
+Epoch: 60, batch: 1100 of 2168, loss: 3.6207086491584777
+Epoch: 60, batch: 1200 of 2168, loss: 3.556322672367096
+Epoch: 60, batch: 1300 of 2168, loss: 3.5990309643745424
+Epoch: 60, batch: 1400 of 2168, loss: 3.6019857501983643
+Epoch: 60, batch: 1500 of 2168, loss: 3.6216842198371886
+Epoch: 60, batch: 1600 of 2168, loss: 3.5283869028091432
+Epoch: 60, batch: 1700 of 2168, loss: 3.5210563254356386
+Epoch: 60, batch: 1800 of 2168, loss: 3.5363644981384277
+Epoch: 60, batch: 1900 of 2168, loss: 3.5530953216552734
+Epoch: 60, batch: 2000 of 2168, loss: 3.5509490990638732
+Epoch: 60, batch: 2100 of 2168, loss: 3.521410439014435
+Epoch 60 done, here is a sample (creativity 2):
+jesus the son of eli. amen, the lord the god
+ of the children of israel, the name of the king of the lord: and the
+ king was the lord.
+ and they did so. and the people was come up.
+ and the philistines was in him. and he said, it is the lord'
+ sight. and david said unto them.
+ and they sat.
+
+ 12 and he saith unto the people, i have heard me. and the lord said
+ unto moses and the mother, that he was come to the city,
+ and the philistines, that he had done.
+ and the philistines was in the king. and the king said unto
+ him, i will go to pass, when he hath not been.
+ and he went to the house of the lord, and said, it is a
+ people, that thou may be a lord.
+ and the lord of hosts, that he had spoken.
+
+ 3 and the servants of the lord
+Epoch: 61, batch: 100 of 2168, loss: 3.588816611766815
+Epoch: 61, batch: 200 of 2168, loss: 3.471392457485199
+Epoch: 61, batch: 300 of 2168, loss: 3.5074534821510315
+Epoch: 61, batch: 400 of 2168, loss: 3.4360673117637632
+Epoch: 61, batch: 500 of 2168, loss: 3.5130002236366273
+Epoch: 61, batch: 600 of 2168, loss: 3.5361395502090454
+Epoch: 61, batch: 700 of 2168, loss: 3.5372364783287047
+Epoch: 61, batch: 800 of 2168, loss: 3.5576325702667235
+Epoch: 61, batch: 900 of 2168, loss: 3.4748630905151368
+Epoch: 61, batch: 1000 of 2168, loss: 3.493323333263397
+Epoch: 61, batch: 1100 of 2168, loss: 3.6142600846290587
+Epoch: 61, batch: 1200 of 2168, loss: 3.543453450202942
+Epoch: 61, batch: 1300 of 2168, loss: 3.591610908508301
+Epoch: 61, batch: 1400 of 2168, loss: 3.5932511115074157
+Epoch: 61, batch: 1500 of 2168, loss: 3.614768748283386
+Epoch: 61, batch: 1600 of 2168, loss: 3.5185111379623413
+Epoch: 61, batch: 1700 of 2168, loss: 3.5124133729934695
+Epoch: 61, batch: 1800 of 2168, loss: 3.528167200088501
+Epoch: 61, batch: 1900 of 2168, loss: 3.5438200712203978
+Epoch: 61, batch: 2000 of 2168, loss: 3.540266492366791
+Epoch: 61, batch: 2100 of 2168, loss: 3.5151801681518555
+Epoch 61 done, here is a sample (creativity 5):
+jesus' s house. and he said and called
+ the brethren to him. but they saith him.
+ pilate 12 saith and cursed, there was no man.
+ howbeit the lord spake unto me.
+ howbeit they answered to be, when i hast been in us in the land
+ which the man hath made. then david went unto him the son. this is
+ simon. now joab sat to the king. so samuel did not go to the lord: he had not said, he said. so he said.
+
+ 12 so she were come, saith the lord of god the god
+ of the lord, saith.
+
+ 3. then he came to him, and went, saying unto the lord. then they said, i
+ shalt be a prophet unto the lord' sake? and the people of egypt
+ was with the people. this things saith. and the mother went forth. now
+ they went, he had heard him in his hand: the eyes that he had made
+Epoch: 62, batch: 100 of 2168, loss: 3.5885818862915038
+Epoch: 62, batch: 200 of 2168, loss: 3.465013122558594
+Epoch: 62, batch: 300 of 2168, loss: 3.5017004132270815
+Epoch: 62, batch: 400 of 2168, loss: 3.4278621530532836
+Epoch: 62, batch: 500 of 2168, loss: 3.5097337770462036
+Epoch: 62, batch: 600 of 2168, loss: 3.5320100235939025
+Epoch: 62, batch: 700 of 2168, loss: 3.5316472315788268
+Epoch: 62, batch: 800 of 2168, loss: 3.550738055706024
+Epoch: 62, batch: 900 of 2168, loss: 3.4682623171806335
+Epoch: 62, batch: 1000 of 2168, loss: 3.4821830439567565
+Epoch: 62, batch: 1100 of 2168, loss: 3.6044738912582397
+Epoch: 62, batch: 1200 of 2168, loss: 3.5414287066459655
+Epoch: 62, batch: 1300 of 2168, loss: 3.5854792046546935
+Epoch: 62, batch: 1400 of 2168, loss: 3.5842207431793214
+Epoch: 62, batch: 1500 of 2168, loss: 3.610053505897522
+Epoch: 62, batch: 1600 of 2168, loss: 3.510265884399414
+Epoch: 62, batch: 1700 of 2168, loss: 3.508225693702698
+Epoch: 62, batch: 1800 of 2168, loss: 3.5251896286010744
+Epoch: 62, batch: 1900 of 2168, loss: 3.5420774960517885
+Epoch: 62, batch: 2000 of 2168, loss: 3.5381512570381166
+Epoch: 62, batch: 2100 of 2168, loss: 3.5082415318489075
+Epoch 62 done, here is a sample (creativity 4):
+jesus' son: but the lord had given him, that the name
+ should be brought to his house; but the lord hath spoken unto him in ever, and i
+ shalt give thee. this day shall come to thee in thee, saith unto him: for the people
+ will come. and he saith to her father the son. so david went to
+ the city.
+ pilate brought it out, the name, even as there came to pass.
+ then he said to his lord' s house; for, when he
+ had said, he had made me that they had spoken to him; for they said, the
+ lord hath done the lord god. and israel said unto the people, i will be the lord
+.
+ then they will not be the prophet. and all the people, the name of the lord
+ will do it to him: for the people shall not hearken unto thee, let me. so the king
+ of egypt went out. so they went to him
+Epoch: 63, batch: 100 of 2168, loss: 3.5776706290245057
+Epoch: 63, batch: 200 of 2168, loss: 3.455336630344391
+Epoch: 63, batch: 300 of 2168, loss: 3.4916992235183715
+Epoch: 63, batch: 400 of 2168, loss: 3.4173268461227417
+Epoch: 63, batch: 500 of 2168, loss: 3.505547196865082
+Epoch: 63, batch: 600 of 2168, loss: 3.5232937717437744
+Epoch: 63, batch: 700 of 2168, loss: 3.5238395047187807
+Epoch: 63, batch: 800 of 2168, loss: 3.5480884289741517
+Epoch: 63, batch: 900 of 2168, loss: 3.463922801017761
+Epoch: 63, batch: 1000 of 2168, loss: 3.4730488157272337
+Epoch: 63, batch: 1100 of 2168, loss: 3.6034004354476927
+Epoch: 63, batch: 1200 of 2168, loss: 3.535075249671936
+Epoch: 63, batch: 1300 of 2168, loss: 3.5833596634864806
+Epoch: 63, batch: 1400 of 2168, loss: 3.5759338402748106
+Epoch: 63, batch: 1500 of 2168, loss: 3.6035486340522764
+Epoch: 63, batch: 1600 of 2168, loss: 3.506963813304901
+Epoch: 63, batch: 1700 of 2168, loss: 3.5003257989883423
+Epoch: 63, batch: 1800 of 2168, loss: 3.5186390495300293
+Epoch: 63, batch: 1900 of 2168, loss: 3.5359510660171507
+Epoch: 63, batch: 2000 of 2168, loss: 3.5287160015106203
+Epoch: 63, batch: 2100 of 2168, loss: 3.5013914275169373
+Epoch 63 done, here is a sample (creativity 5):
+jesus the
+ priest of the children and forty, and in that men. so he did that
+ was come unto the land that were with the sea of the philistines: the sword, he was the man, the name, the, to the people; he was
+ the great man of israel. but he said unto the king, thou art the son that i have. pilate saith i
+ said, the mother of israel is in us in me that is not a lord,
+ saying, the lord thy king shall reign, even the land. and they
+ went, saith the son: that he were come up to battle: but there was
+ not no. so all this people was there. and he went to jerusalem: he
+ was a man of israel. so the king said him to meet him: and
+ they called him, he sent away a way: for the people said and went, it is
+ the son which the lord was upon thee: he was my father' sake
+Epoch: 64, batch: 100 of 2168, loss: 3.574324381351471
+Epoch: 64, batch: 200 of 2168, loss: 3.448041534423828
+Epoch: 64, batch: 300 of 2168, loss: 3.486505410671234
+Epoch: 64, batch: 400 of 2168, loss: 3.4154333090782165
+Epoch: 64, batch: 500 of 2168, loss: 3.4983667969703673
+Epoch: 64, batch: 600 of 2168, loss: 3.5196870613098143
+Epoch: 64, batch: 700 of 2168, loss: 3.5199951267242433
+Epoch: 64, batch: 800 of 2168, loss: 3.54447674036026
+Epoch: 64, batch: 900 of 2168, loss: 3.4610205411911013
+Epoch: 64, batch: 1000 of 2168, loss: 3.470977602005005
+Epoch: 64, batch: 1100 of 2168, loss: 3.5973153829574587
+Epoch: 64, batch: 1200 of 2168, loss: 3.527222049236298
+Epoch: 64, batch: 1300 of 2168, loss: 3.573742344379425
+Epoch: 64, batch: 1400 of 2168, loss: 3.576450250148773
+Epoch: 64, batch: 1500 of 2168, loss: 3.5950388145446777
+Epoch: 64, batch: 1600 of 2168, loss: 3.5012924695014953
+Epoch: 64, batch: 1700 of 2168, loss: 3.497452437877655
+Epoch: 64, batch: 1800 of 2168, loss: 3.5155019545555115
+Epoch: 64, batch: 1900 of 2168, loss: 3.527759473323822
+Epoch: 64, batch: 2000 of 2168, loss: 3.524202129840851
+Epoch: 64, batch: 2100 of 2168, loss: 3.4990056920051575
+Epoch 64 done, here is a sample (creativity 5):
+jesus the
+ brother of god; he is come out of the hand, saying and him:
+ for he hath not spoken unto me in a people in all the heart of israel. selah, the lord is in
+ the name of the fathers, and the children that were in the house that the fathers
+ was filled, to give the people to them; the word that the lord commanded moses. and all that was, the people.
+
+ 27 so the lord came, behold to the people of his city of god; but
+ he had taken up all a hand. and the people answered, i
+ will be the people unto thee? and they saith, it shall come into my hand,
+ that he shall not go into the hand which the king will not. but they was no. so he
+ went, saith. then the mother that he had heard. and he answered,
+ let him not see thee. but they brought them to david: and the people'
+ sake he
+Epoch: 65, batch: 100 of 2168, loss: 3.56775053024292
+Epoch: 65, batch: 200 of 2168, loss: 3.4446942734718324
+Epoch: 65, batch: 300 of 2168, loss: 3.4788949131965636
+Epoch: 65, batch: 400 of 2168, loss: 3.407457695007324
+Epoch: 65, batch: 500 of 2168, loss: 3.497090516090393
+Epoch: 65, batch: 600 of 2168, loss: 3.5160973954200743
+Epoch: 65, batch: 700 of 2168, loss: 3.5125138187408447
+Epoch: 65, batch: 800 of 2168, loss: 3.5378999137878417
+Epoch: 65, batch: 900 of 2168, loss: 3.447391486167908
+Epoch: 65, batch: 1000 of 2168, loss: 3.4623104453086855
+Epoch: 65, batch: 1100 of 2168, loss: 3.5906097388267515
+Epoch: 65, batch: 1200 of 2168, loss: 3.5209647107124327
+Epoch: 65, batch: 1300 of 2168, loss: 3.5660809469223023
+Epoch: 65, batch: 1400 of 2168, loss: 3.5693594551086427
+Epoch: 65, batch: 1500 of 2168, loss: 3.596305339336395
+Epoch: 65, batch: 1600 of 2168, loss: 3.4933782052993774
+Epoch: 65, batch: 1700 of 2168, loss: 3.4903314971923827
+Epoch: 65, batch: 1800 of 2168, loss: 3.51158301115036
+Epoch: 65, batch: 1900 of 2168, loss: 3.524485468864441
+Epoch: 65, batch: 2000 of 2168, loss: 3.5152053451538086
+Epoch: 65, batch: 2100 of 2168, loss: 3.4885589265823365
+Epoch 65 done, here is a sample (creativity 3):
+jesus the son
+ thereof: and they went to the king. and david said unto the lord, go
+ to the house of israel; and he went unto him, and the lord said, i am my lord
+, 18. pilate hath not been in thee. jesus saith and saith
+ to them. and jesus answered and told the lord'. so he went unto him, saying unto him
+ to eli the son. then david answered unto them.
+ then they answered. and jesus saith unto her husband, he is the great god,
+ saying, i have made the hand.
+
+ 11.
+ then the disciples were gone, that he was dead. and he answered, it
+ is a god, but he is come to him. and he said unto him. jesus that saith,
+ let me not do.
+
+ 3 and pilate saith, it is no. then the king' father.
+ and he said to him the second time, let him not go to
+
+Epoch: 66, batch: 100 of 2168, loss: 3.560084879398346
+Epoch: 66, batch: 200 of 2168, loss: 3.4422644901275636
+Epoch: 66, batch: 300 of 2168, loss: 3.477038097381592
+Epoch: 66, batch: 400 of 2168, loss: 3.402062773704529
+Epoch: 66, batch: 500 of 2168, loss: 3.48762423992157
+Epoch: 66, batch: 600 of 2168, loss: 3.5058207869529725
+Epoch: 66, batch: 700 of 2168, loss: 3.5067019033432008
+Epoch: 66, batch: 800 of 2168, loss: 3.5339454007148743
+Epoch: 66, batch: 900 of 2168, loss: 3.4448013424873354
+Epoch: 66, batch: 1000 of 2168, loss: 3.4538381791114805
+Epoch: 66, batch: 1100 of 2168, loss: 3.586466386318207
+Epoch: 66, batch: 1200 of 2168, loss: 3.5169485235214233
+Epoch: 66, batch: 1300 of 2168, loss: 3.5663721323013307
+Epoch: 66, batch: 1400 of 2168, loss: 3.5633367347717284
+Epoch: 66, batch: 1500 of 2168, loss: 3.590631012916565
+Epoch: 66, batch: 1600 of 2168, loss: 3.489525592327118
+Epoch: 66, batch: 1700 of 2168, loss: 3.4881562423706054
+Epoch: 66, batch: 1800 of 2168, loss: 3.5018672490119935
+Epoch: 66, batch: 1900 of 2168, loss: 3.5253183007240296
+Epoch: 66, batch: 2000 of 2168, loss: 3.513565320968628
+Epoch: 66, batch: 2100 of 2168, loss: 3.485344786643982
+Epoch 66 done, here is a sample (creativity 3):
+jesus. amen
+ of him. and he went, the man is come to death,
+ that they might be a prophet of the lord' s. and they said, i will not go. and the lord was
+ with him, saying the lord, the people. and he said, let us not be
+ the people of the people, and i will be no more in thee, that
+ i will go. and he said and told the people of israel: for the
+ king of egypt was the king of god. and he said unto the king. and
+ the men that was the hundred day of israel went to jerusalem. so the people
+ answered, behold, it shall be, when thou will be a prophet, that i shalt be the lord. and it shall come to pass
+ in thee. but he shall not take the name of israel. so the
+ king' law, the lord, he said to him, behold, the lord thy
+ god. and i will
+Epoch: 67, batch: 100 of 2168, loss: 3.55736882686615
+Epoch: 67, batch: 200 of 2168, loss: 3.438100678920746
+Epoch: 67, batch: 300 of 2168, loss: 3.4669385671615602
+Epoch: 67, batch: 400 of 2168, loss: 3.3948015213012694
+Epoch: 67, batch: 500 of 2168, loss: 3.486848533153534
+Epoch: 67, batch: 600 of 2168, loss: 3.5028035140037534
+Epoch: 67, batch: 700 of 2168, loss: 3.501291353702545
+Epoch: 67, batch: 800 of 2168, loss: 3.528619728088379
+Epoch: 67, batch: 900 of 2168, loss: 3.4427449202537534
+Epoch: 67, batch: 1000 of 2168, loss: 3.4510114336013795
+Epoch: 67, batch: 1100 of 2168, loss: 3.5794270181655885
+Epoch: 67, batch: 1200 of 2168, loss: 3.5120008897781374
+Epoch: 67, batch: 1300 of 2168, loss: 3.5643751788139344
+Epoch: 67, batch: 1400 of 2168, loss: 3.5558477330207823
+Epoch: 67, batch: 1500 of 2168, loss: 3.5857121253013613
+Epoch: 67, batch: 1600 of 2168, loss: 3.4845145106315614
+Epoch: 67, batch: 1700 of 2168, loss: 3.4824069237709043
+Epoch: 67, batch: 1800 of 2168, loss: 3.501801450252533
+Epoch: 67, batch: 1900 of 2168, loss: 3.5129476952552796
+Epoch: 67, batch: 2000 of 2168, loss: 3.504209189414978
+Epoch: 67, batch: 2100 of 2168, loss: 3.4780868315696716
+Epoch 67 done, here is a sample (creativity 2):
+jesus, and the
+ brethren of israel.
+ and they said, i am the man.
+ and he said unto him.
+ and he said unto them. and the lord said, behold, the lord will
+ give him.
+
+ 22: 12 then the king of the lord said, i will go to pass, that
+ thou hast done, and the lord hath given thee the hand which thou
+ hast given you, that thou may not go into thy hand, that i may be a
+ people.
+
+ 14.
+ and he shall be upon the land.
+
+ 12: 7 for the lord hath said, and i shalt not take thee unto the lord
+ thy daughter, and thou will bring thee to thee, that thou may not be put
+ to death. and he shall not be put into his land, that they
+ shall not be found more.
+
+ 22.
+ and they shall not be put to death.
+ then the lord thy god hath spoken unto
+Epoch: 68, batch: 100 of 2168, loss: 3.552097353935242
+Epoch: 68, batch: 200 of 2168, loss: 3.426092891693115
+Epoch: 68, batch: 300 of 2168, loss: 3.4675378823280334
+Epoch: 68, batch: 400 of 2168, loss: 3.3893544912338256
+Epoch: 68, batch: 500 of 2168, loss: 3.47824054479599
+Epoch: 68, batch: 600 of 2168, loss: 3.497899317741394
+Epoch: 68, batch: 700 of 2168, loss: 3.4985330748558043
+Epoch: 68, batch: 800 of 2168, loss: 3.5235016465187075
+Epoch: 68, batch: 900 of 2168, loss: 3.4345292448997498
+Epoch: 68, batch: 1000 of 2168, loss: 3.445873839855194
+Epoch: 68, batch: 1100 of 2168, loss: 3.574605362415314
+Epoch: 68, batch: 1200 of 2168, loss: 3.506493179798126
+Epoch: 68, batch: 1300 of 2168, loss: 3.5549283456802367
+Epoch: 68, batch: 1400 of 2168, loss: 3.549561903476715
+Epoch: 68, batch: 1500 of 2168, loss: 3.5757025146484374
+Epoch: 68, batch: 1600 of 2168, loss: 3.4780925703048706
+Epoch: 68, batch: 1700 of 2168, loss: 3.4726396417617797
+Epoch: 68, batch: 1800 of 2168, loss: 3.493215024471283
+Epoch: 68, batch: 1900 of 2168, loss: 3.507319145202637
+Epoch: 68, batch: 2000 of 2168, loss: 3.5019386172294618
+Epoch: 68, batch: 2100 of 2168, loss: 3.4710939264297487
+Epoch 68 done, here is a sample (creativity 2):
+jesus, that they might be the lord, and the
+ name which the lord thy king hath commanded thee. and they shall be
+ unto thee.
+ and they shall be in the midst of the earth.
+ shall they shall be in the land. and they shall not
+ be the people of the people. and they said, behold, the people is
+ the people of israel, and the people of israel.
+
+ 27: 3 then the lord said unto the lord, behold the lord god, that
+ i hast made the people of the lord thy high priest, that thou hast
+ given thee the people of israel, and to the fathers, to the people, and
+ with the land of the lord. and the lord said, it shall not be
+ unto the lord.
+
+ 22 and he that is numbered shall come to pass.
+ shall am.
+ and the king of the philistines shall come, even the name of the
+ lord, and all his people, which is
+Epoch: 69, batch: 100 of 2168, loss: 3.5420957732200624
+Epoch: 69, batch: 200 of 2168, loss: 3.4187070059776308
+Epoch: 69, batch: 300 of 2168, loss: 3.4542265820503233
+Epoch: 69, batch: 400 of 2168, loss: 3.377984046936035
+Epoch: 69, batch: 500 of 2168, loss: 3.4698732924461364
+Epoch: 69, batch: 600 of 2168, loss: 3.487929048538208
+Epoch: 69, batch: 700 of 2168, loss: 3.4856737947463987
+Epoch: 69, batch: 800 of 2168, loss: 3.5117624235153198
+Epoch: 69, batch: 900 of 2168, loss: 3.427592785358429
+Epoch: 69, batch: 1000 of 2168, loss: 3.4332984256744385
+Epoch: 69, batch: 1100 of 2168, loss: 3.5695853805541993
+Epoch: 69, batch: 1200 of 2168, loss: 3.498761439323425
+Epoch: 69, batch: 1300 of 2168, loss: 3.5473310327529908
+Epoch: 69, batch: 1400 of 2168, loss: 3.540180094242096
+Epoch: 69, batch: 1500 of 2168, loss: 3.569015657901764
+Epoch: 69, batch: 1600 of 2168, loss: 3.470373663902283
+Epoch: 69, batch: 1700 of 2168, loss: 3.4667142462730407
+Epoch: 69, batch: 1800 of 2168, loss: 3.483202669620514
+Epoch: 69, batch: 1900 of 2168, loss: 3.5029922890663148
+Epoch: 69, batch: 2000 of 2168, loss: 3.5000878620147704
+Epoch: 69, batch: 2100 of 2168, loss: 3.4676926493644715
+Epoch 69 done, here is a sample (creativity 4):
+jesus the king
+ said of a lord, saying unto him. and he sent the king,
+ and said to the disciples. so the lord said and said to him
+ the prophet. then jesus answered unto them, thou am a lord, o king: for thou am
+ not in the lord. i have done you: i am my son; thou art thy
+ father. then the servants that the king' s wife said to the people, behold. so the lord said and said
+ unto the king' shall be with me; for he that sat upon me
+ for his name:
+ then i will bring him away, saith the lord, i shalt go into a
+ land of egypt: for thou shalt bring the sword of the house of
+ pharaoh:
+ for the people will take the sword in thee.
+
+ 22. moreover these shall thou go into thy land, and thou shalt give them
+ unto the lord, to the house.
+ and they shall bring it out.
+Epoch: 70, batch: 100 of 2168, loss: 3.5348114824295043
+Epoch: 70, batch: 200 of 2168, loss: 3.410951519012451
+Epoch: 70, batch: 300 of 2168, loss: 3.4459837746620177
+Epoch: 70, batch: 400 of 2168, loss: 3.372390823364258
+Epoch: 70, batch: 500 of 2168, loss: 3.462838215827942
+Epoch: 70, batch: 600 of 2168, loss: 3.486367492675781
+Epoch: 70, batch: 700 of 2168, loss: 3.4849254202842714
+Epoch: 70, batch: 800 of 2168, loss: 3.5084991812705995
+Epoch: 70, batch: 900 of 2168, loss: 3.4201072359085085
+Epoch: 70, batch: 1000 of 2168, loss: 3.4262005829811097
+Epoch: 70, batch: 1100 of 2168, loss: 3.561827757358551
+Epoch: 70, batch: 1200 of 2168, loss: 3.4926235103607177
+Epoch: 70, batch: 1300 of 2168, loss: 3.543123512268066
+Epoch: 70, batch: 1400 of 2168, loss: 3.5334442186355592
+Epoch: 70, batch: 1500 of 2168, loss: 3.5579465007781983
+Epoch: 70, batch: 1600 of 2168, loss: 3.467645287513733
+Epoch: 70, batch: 1700 of 2168, loss: 3.462691111564636
+Epoch: 70, batch: 1800 of 2168, loss: 3.4765497875213622
+Epoch: 70, batch: 1900 of 2168, loss: 3.496359794139862
+Epoch: 70, batch: 2000 of 2168, loss: 3.4896522307395936
+Epoch: 70, batch: 2100 of 2168, loss: 3.4610349535942078
+Epoch 70 done, here is a sample (creativity 5):
+jesus
+ of hosts came down to him: but he was not in all israel and the house: for they had given
+ them, that she was the lord.
+ howbeit it came, there is the man, that the king was not dead; but they
+ were the king in his hand; and when she came into the land of god
+ went out, they had taken the house.
+
+ 11 did 5 and they said to them to jerusalem.
+ then the men that came unto david said to david, go up
+ against thee; let the people' be.
+ howbeit he answered, it shall go up into me. and the people' s heart came
+ to meet it. then they did according out to meet him, saying the word: and it came to
+ battle in the sword of israel; for there shall not go out
+ to thee in a name: and he that is called of them.
+ then i will give thee to be left in thee. this, and
+Epoch: 71, batch: 100 of 2168, loss: 3.5310543823242186
+Epoch: 71, batch: 200 of 2168, loss: 3.411595904827118
+Epoch: 71, batch: 300 of 2168, loss: 3.441014642715454
+Epoch: 71, batch: 400 of 2168, loss: 3.3675715494155884
+Epoch: 71, batch: 500 of 2168, loss: 3.458617055416107
+Epoch: 71, batch: 600 of 2168, loss: 3.4784809923171998
+Epoch: 71, batch: 700 of 2168, loss: 3.477031366825104
+Epoch: 71, batch: 800 of 2168, loss: 3.5059024047851564
+Epoch: 71, batch: 900 of 2168, loss: 3.413102788925171
+Epoch: 71, batch: 1000 of 2168, loss: 3.426796371936798
+Epoch: 71, batch: 1100 of 2168, loss: 3.554569239616394
+Epoch: 71, batch: 1200 of 2168, loss: 3.4849400520324707
+Epoch: 71, batch: 1300 of 2168, loss: 3.5365975499153137
+Epoch: 71, batch: 1400 of 2168, loss: 3.5257776260375975
+Epoch: 71, batch: 1500 of 2168, loss: 3.5541294860839843
+Epoch: 71, batch: 1600 of 2168, loss: 3.457794771194458
+Epoch: 71, batch: 1700 of 2168, loss: 3.449202916622162
+Epoch: 71, batch: 1800 of 2168, loss: 3.471695296764374
+Epoch: 71, batch: 1900 of 2168, loss: 3.4922714257240295
+Epoch: 71, batch: 2000 of 2168, loss: 3.4825060772895813
+Epoch: 71, batch: 2100 of 2168, loss: 3.4547780776023864
+Epoch 71 done, here is a sample (creativity 2):
+jesus the priest, and the brethren, and
+ his brethren, and his mother, the son of the philistines: and the
+ king of babylon went out, saying unto him.
+
+ 11 and 48 the children that was in him were in the children, that the
+ lord had given the king, that they had done. and david
+ went, saying the word of the god of israel.
+ and they did so. and they went to the city. and the philistines
+ were the city, and the philistines was in him.
+ and they said, i am a god.
+ and he said unto him, what shall i go to thee, and
+ thou will be with you. and they went unto him, saying unto
+ them, thou will not go into the hand of my lord.
+
+ 22: 4 then the lord spake unto moses, saying unto them, thou will not
+ go to the house of israel, and the people shall go to
+ pass, that the children
+Epoch: 72, batch: 100 of 2168, loss: 3.5229708695411683
+Epoch: 72, batch: 200 of 2168, loss: 3.4012664365768432
+Epoch: 72, batch: 300 of 2168, loss: 3.4330829048156737
+Epoch: 72, batch: 400 of 2168, loss: 3.354161632061005
+Epoch: 72, batch: 500 of 2168, loss: 3.4506651091575624
+Epoch: 72, batch: 600 of 2168, loss: 3.4743614292144773
+Epoch: 72, batch: 700 of 2168, loss: 3.4745915746688842
+Epoch: 72, batch: 800 of 2168, loss: 3.5042071557044983
+Epoch: 72, batch: 900 of 2168, loss: 3.4111535143852234
+Epoch: 72, batch: 1000 of 2168, loss: 3.4162251114845277
+Epoch: 72, batch: 1100 of 2168, loss: 3.548357946872711
+Epoch: 72, batch: 1200 of 2168, loss: 3.4784011101722716
+Epoch: 72, batch: 1300 of 2168, loss: 3.5322731566429137
+Epoch: 72, batch: 1400 of 2168, loss: 3.5189847135543824
+Epoch: 72, batch: 1500 of 2168, loss: 3.5494418501853944
+Epoch: 72, batch: 1600 of 2168, loss: 3.4591121172904966
+Epoch: 72, batch: 1700 of 2168, loss: 3.446759626865387
+Epoch: 72, batch: 1800 of 2168, loss: 3.4668285918235777
+Epoch: 72, batch: 1900 of 2168, loss: 3.484805932044983
+Epoch: 72, batch: 2000 of 2168, loss: 3.4801209354400635
+Epoch: 72, batch: 2100 of 2168, loss: 3.4474285364151003
+Epoch 72 done, here is a sample (creativity 4):
+jesus' sake; for i have given me the great hand
+ that thou hast done, which thou have commanded you. so the woman saw
+ it.
+ and he sat, and the people came down.
+ then he said, why shall we be found than a brother. this, i will be no man
+ that hath a name' feet; for i will be no. and the people' s name, the name, he shall be
+ delivered out of this land. so they said, i shalt be my sign in ever: for thou am,
+ thou am not afraid.
+ then he said to the people of god, what shall thou say, my god? and if thou wilt be a god of my
+ people in me. then they said and called, i will do. but he
+ saith, what is it, my god? and they answered, thou art my god; and my father is a wife
+ of my people, thou am a father' s sister,
+Epoch: 73, batch: 100 of 2168, loss: 3.517822120189667
+Epoch: 73, batch: 200 of 2168, loss: 3.3964438390731813
+Epoch: 73, batch: 300 of 2168, loss: 3.4271490240097044
+Epoch: 73, batch: 400 of 2168, loss: 3.3558925676345823
+Epoch: 73, batch: 500 of 2168, loss: 3.4481639504432677
+Epoch: 73, batch: 600 of 2168, loss: 3.467923114299774
+Epoch: 73, batch: 700 of 2168, loss: 3.4704998898506165
+Epoch: 73, batch: 800 of 2168, loss: 3.495477833747864
+Epoch: 73, batch: 900 of 2168, loss: 3.408513379096985
+Epoch: 73, batch: 1000 of 2168, loss: 3.4063129568099977
+Epoch: 73, batch: 1100 of 2168, loss: 3.544522500038147
+Epoch: 73, batch: 1200 of 2168, loss: 3.4773156356811525
+Epoch: 73, batch: 1300 of 2168, loss: 3.524405200481415
+Epoch: 73, batch: 1400 of 2168, loss: 3.5143141555786133
+Epoch: 73, batch: 1500 of 2168, loss: 3.549052662849426
+Epoch: 73, batch: 1600 of 2168, loss: 3.448065733909607
+Epoch: 73, batch: 1700 of 2168, loss: 3.4402819418907167
+Epoch: 73, batch: 1800 of 2168, loss: 3.4618937277793886
+Epoch: 73, batch: 1900 of 2168, loss: 3.480502417087555
+Epoch: 73, batch: 2000 of 2168, loss: 3.4757948088645936
+Epoch: 73, batch: 2100 of 2168, loss: 3.441032552719116
+Epoch 73 done, here is a sample (creativity 5):
+jesus, the lord of hosts, the children that the king of
+ bashan had brought away to jerusalem: for he said, go, go ye into thy house, and let me see
+ the words of thine father: for the lord hath given him my people:
+ for they are a god, which the lord thy king giveth thee: and i,
+ even the god whom i hast given thee to be in thee in all thy enemies. so all that they had
+ heard to him, they shall come up, even as he shall die in thee: for the day,
+ shall thou be a people.
+ and he will be called in the sword; for it is none that are no. and they
+ shall say and pass in his people, and they be no stranger:
+ because they have not done, but that they should go to the sword, and the
+ land thereof. then they went to him, he said to the king
+ of canaan to come, and there shall come
+Epoch: 74, batch: 100 of 2168, loss: 3.515077111721039
+Epoch: 74, batch: 200 of 2168, loss: 3.3903979444503785
+Epoch: 74, batch: 300 of 2168, loss: 3.4249114036560058
+Epoch: 74, batch: 400 of 2168, loss: 3.3477773451805115
+Epoch: 74, batch: 500 of 2168, loss: 3.442564582824707
+Epoch: 74, batch: 600 of 2168, loss: 3.459457778930664
+Epoch: 74, batch: 700 of 2168, loss: 3.4666393899917605
+Epoch: 74, batch: 800 of 2168, loss: 3.4959309101104736
+Epoch: 74, batch: 900 of 2168, loss: 3.4011550879478456
+Epoch: 74, batch: 1000 of 2168, loss: 3.4028493118286134
+Epoch: 74, batch: 1100 of 2168, loss: 3.541850354671478
+Epoch: 74, batch: 1200 of 2168, loss: 3.4732137632369997
+Epoch: 74, batch: 1300 of 2168, loss: 3.5184564137458803
+Epoch: 74, batch: 1400 of 2168, loss: 3.511628906726837
+Epoch: 74, batch: 1500 of 2168, loss: 3.5422806668281557
+Epoch: 74, batch: 1600 of 2168, loss: 3.446411988735199
+Epoch: 74, batch: 1700 of 2168, loss: 3.4381293177604677
+Epoch: 74, batch: 1800 of 2168, loss: 3.456241338253021
+Epoch: 74, batch: 1900 of 2168, loss: 3.4729367017745973
+Epoch: 74, batch: 2000 of 2168, loss: 3.470897572040558
+Epoch: 74, batch: 2100 of 2168, loss: 3.439494717121124
+Epoch 74 done, here is a sample (creativity 4):
+jesus. amen are the word of the covenant.
+
+ 4 the rod of the lord' father. so the king answered and went to meet
+ him, that they should not die, and they went up. and they said. and
+ they said unto them the third priests unto him, i have no
+ more: and he said to him. but when he came to the king' things
+ was he, he said him unto him: i will be called, i pray you:
+ for he that hath been come into his hand.
+ then jesus went. and when they was gone down into a house of the temple of
+ jerusalem and the elders.
+ samuel 12 sat to him, that the king of the philistines had made the king. and the people, the
+ son that were the hundred men of the house. so his mother was
+ called, that they was come up, and he had made the ark, that he might
+ go into a own name, to go into
+Epoch: 75, batch: 100 of 2168, loss: 3.512169351577759
+Epoch: 75, batch: 200 of 2168, loss: 3.3840131998062133
+Epoch: 75, batch: 300 of 2168, loss: 3.4212844657897947
+Epoch: 75, batch: 400 of 2168, loss: 3.342828140258789
+Epoch: 75, batch: 500 of 2168, loss: 3.444062569141388
+Epoch: 75, batch: 600 of 2168, loss: 3.4605927801132204
+Epoch: 75, batch: 700 of 2168, loss: 3.4605934858322143
+Epoch: 75, batch: 800 of 2168, loss: 3.4932320713996887
+Epoch: 75, batch: 900 of 2168, loss: 3.4027052402496336
+Epoch: 75, batch: 1000 of 2168, loss: 3.396534526348114
+Epoch: 75, batch: 1100 of 2168, loss: 3.5320987486839295
+Epoch: 75, batch: 1200 of 2168, loss: 3.461812982559204
+Epoch: 75, batch: 1300 of 2168, loss: 3.5175328946113584
+Epoch: 75, batch: 1400 of 2168, loss: 3.5087732696533203
+Epoch: 75, batch: 1500 of 2168, loss: 3.5335408735275267
+Epoch: 75, batch: 1600 of 2168, loss: 3.4428320002555846
+Epoch: 75, batch: 1700 of 2168, loss: 3.433238408565521
+Epoch: 75, batch: 1800 of 2168, loss: 3.452793815135956
+Epoch: 75, batch: 1900 of 2168, loss: 3.4692479610443114
+Epoch: 75, batch: 2000 of 2168, loss: 3.4655078721046446
+Epoch: 75, batch: 2100 of 2168, loss: 3.432710154056549
+Epoch 75 done, here is a sample (creativity 2):
+jesus, and the children of
+ israel, which were the king of the children, and the king' s
+ house. and david said unto him, go to the house.
+
+ 8 and 10 and the lord god, which is the lord'; for he was
+ the lord. and the lord was the lord'. and he did so, and he said, i will not be a
+ people of the lord. and they said, i will go forth, i pray you. and
+ he went to him.
+
+ 19: 1 then he said unto them, what hast thou seen? for i have
+ done, and i will not be put to the house.
+
+ 8 and 10 and he said, what shall thou go? and what is thou
+ that i have done, and thou will be found.
+
+ 19 and 10 and he said, i am my god: thou will go unto me, and i
+ shalt be a god. and he answered,
+Epoch: 76, batch: 100 of 2168, loss: 3.507980532646179
+Epoch: 76, batch: 200 of 2168, loss: 3.3826050662994387
+Epoch: 76, batch: 300 of 2168, loss: 3.418777439594269
+Epoch: 76, batch: 400 of 2168, loss: 3.33962100982666
+Epoch: 76, batch: 500 of 2168, loss: 3.4330355978012084
+Epoch: 76, batch: 600 of 2168, loss: 3.4521830582618716
+Epoch: 76, batch: 700 of 2168, loss: 3.456381785869598
+Epoch: 76, batch: 800 of 2168, loss: 3.4898770356178286
+Epoch: 76, batch: 900 of 2168, loss: 3.396061673164368
+Epoch: 76, batch: 1000 of 2168, loss: 3.397028067111969
+Epoch: 76, batch: 1100 of 2168, loss: 3.527735915184021
+Epoch: 76, batch: 1200 of 2168, loss: 3.45708545923233
+Epoch: 76, batch: 1300 of 2168, loss: 3.509279041290283
+Epoch: 76, batch: 1400 of 2168, loss: 3.5015059733390808
+Epoch: 76, batch: 1500 of 2168, loss: 3.5309769463539125
+Epoch: 76, batch: 1600 of 2168, loss: 3.435052890777588
+Epoch: 76, batch: 1700 of 2168, loss: 3.4302329134941103
+Epoch: 76, batch: 1800 of 2168, loss: 3.4470110630989073
+Epoch: 76, batch: 1900 of 2168, loss: 3.463234302997589
+Epoch: 76, batch: 2000 of 2168, loss: 3.465371446609497
+Epoch: 76, batch: 2100 of 2168, loss: 3.4314785623550415
+Epoch 76 done, here is a sample (creativity 3):
+jesus the king, and his mother
+ the son and the chief of the sons, the sons of the lord,
+ the lord, the children of the lord came unto me in all his people,
+ saying unto them. and they did according up to the lord. and the people said
+ before the voice of pharaoh, behold.
+
+ 12 am 66 and aaron was the name, and all that he did. and the lord was in him. and he
+ said and said unto the lord unto me that stood to be, the man'
+ sake, thou am the son, i will go. but when they heard, behold, the
+ people was dead; and he went, saying the lord god, and he shall not be in
+ me: for thou will be in the land. then he said unto him, i
+ am my god. i therefore am the son of israel. but he
+ was not in me: and they said unto me, i am the son.
+
+Epoch: 77, batch: 100 of 2168, loss: 3.5036930322647093
+Epoch: 77, batch: 200 of 2168, loss: 3.376451573371887
+Epoch: 77, batch: 300 of 2168, loss: 3.414535412788391
+Epoch: 77, batch: 400 of 2168, loss: 3.334198098182678
+Epoch: 77, batch: 500 of 2168, loss: 3.431754264831543
+Epoch: 77, batch: 600 of 2168, loss: 3.4498513078689577
+Epoch: 77, batch: 700 of 2168, loss: 3.450696668624878
+Epoch: 77, batch: 800 of 2168, loss: 3.4825112438201904
+Epoch: 77, batch: 900 of 2168, loss: 3.387999248504639
+Epoch: 77, batch: 1000 of 2168, loss: 3.388548653125763
+Epoch: 77, batch: 1100 of 2168, loss: 3.5280157685279847
+Epoch: 77, batch: 1200 of 2168, loss: 3.4538238620758057
+Epoch: 77, batch: 1300 of 2168, loss: 3.508109443187714
+Epoch: 77, batch: 1400 of 2168, loss: 3.500982801914215
+Epoch: 77, batch: 1500 of 2168, loss: 3.5270946073532103
+Epoch: 77, batch: 1600 of 2168, loss: 3.4311670088768005
+Epoch: 77, batch: 1700 of 2168, loss: 3.4234614109992982
+Epoch: 77, batch: 1800 of 2168, loss: 3.4466283535957336
+Epoch: 77, batch: 1900 of 2168, loss: 3.4601563096046446
+Epoch: 77, batch: 2000 of 2168, loss: 3.4585743498802186
+Epoch: 77, batch: 2100 of 2168, loss: 3.429502444267273
+Epoch 77 done, here is a sample (creativity 4):
+jesus the
+ priest: but they had done that the lord commanded him. and
+ the philistines went, saying, it is no man.
+
+ 12 and, when he had said to him the same day. and they were
+ called the people that he was of jerusalem; but there is a very great
+ man: he was the king. so samuel answered, i art my son. then the philistines went. jesus answered, god hath no more. jesus saith
+ him.
+ pilate was i that is at them. pilate said, thou art a god, and the
+ lord thy apostle, which hath not been in you: i will have
+ mercy, but have been a god in the land. this, that the
+ land that thou command you. and they did not be in him, saith the lord.
+
+ 4 thus they shall not go to the city: i shalt be the people' s, that
+ they be no stranger: for i am in him: but thou
+Epoch: 78, batch: 100 of 2168, loss: 3.5013981223106385
+Epoch: 78, batch: 200 of 2168, loss: 3.3738860201835634
+Epoch: 78, batch: 300 of 2168, loss: 3.4097931718826295
+Epoch: 78, batch: 400 of 2168, loss: 3.3303083062171934
+Epoch: 78, batch: 500 of 2168, loss: 3.4278535079956054
+Epoch: 78, batch: 600 of 2168, loss: 3.4491576957702637
+Epoch: 78, batch: 700 of 2168, loss: 3.4495395684242247
+Epoch: 78, batch: 800 of 2168, loss: 3.4827953577041626
+Epoch: 78, batch: 900 of 2168, loss: 3.3861489629745485
+Epoch: 78, batch: 1000 of 2168, loss: 3.38300811290741
+Epoch: 78, batch: 1100 of 2168, loss: 3.5212074184417723
+Epoch: 78, batch: 1200 of 2168, loss: 3.451510343551636
+Epoch: 78, batch: 1300 of 2168, loss: 3.5016076302528383
+Epoch: 78, batch: 1400 of 2168, loss: 3.497419493198395
+Epoch: 78, batch: 1500 of 2168, loss: 3.525375044345856
+Epoch: 78, batch: 1600 of 2168, loss: 3.426211338043213
+Epoch: 78, batch: 1700 of 2168, loss: 3.4197972440719604
+Epoch: 78, batch: 1800 of 2168, loss: 3.4396302318572998
+Epoch: 78, batch: 1900 of 2168, loss: 3.4534717917442324
+Epoch: 78, batch: 2000 of 2168, loss: 3.4543536829948427
+Epoch: 78, batch: 2100 of 2168, loss: 3.4204819202423096
+Epoch 78 done, here is a sample (creativity 3):
+jesus, and
+ his wife, which was with heaven.
+
+ 12 and 19 and it was told a people of a people and of his
+ house: but he had not taken to the lord, that he might not
+ die in the house. but the king of israel had made the house. and the king of the philistines, the
+ daughter, the same.
+ and they said to them, go to the sword.
+ and it came to battle in that day. and they began, saying the
+ word of god, i shalt go into the city of egypt. but he
+ said, behold, the people shall go down to him.
+ then it came to meet it, that the lord commanded it
+ with his hand: for he hath made them to be called, that they should
+ be the son. and he answered unto them.
+ and they went into his city. so he answered unto them. then the men said unto them,
+ and said the word that i
+Epoch: 79, batch: 100 of 2168, loss: 3.4920313477516176
+Epoch: 79, batch: 200 of 2168, loss: 3.370493230819702
+Epoch: 79, batch: 300 of 2168, loss: 3.405093569755554
+Epoch: 79, batch: 400 of 2168, loss: 3.328492350578308
+Epoch: 79, batch: 500 of 2168, loss: 3.4238842487335206
+Epoch: 79, batch: 600 of 2168, loss: 3.4466414856910705
+Epoch: 79, batch: 700 of 2168, loss: 3.446730923652649
+Epoch: 79, batch: 800 of 2168, loss: 3.4831321382522584
+Epoch: 79, batch: 900 of 2168, loss: 3.3823734068870546
+Epoch: 79, batch: 1000 of 2168, loss: 3.384755094051361
+Epoch: 79, batch: 1100 of 2168, loss: 3.518111374378204
+Epoch: 79, batch: 1200 of 2168, loss: 3.446915874481201
+Epoch: 79, batch: 1300 of 2168, loss: 3.498600559234619
+Epoch: 79, batch: 1400 of 2168, loss: 3.4949870681762696
+Epoch: 79, batch: 1500 of 2168, loss: 3.5218355870246887
+Epoch: 79, batch: 1600 of 2168, loss: 3.4228078722953796
+Epoch: 79, batch: 1700 of 2168, loss: 3.409376780986786
+Epoch: 79, batch: 1800 of 2168, loss: 3.435757339000702
+Epoch: 79, batch: 1900 of 2168, loss: 3.4544703006744384
+Epoch: 79, batch: 2000 of 2168, loss: 3.4509456181526184
+Epoch: 79, batch: 2100 of 2168, loss: 3.421093716621399
+Epoch 79 done, here is a sample (creativity 3):
+jesus, and
+ his brethren: but he that sat on his name shall be a
+ people unto ever, and he shall die with his enemies.
+
+ 21 thus shall i do? i will not be a god, and the people, that
+ i will go unto thy enemies, saith the god of israel.
+
+ 22.
+
+
+
+
+ eli
+ kings unto the book of
+
+ moses king unto the
+ churches
+ congregation, 1 the king of john to i judge the same house, let him be glad: for the
+ word of man.
+ and the lord said unto me again.
+ and they answered to tell them, saying unto them.
+ pilate 11 then 11 and, lo ye that i art come
+ unto the lord, and said to the lord god.
+ then they said to the king, let him be the lord thy god, and
+ say unto him. then they answered unto him, thou shalt go unto the lord. and the
+ lord spake
+Epoch: 80, batch: 100 of 2168, loss: 3.4923695802688597
+Epoch: 80, batch: 200 of 2168, loss: 3.364066495895386
+Epoch: 80, batch: 300 of 2168, loss: 3.399549331665039
+Epoch: 80, batch: 400 of 2168, loss: 3.325024790763855
+Epoch: 80, batch: 500 of 2168, loss: 3.41786066532135
+Epoch: 80, batch: 600 of 2168, loss: 3.437373082637787
+Epoch: 80, batch: 700 of 2168, loss: 3.4404615569114685
+Epoch: 80, batch: 800 of 2168, loss: 3.4715014147758483
+Epoch: 80, batch: 900 of 2168, loss: 3.379444842338562
+Epoch: 80, batch: 1000 of 2168, loss: 3.382995989322662
+Epoch: 80, batch: 1100 of 2168, loss: 3.512335216999054
+Epoch: 80, batch: 1200 of 2168, loss: 3.4470892262458803
+Epoch: 80, batch: 1300 of 2168, loss: 3.4943407940864564
+Epoch: 80, batch: 1400 of 2168, loss: 3.4875711894035337
+Epoch: 80, batch: 1500 of 2168, loss: 3.510527708530426
+Epoch: 80, batch: 1600 of 2168, loss: 3.4207589507102965
+Epoch: 80, batch: 1700 of 2168, loss: 3.4130120158195494
+Epoch: 80, batch: 1800 of 2168, loss: 3.437163622379303
+Epoch: 80, batch: 1900 of 2168, loss: 3.4440248942375185
+Epoch: 80, batch: 2000 of 2168, loss: 3.4457519483566283
+Epoch: 80, batch: 2100 of 2168, loss: 3.416248037815094
+Epoch 80 done, here is a sample (creativity 3):
+jesus the priest of
+ eli the king, that they might not go unto them.
+ and they did so. and they brought the ark, saying unto him, go, go,
+ go to meet the house of israel, saying, the son come unto
+ him; i am come unto you, and the people is not.
+
+ 12: 1 then jesus went to meet the lord: and they took him,
+ saying, the people, and all that he hath done, shall i be
+ the people, that thou may be in the lord, as thou hast done, that
+ thou shalt not do the lord, that i mayest not give them to
+ them, that i will be a son for thee. and all the people shall say unto them, go. so he went
+ to jerusalem: but he said and spake, it is a man. and the king'
+ sake, he was a god. he saith, thou will go. then he
+ answered, what shall
+Epoch: 81, batch: 100 of 2168, loss: 3.4904189014434817
+Epoch: 81, batch: 200 of 2168, loss: 3.358699462413788
+Epoch: 81, batch: 300 of 2168, loss: 3.3968879079818723
+Epoch: 81, batch: 400 of 2168, loss: 3.316991047859192
+Epoch: 81, batch: 500 of 2168, loss: 3.4174932408332825
+Epoch: 81, batch: 600 of 2168, loss: 3.4344088435173035
+Epoch: 81, batch: 700 of 2168, loss: 3.4387879371643066
+Epoch: 81, batch: 800 of 2168, loss: 3.4718902611732485
+Epoch: 81, batch: 900 of 2168, loss: 3.373697397708893
+Epoch: 81, batch: 1000 of 2168, loss: 3.3768294835090638
+Epoch: 81, batch: 1100 of 2168, loss: 3.5081421542167663
+Epoch: 81, batch: 1200 of 2168, loss: 3.4408638763427732
+Epoch: 81, batch: 1300 of 2168, loss: 3.4851268839836123
+Epoch: 81, batch: 1400 of 2168, loss: 3.4799108028411867
+Epoch: 81, batch: 1500 of 2168, loss: 3.5107878613471986
+Epoch: 81, batch: 1600 of 2168, loss: 3.4160360956192015
+Epoch: 81, batch: 1700 of 2168, loss: 3.4100003838539124
+Epoch: 81, batch: 1800 of 2168, loss: 3.4280480432510374
+Epoch: 81, batch: 1900 of 2168, loss: 3.4445356822013853
+Epoch: 81, batch: 2000 of 2168, loss: 3.4443332362174988
+Epoch: 81, batch: 2100 of 2168, loss: 3.413326244354248
+Epoch 81 done, here is a sample (creativity 5):
+jesus the son. amen:
+ for thou shalt be the king that thou have given him, saith, it
+ was written: but i shalt not be called of you, but i have made you
+ known. and he went, the children was come. so when they had smitten the house of god. then when she was
+ dead that were called, behold unto him the third time, let him go up,
+ let him see the lord, neither shall thou go to him: but i shalt give the
+ sword of my people. but david saith to his father and mother the king. and the people saw
+ the lord, that they should tell them: but his father was come. so when she had spoken
+ him in the morning. so he brought his disciples to pharaoh, he said, what shall i say,
+ what hast ye been to me? i have given the children, i have not seen me
+ for my sake.
+ then they said them, let not my father
+Epoch: 82, batch: 100 of 2168, loss: 3.4807092475891115
+Epoch: 82, batch: 200 of 2168, loss: 3.3579082012176515
+Epoch: 82, batch: 300 of 2168, loss: 3.3925530219078066
+Epoch: 82, batch: 400 of 2168, loss: 3.320609495639801
+Epoch: 82, batch: 500 of 2168, loss: 3.413641233444214
+Epoch: 82, batch: 600 of 2168, loss: 3.4314839029312134
+Epoch: 82, batch: 700 of 2168, loss: 3.4317273545265197
+Epoch: 82, batch: 800 of 2168, loss: 3.46572283744812
+Epoch: 82, batch: 900 of 2168, loss: 3.368676788806915
+Epoch: 82, batch: 1000 of 2168, loss: 3.3742086911201477
+Epoch: 82, batch: 1100 of 2168, loss: 3.506461544036865
+Epoch: 82, batch: 1200 of 2168, loss: 3.440707380771637
+Epoch: 82, batch: 1300 of 2168, loss: 3.4873879957199097
+Epoch: 82, batch: 1400 of 2168, loss: 3.4780769681930543
+Epoch: 82, batch: 1500 of 2168, loss: 3.5001835203170777
+Epoch: 82, batch: 1600 of 2168, loss: 3.412247214317322
+Epoch: 82, batch: 1700 of 2168, loss: 3.4025562310218813
+Epoch: 82, batch: 1800 of 2168, loss: 3.4315347242355347
+Epoch: 82, batch: 1900 of 2168, loss: 3.445827400684357
+Epoch: 82, batch: 2000 of 2168, loss: 3.43494544506073
+Epoch: 82, batch: 2100 of 2168, loss: 3.409953570365906
+Epoch 82 done, here is a sample (creativity 5):
+jesus, saying,
+ i am come out to thee; i have found me, and have made thee
+ known, and thou hast made my face, as i have not given me to
+ give me the king to do, but the house which thou command them: i am my man
+ in my sake, as ye should go. and when he came out of his
+ house, behold unto pharaoh and unto the children. and
+ david answered unto him, thou shalt have nothing.
+ when 22. woe, and they said to his disciples; and they went to meet it
+ in the ground, that it may be for you: and he hath no
+ thousand. so his mother' sons said, what shall i be done? 9. 45 and it shall be for thee. if he
+ say then, let thee be afraid and baptized for us: but if i have spoken of
+ thy father, he hath given the covenant, neither should thou say. but he said and
+ answered
+Epoch: 83, batch: 100 of 2168, loss: 3.480712490081787
+Epoch: 83, batch: 200 of 2168, loss: 3.3526783633232116
+Epoch: 83, batch: 300 of 2168, loss: 3.387385971546173
+Epoch: 83, batch: 400 of 2168, loss: 3.315823757648468
+Epoch: 83, batch: 500 of 2168, loss: 3.4021845865249634
+Epoch: 83, batch: 600 of 2168, loss: 3.4335478258132937
+Epoch: 83, batch: 700 of 2168, loss: 3.429641168117523
+Epoch: 83, batch: 800 of 2168, loss: 3.4666679644584657
+Epoch: 83, batch: 900 of 2168, loss: 3.3717118859291078
+Epoch: 83, batch: 1000 of 2168, loss: 3.370147054195404
+Epoch: 83, batch: 1100 of 2168, loss: 3.5053687047958375
+Epoch: 83, batch: 1200 of 2168, loss: 3.437842288017273
+Epoch: 83, batch: 1300 of 2168, loss: 3.482435221672058
+Epoch: 83, batch: 1400 of 2168, loss: 3.473759891986847
+Epoch: 83, batch: 1500 of 2168, loss: 3.5035912203788757
+Epoch: 83, batch: 1600 of 2168, loss: 3.4094547533988955
+Epoch: 83, batch: 1700 of 2168, loss: 3.3982076621055604
+Epoch: 83, batch: 1800 of 2168, loss: 3.4237810158729554
+Epoch: 83, batch: 1900 of 2168, loss: 3.442533023357391
+Epoch: 83, batch: 2000 of 2168, loss: 3.435837323665619
+Epoch: 83, batch: 2100 of 2168, loss: 3.4008744311332704
+Epoch 83 done, here is a sample (creativity 3):
+jesus the son
+
+ amen also book, 1: 3 the lord god of israel hath made us the king'; and he said
+ them unto the people, and said, i have given thee a hand, that thou hast
+ done the people.
+ then she said and, it shall not be put into thy house.
+ and they answered unto him. and he answered unto them the same, what
+ long thou have not done? 18 will the lord be with the house of god,
+ that thou mayest not be found. and he said, behold.
+ and they said, i shalt not see thee. and they said unto the people of the city.
+ then she said, it shall not be cut off.
+
+ 4 and 66 and the lord said to the children of aaron, i shalt not be a
+ son for thee: for the people shall not be in him: for he
+ shall die in thee. but the king' father shall come, and shall be in
+Epoch: 84, batch: 100 of 2168, loss: 3.4765009760856627
+Epoch: 84, batch: 200 of 2168, loss: 3.349138944149017
+Epoch: 84, batch: 300 of 2168, loss: 3.384432215690613
+Epoch: 84, batch: 400 of 2168, loss: 3.307989001274109
+Epoch: 84, batch: 500 of 2168, loss: 3.408877382278442
+Epoch: 84, batch: 600 of 2168, loss: 3.4254520392417906
+Epoch: 84, batch: 700 of 2168, loss: 3.4218098855018617
+Epoch: 84, batch: 800 of 2168, loss: 3.4584243440628053
+Epoch: 84, batch: 900 of 2168, loss: 3.3659838008880616
+Epoch: 84, batch: 1000 of 2168, loss: 3.368786110877991
+Epoch: 84, batch: 1100 of 2168, loss: 3.497977468967438
+Epoch: 84, batch: 1200 of 2168, loss: 3.4343559741973877
+Epoch: 84, batch: 1300 of 2168, loss: 3.479108381271362
+Epoch: 84, batch: 1400 of 2168, loss: 3.4713360261917114
+Epoch: 84, batch: 1500 of 2168, loss: 3.5003818225860597
+Epoch: 84, batch: 1600 of 2168, loss: 3.4067977261543274
+Epoch: 84, batch: 1700 of 2168, loss: 3.3950073456764223
+Epoch: 84, batch: 1800 of 2168, loss: 3.4235234451293945
+Epoch: 84, batch: 1900 of 2168, loss: 3.4375749468803405
+Epoch: 84, batch: 2000 of 2168, loss: 3.433990726470947
+Epoch: 84, batch: 2100 of 2168, loss: 3.3995961642265318
+Epoch 84 done, here is a sample (creativity 5):
+jesus the son of eli king the prophet; and they went
+ up to meet it: the people of israel had made his people in him
+ with all that he was: but his name, that the people had
+ given, that he might do his son to wife.
+
+ 12: 7 therefore i said unto you to the lord; because the king and my
+ mother and aaron the son, and of all the people that was
+ with the philistines: but the people of god, the priests and all that
+ are in jerusalem and jerusalem and all the house of david and
+ his brethren, and all all them. and david sent them forth from the lord: so the house, the son,
+ the son that he began, the lord is with the king of israel: he shall go up in a name;
+ for he will be the lord your covenant unto thee. this, even the
+ word, shall thou go into the midst thereof? 6: 4 and they that sat with
+Epoch: 85, batch: 100 of 2168, loss: 3.472086455821991
+Epoch: 85, batch: 200 of 2168, loss: 3.3471741700172424
+Epoch: 85, batch: 300 of 2168, loss: 3.381780533790588
+Epoch: 85, batch: 400 of 2168, loss: 3.307371335029602
+Epoch: 85, batch: 500 of 2168, loss: 3.4031390619277953
+Epoch: 85, batch: 600 of 2168, loss: 3.4209016942977906
+Epoch: 85, batch: 700 of 2168, loss: 3.4223516845703124
+Epoch: 85, batch: 800 of 2168, loss: 3.4588946866989136
+Epoch: 85, batch: 900 of 2168, loss: 3.361854474544525
+Epoch: 85, batch: 1000 of 2168, loss: 3.3657903480529785
+Epoch: 85, batch: 1100 of 2168, loss: 3.4978622913360597
+Epoch: 85, batch: 1200 of 2168, loss: 3.4305375838279724
+Epoch: 85, batch: 1300 of 2168, loss: 3.4770819997787474
+Epoch: 85, batch: 1400 of 2168, loss: 3.4705008101463317
+Epoch: 85, batch: 1500 of 2168, loss: 3.496110758781433
+Epoch: 85, batch: 1600 of 2168, loss: 3.4014092469215393
+Epoch: 85, batch: 1700 of 2168, loss: 3.3954422783851625
+Epoch: 85, batch: 1800 of 2168, loss: 3.4147993230819704
+Epoch: 85, batch: 1900 of 2168, loss: 3.436377515792847
+Epoch: 85, batch: 2000 of 2168, loss: 3.4312329649925233
+Epoch: 85, batch: 2100 of 2168, loss: 3.4000279617309572
+Epoch 85 done, here is a sample (creativity 4):
+jesus' father. ) 6: 6
+ then they went to meet her: but he went, when she had spoken to him
+ the lord' sake: for they went into their house; for it came to him in a way
+ to him. then he brought a hand in his head; the ark
+ was the second of an disciples of his house: but there had been
+ a great great court of the house; and he went up with a feet, to
+ be the wall to be the lord' feet; and he went to the top,
+ and the ark, to the left: 15 and 66 the lord had given the people, and he
+ said. now there came out to the city, saying to his disciples to the
+ house that he had spoken. and david answered unto her mother to say unto the lord, behold
+ the man, i am thy god. then he went out. and david answered,
+ behold, the king of assyria hath sent him, that
+Epoch: 86, batch: 100 of 2168, loss: 3.4690050292015076
+Epoch: 86, batch: 200 of 2168, loss: 3.3420403361320496
+Epoch: 86, batch: 300 of 2168, loss: 3.380844786167145
+Epoch: 86, batch: 400 of 2168, loss: 3.300112798213959
+Epoch: 86, batch: 500 of 2168, loss: 3.3974941682815554
+Epoch: 86, batch: 600 of 2168, loss: 3.4188588523864745
+Epoch: 86, batch: 700 of 2168, loss: 3.4183841872215273
+Epoch: 86, batch: 800 of 2168, loss: 3.4555030393600465
+Epoch: 86, batch: 900 of 2168, loss: 3.358442690372467
+Epoch: 86, batch: 1000 of 2168, loss: 3.355945146083832
+Epoch: 86, batch: 1100 of 2168, loss: 3.4928500938415525
+Epoch: 86, batch: 1200 of 2168, loss: 3.4268396711349487
+Epoch: 86, batch: 1300 of 2168, loss: 3.4751418375968934
+Epoch: 86, batch: 1400 of 2168, loss: 3.467401762008667
+Epoch: 86, batch: 1500 of 2168, loss: 3.497724502086639
+Epoch: 86, batch: 1600 of 2168, loss: 3.3964905309677125
+Epoch: 86, batch: 1700 of 2168, loss: 3.389915080070496
+Epoch: 86, batch: 1800 of 2168, loss: 3.41147381067276
+Epoch: 86, batch: 1900 of 2168, loss: 3.4340948557853697
+Epoch: 86, batch: 2000 of 2168, loss: 3.4232486701011657
+Epoch: 86, batch: 2100 of 2168, loss: 3.396755132675171
+Epoch 86 done, here is a sample (creativity 5):
+jesus the king' sons of
+ the house of david king over the philistines. and he said unto
+ the children, i pray them not that we shall tell them to do. but i
+ answered, i pray them that is a god of israel; and i will give thee the name that
+ i command thee to i speak to you: and thou shalt go to him
+ the king. then she called them that i have commanded him, saying unto him;
+ thou shalt not take my face to thee. but they answered to get me to meet the sword;
+ but it is a place in the lord, and the people.
+ then it came out a way in them, and said the people unto
+ his people:
+ and i saw a voice in a heart that i had done,
+ and my eyes was in me: for they are come to death,
+ that i should do the children. then i answered, the son
+ was true; but he is not the people that
+Epoch: 87, batch: 100 of 2168, loss: 3.464357659816742
+Epoch: 87, batch: 200 of 2168, loss: 3.342791111469269
+Epoch: 87, batch: 300 of 2168, loss: 3.3727884435653688
+Epoch: 87, batch: 400 of 2168, loss: 3.2954217410087585
+Epoch: 87, batch: 500 of 2168, loss: 3.3935245084762573
+Epoch: 87, batch: 600 of 2168, loss: 3.4178950953483582
+Epoch: 87, batch: 700 of 2168, loss: 3.4135932111740113
+Epoch: 87, batch: 800 of 2168, loss: 3.453708441257477
+Epoch: 87, batch: 900 of 2168, loss: 3.3526908230781554
+Epoch: 87, batch: 1000 of 2168, loss: 3.3569458603858946
+Epoch: 87, batch: 1100 of 2168, loss: 3.4860902523994444
+Epoch: 87, batch: 1200 of 2168, loss: 3.4250637984275816
+Epoch: 87, batch: 1300 of 2168, loss: 3.4680413126945497
+Epoch: 87, batch: 1400 of 2168, loss: 3.4640038275718688
+Epoch: 87, batch: 1500 of 2168, loss: 3.488560936450958
+Epoch: 87, batch: 1600 of 2168, loss: 3.3941843581199644
+Epoch: 87, batch: 1700 of 2168, loss: 3.384383203983307
+Epoch: 87, batch: 1800 of 2168, loss: 3.40740065574646
+Epoch: 87, batch: 1900 of 2168, loss: 3.423349347114563
+Epoch: 87, batch: 2000 of 2168, loss: 3.423890841007233
+Epoch: 87, batch: 2100 of 2168, loss: 3.394574167728424
+Epoch 87 done, here is a sample (creativity 5):
+jesus the
+ son, the children that the children that came up from jeremiah, and the house. ) 18: 8 the sons
+ also answered and told, and did eat unto him that were
+ dead. and they came unto me to be left, which they
+ were in god: 2: 5 and he called him with the lord. but when jesus saw it in him; and the people, and the people
+ that were left to jesus, the philistines and law. then david answered, it is no, that he is, to him. now they went. jesus
+ answered him that was the god, she is come to him, to do
+ them to do, and he said, we are not a father. this was this one of us is a great
+ great people, which the children of israel did not. so they said unto him,
+ go ye out: why shall we say unto me, i have not done? i hast given my people to
+ destroy me:
+Epoch: 88, batch: 100 of 2168, loss: 3.461398010253906
+Epoch: 88, batch: 200 of 2168, loss: 3.3358127665519715
+Epoch: 88, batch: 300 of 2168, loss: 3.371027591228485
+Epoch: 88, batch: 400 of 2168, loss: 3.2933594608306884
+Epoch: 88, batch: 500 of 2168, loss: 3.392436754703522
+Epoch: 88, batch: 600 of 2168, loss: 3.415265192985535
+Epoch: 88, batch: 700 of 2168, loss: 3.4130850076675414
+Epoch: 88, batch: 800 of 2168, loss: 3.450872039794922
+Epoch: 88, batch: 900 of 2168, loss: 3.3476943039894103
+Epoch: 88, batch: 1000 of 2168, loss: 3.354521327018738
+Epoch: 88, batch: 1100 of 2168, loss: 3.4884163093566896
+Epoch: 88, batch: 1200 of 2168, loss: 3.422022080421448
+Epoch: 88, batch: 1300 of 2168, loss: 3.4678570890426634
+Epoch: 88, batch: 1400 of 2168, loss: 3.4596053671836855
+Epoch: 88, batch: 1500 of 2168, loss: 3.4851393365859984
+Epoch: 88, batch: 1600 of 2168, loss: 3.3951022362709047
+Epoch: 88, batch: 1700 of 2168, loss: 3.3831133127212523
+Epoch: 88, batch: 1800 of 2168, loss: 3.4011557626724245
+Epoch: 88, batch: 1900 of 2168, loss: 3.4271981716156006
+Epoch: 88, batch: 2000 of 2168, loss: 3.421408009529114
+Epoch: 88, batch: 2100 of 2168, loss: 3.389555892944336
+Epoch 88 done, here is a sample (creativity 2):
+jesus, the
+ daughter of the lord.
+
+ 3: 1 then it was a angel that he had seen: for the lord
+ was not with you.
+
+ 14: 1 now i will bring the children of israel, and the
+ land, and all that thou command thee, shall thou give thee to
+ possess the children, and the remnant that thou hast given thee, and the
+ land of israel, and the children, the children that is in thee, and
+ all that i have done, and the land of the earth shall be in the
+ midst of their people. and all the people were the people, that the lord had given
+ them. and all the children he shall be brought to the house. and the lord
+ said, i will not be put to death.
+ and saith they not, i will go forth, thou shalt go to the house of
+ the lord, that i shalt go to the house.
+ and they shall say unto the people.
+Epoch: 89, batch: 100 of 2168, loss: 3.4607828712463378
+Epoch: 89, batch: 200 of 2168, loss: 3.3360274505615233
+Epoch: 89, batch: 300 of 2168, loss: 3.3687176418304445
+Epoch: 89, batch: 400 of 2168, loss: 3.2931138920783996
+Epoch: 89, batch: 500 of 2168, loss: 3.392209289073944
+Epoch: 89, batch: 600 of 2168, loss: 3.412538287639618
+Epoch: 89, batch: 700 of 2168, loss: 3.4093701958656313
+Epoch: 89, batch: 800 of 2168, loss: 3.449210364818573
+Epoch: 89, batch: 900 of 2168, loss: 3.3442439079284667
+Epoch: 89, batch: 1000 of 2168, loss: 3.34971515417099
+Epoch: 89, batch: 1100 of 2168, loss: 3.4891026210784912
+Epoch: 89, batch: 1200 of 2168, loss: 3.4187779927253725
+Epoch: 89, batch: 1300 of 2168, loss: 3.463429179191589
+Epoch: 89, batch: 1400 of 2168, loss: 3.4607189965248106
+Epoch: 89, batch: 1500 of 2168, loss: 3.4813212251663206
+Epoch: 89, batch: 1600 of 2168, loss: 3.3955765390396118
+Epoch: 89, batch: 1700 of 2168, loss: 3.382665786743164
+Epoch: 89, batch: 1800 of 2168, loss: 3.4017290759086607
+Epoch: 89, batch: 1900 of 2168, loss: 3.4249919152259825
+Epoch: 89, batch: 2000 of 2168, loss: 3.4192452144622805
+Epoch: 89, batch: 2100 of 2168, loss: 3.3866545391082763
+Epoch 89 done, here is a sample (creativity 3):
+jesus, that he had given him the people, that he might not
+ be the lord, that they may go into the house of israel. so they went,
+ saying the lord, and the lord spake to moses, saying to the lord, behold,
+ i shalt send them to the king of israel. and he shall say, i will
+ go into the hand of god, that thou shalt not be a god, that thou shalt
+ give thee. and they said, i shalt not go to thee: thou will
+ not be a father, neither will thy father be a brother': but he shall not go. and the king said,
+ behold, the sword shall be a god of a people. then the people said
+ and i the son, and he was a great god: for he was
+ afraid, that he was a god. and the people was with him, saying the
+ lord, that i will go into the house, i am the god of
+ the
+Epoch: 90, batch: 100 of 2168, loss: 3.4566214752197264
+Epoch: 90, batch: 200 of 2168, loss: 3.3320688676834105
+Epoch: 90, batch: 300 of 2168, loss: 3.366762945652008
+Epoch: 90, batch: 400 of 2168, loss: 3.294973821640015
+Epoch: 90, batch: 500 of 2168, loss: 3.385437729358673
+Epoch: 90, batch: 600 of 2168, loss: 3.4114145755767824
+Epoch: 90, batch: 700 of 2168, loss: 3.407820110321045
+Epoch: 90, batch: 800 of 2168, loss: 3.4421463918685915
+Epoch: 90, batch: 900 of 2168, loss: 3.3443738436698913
+Epoch: 90, batch: 1000 of 2168, loss: 3.3497143673896788
+Epoch: 90, batch: 1100 of 2168, loss: 3.4858747124671936
+Epoch: 90, batch: 1200 of 2168, loss: 3.418937737941742
+Epoch: 90, batch: 1300 of 2168, loss: 3.460425090789795
+Epoch: 90, batch: 1400 of 2168, loss: 3.461133909225464
+Epoch: 90, batch: 1500 of 2168, loss: 3.4795220828056337
+Epoch: 90, batch: 1600 of 2168, loss: 3.3870787978172303
+Epoch: 90, batch: 1700 of 2168, loss: 3.3790586233139037
+Epoch: 90, batch: 1800 of 2168, loss: 3.4006654357910158
+Epoch: 90, batch: 1900 of 2168, loss: 3.419746313095093
+Epoch: 90, batch: 2000 of 2168, loss: 3.4208150482177735
+Epoch: 90, batch: 2100 of 2168, loss: 3.3812487840652468
+Epoch 90 done, here is a sample (creativity 5):
+jesus' s wife
+ came forth out unto the philistines: so i saw them, because thou have done to him, that i might go
+ out of my land; i am the firstborn of the living. but they went to meet
+ solomon the prophet: 1 and to his people were come to the lord' houses. ) 20 was the son be given, and a son
+ shall go into a land: he that hath been of him are the son and the
+ prophet, which hath not made the lord thy covenant for all your
+ hand, which is the word of his god. all the people, the voice
+ shall he go. all that moses king, the children. thus was one in his
+ name? 6: 8 and moses said unto the elders, behold thou thou
+ am not come up unto me. then they went out, and went down. so the men said
+ to pharaoh.
+ and he went. then they came up from his disciples. then when they had
+Epoch: 91, batch: 100 of 2168, loss: 3.453824920654297
+Epoch: 91, batch: 200 of 2168, loss: 3.331561143398285
+Epoch: 91, batch: 300 of 2168, loss: 3.361917107105255
+Epoch: 91, batch: 400 of 2168, loss: 3.287398867607117
+Epoch: 91, batch: 500 of 2168, loss: 3.3874476504325868
+Epoch: 91, batch: 600 of 2168, loss: 3.4117563939094544
+Epoch: 91, batch: 700 of 2168, loss: 3.404139919281006
+Epoch: 91, batch: 800 of 2168, loss: 3.4441911578178406
+Epoch: 91, batch: 900 of 2168, loss: 3.3409580183029175
+Epoch: 91, batch: 1000 of 2168, loss: 3.346498727798462
+Epoch: 91, batch: 1100 of 2168, loss: 3.483265037536621
+Epoch: 91, batch: 1200 of 2168, loss: 3.41439227104187
+Epoch: 91, batch: 1300 of 2168, loss: 3.4572170519828798
+Epoch: 91, batch: 1400 of 2168, loss: 3.457392303943634
+Epoch: 91, batch: 1500 of 2168, loss: 3.4790879464149476
+Epoch: 91, batch: 1600 of 2168, loss: 3.38450918674469
+Epoch: 91, batch: 1700 of 2168, loss: 3.378467242717743
+Epoch: 91, batch: 1800 of 2168, loss: 3.3969567036628723
+Epoch: 91, batch: 1900 of 2168, loss: 3.420742254257202
+Epoch: 91, batch: 2000 of 2168, loss: 3.4140154409408567
+Epoch: 91, batch: 2100 of 2168, loss: 3.3833303809165955
+Epoch 91 done, here is a sample (creativity 3):
+jesus' father: for i am the
+ lord, all that thou hast brought unto me, that thou have heard.
+
+ 4: 7 then i saw the angel of the lord god by this side
+ israel, and said unto the people of the house that i command you,
+ i will go into thy house. but the people said unto him, go to, and
+ be the people, that i should be a son.
+
+ 4. 66 for i shalt be an god, which is in the earth. and the people said, let us
+ not eat the people of god, but to be the lord, and i
+ am my lord: for thou will go to the house.
+
+ 27: 11 then the philistines came up, saying unto the lord god;
+ thou will go down to me, to bring it to death, that thou
+ shalt not go into thy land. so he saith, behold thou, thou will go. and he
+ said, i shalt
+Epoch: 92, batch: 100 of 2168, loss: 3.4520506358146665
+Epoch: 92, batch: 200 of 2168, loss: 3.326915073394775
+Epoch: 92, batch: 300 of 2168, loss: 3.360035443305969
+Epoch: 92, batch: 400 of 2168, loss: 3.280088140964508
+Epoch: 92, batch: 500 of 2168, loss: 3.382137506008148
+Epoch: 92, batch: 600 of 2168, loss: 3.4064176583290102
+Epoch: 92, batch: 700 of 2168, loss: 3.4007055354118347
+Epoch: 92, batch: 800 of 2168, loss: 3.441026260852814
+Epoch: 92, batch: 900 of 2168, loss: 3.3366882610321045
+Epoch: 92, batch: 1000 of 2168, loss: 3.3389383578300476
+Epoch: 92, batch: 1100 of 2168, loss: 3.4818803429603578
+Epoch: 92, batch: 1200 of 2168, loss: 3.4138899850845337
+Epoch: 92, batch: 1300 of 2168, loss: 3.4571404123306273
+Epoch: 92, batch: 1400 of 2168, loss: 3.4519960045814515
+Epoch: 92, batch: 1500 of 2168, loss: 3.4730563259124754
+Epoch: 92, batch: 1600 of 2168, loss: 3.3833059740066527
+Epoch: 92, batch: 1700 of 2168, loss: 3.371258385181427
+Epoch: 92, batch: 1800 of 2168, loss: 3.3944996905326845
+Epoch: 92, batch: 1900 of 2168, loss: 3.4156054854393005
+Epoch: 92, batch: 2000 of 2168, loss: 3.4106800365448
+Epoch: 92, batch: 2100 of 2168, loss: 3.382231297492981
+Epoch 92 done, here is a sample (creativity 5):
+jesus and the people were the chief
+ year. this is a hundred, and all that were left of them
+ of all the people, and of the house and levites. so they
+ brought forth all that was slain in the house; and all that were the sons.
+ when there came a voice of the people that he was.
+ tribe unto solomon and for israel, the children are come out, and the name, and a
+ people in all that he spake unto them. and they brought the
+ elders to the house, to be left with his fathers; and he
+ said to pharaoh his daughter and the chief. and they called them,
+ because the man were the king, and his people, that she
+ might be his brother; but she said unto her husband. now the philistines went, and
+ the people, that i hast sent him, to be called. now the sons of israel were, that it came.
+ day 12 am 60 the word. and moses said
+Epoch: 93, batch: 100 of 2168, loss: 3.4523630475997926
+Epoch: 93, batch: 200 of 2168, loss: 3.3217602038383482
+Epoch: 93, batch: 300 of 2168, loss: 3.3550419545173646
+Epoch: 93, batch: 400 of 2168, loss: 3.280936846733093
+Epoch: 93, batch: 500 of 2168, loss: 3.382226040363312
+Epoch: 93, batch: 600 of 2168, loss: 3.4058971500396726
+Epoch: 93, batch: 700 of 2168, loss: 3.399473466873169
+Epoch: 93, batch: 800 of 2168, loss: 3.4355939292907713
+Epoch: 93, batch: 900 of 2168, loss: 3.334235429763794
+Epoch: 93, batch: 1000 of 2168, loss: 3.3377078914642335
+Epoch: 93, batch: 1100 of 2168, loss: 3.475074677467346
+Epoch: 93, batch: 1200 of 2168, loss: 3.411206202507019
+Epoch: 93, batch: 1300 of 2168, loss: 3.454089605808258
+Epoch: 93, batch: 1400 of 2168, loss: 3.448587543964386
+Epoch: 93, batch: 1500 of 2168, loss: 3.46992577791214
+Epoch: 93, batch: 1600 of 2168, loss: 3.3792700505256654
+Epoch: 93, batch: 1700 of 2168, loss: 3.3728250288963317
+Epoch: 93, batch: 1800 of 2168, loss: 3.3923740863800047
+Epoch: 93, batch: 1900 of 2168, loss: 3.411622157096863
+Epoch: 93, batch: 2000 of 2168, loss: 3.4090600395202637
+Epoch: 93, batch: 2100 of 2168, loss: 3.3766820287704467
+Epoch 93 done, here is a sample (creativity 4):
+jesus' s servants: and they went up, the lord
+ stood upon the philistines: but the philistines was the king, even to
+ the king, saying unto the king, i have done me. so he
+ called his name solomon. and he called the lord god, that the king of israel was
+ dead to david. and they answered, i am a son. so they said unto
+ him the third, come unto the dead; let him go to me. and he
+ answered unto them: why shall thou be done? and the king said and
+ said, the lord hath given us the children, that he should not hear him. and
+ he said to her people, i will go to me: for the
+ father will be called, but i have not been. then he called the lord,
+ because she sat in his sight: and the people said unto the people. then he said, let, i
+ art not.
+ now he said unto her. then
+Epoch: 94, batch: 100 of 2168, loss: 3.4475596022605894
+Epoch: 94, batch: 200 of 2168, loss: 3.324663505554199
+Epoch: 94, batch: 300 of 2168, loss: 3.3557735013961794
+Epoch: 94, batch: 400 of 2168, loss: 3.279258897304535
+Epoch: 94, batch: 500 of 2168, loss: 3.374472053050995
+Epoch: 94, batch: 600 of 2168, loss: 3.39844486951828
+Epoch: 94, batch: 700 of 2168, loss: 3.392973606586456
+Epoch: 94, batch: 800 of 2168, loss: 3.435737946033478
+Epoch: 94, batch: 900 of 2168, loss: 3.3376850032806398
+Epoch: 94, batch: 1000 of 2168, loss: 3.3365834856033327
+Epoch: 94, batch: 1100 of 2168, loss: 3.473332238197327
+Epoch: 94, batch: 1200 of 2168, loss: 3.4075380420684813
+Epoch: 94, batch: 1300 of 2168, loss: 3.4545241618156433
+Epoch: 94, batch: 1400 of 2168, loss: 3.447270460128784
+Epoch: 94, batch: 1500 of 2168, loss: 3.4693498516082766
+Epoch: 94, batch: 1600 of 2168, loss: 3.375353739261627
+Epoch: 94, batch: 1700 of 2168, loss: 3.3677562427520753
+Epoch: 94, batch: 1800 of 2168, loss: 3.3887893199920653
+Epoch: 94, batch: 1900 of 2168, loss: 3.4127558708190917
+Epoch: 94, batch: 2000 of 2168, loss: 3.4062809324264527
+Epoch: 94, batch: 2100 of 2168, loss: 3.376914403438568
+Epoch 94 done, here is a sample (creativity 5):
+jesus the prophet.
+ peter took him unto them, to give the house of god to him,
+ to destroy them, to do him, and to keep them to keep the
+ children of all their enemies to the egyptians, and with his statutes and
+ thy children, to be thy reproach. so david answered and took
+ him with me, saith and the people, go, i beseech the
+ children, i am the son that is with him, that the philistines may see
+ thy people in the day. and he answered and said in them the prophet. then when
+ she said, there is the lord. and they said, let us be ready: let us go. and when he
+ heard it the child of the philistines. then samuel answered, what hast i found?
+ and thou will not see it; for i hast not said of me: but thou hast no part;
+ for it be no day in thee, but the sword.
+ then they said, go to
+Epoch: 95, batch: 100 of 2168, loss: 3.4439453315734863
+Epoch: 95, batch: 200 of 2168, loss: 3.319375891685486
+Epoch: 95, batch: 300 of 2168, loss: 3.3541545915603637
+Epoch: 95, batch: 400 of 2168, loss: 3.272105185985565
+Epoch: 95, batch: 500 of 2168, loss: 3.3755573439598083
+Epoch: 95, batch: 600 of 2168, loss: 3.401239399909973
+Epoch: 95, batch: 700 of 2168, loss: 3.3956968116760256
+Epoch: 95, batch: 800 of 2168, loss: 3.4303625345230104
+Epoch: 95, batch: 900 of 2168, loss: 3.332700433731079
+Epoch: 95, batch: 1000 of 2168, loss: 3.3335521030426025
+Epoch: 95, batch: 1100 of 2168, loss: 3.470746214389801
+Epoch: 95, batch: 1200 of 2168, loss: 3.4092368984222414
+Epoch: 95, batch: 1300 of 2168, loss: 3.448486340045929
+Epoch: 95, batch: 1400 of 2168, loss: 3.441466038227081
+Epoch: 95, batch: 1500 of 2168, loss: 3.4667563915252684
+Epoch: 95, batch: 1600 of 2168, loss: 3.3739655780792237
+Epoch: 95, batch: 1700 of 2168, loss: 3.3637307333946227
+Epoch: 95, batch: 1800 of 2168, loss: 3.3818295621871948
+Epoch: 95, batch: 1900 of 2168, loss: 3.4118858695030214
+Epoch: 95, batch: 2000 of 2168, loss: 3.4022261261940003
+Epoch: 95, batch: 2100 of 2168, loss: 3.3709973764419554
+Epoch 95 done, here is a sample (creativity 3):
+jesus' father.
+ and the lord was the god, and all that the lord hath commanded
+ them.
+ when the king of assyria said and spake, the philistines is come up
+ to him, and they were buried. then they brought him into their hands, and
+ said, i art a people: i will go unto the throne. and they said
+ and samuel the king of the jews to the king, saying, the lord
+ will do thee: and he will be called of the house of israel. so they
+ shall take the children of aaron to wife, to whom he shall give
+ thee the ark, and the remnant thereof, and all that he hath done,
+ shall be holy. selah. and the lord of hosts shall come up. so the lord
+ commanded them.
+ and he answered unto them the third priests, go. and they said unto him
+ the elders, i am a son: for i hast made me my
+ people, and thou will be
+Epoch: 96, batch: 100 of 2168, loss: 3.446802484989166
+Epoch: 96, batch: 200 of 2168, loss: 3.319637258052826
+Epoch: 96, batch: 300 of 2168, loss: 3.352250645160675
+Epoch: 96, batch: 400 of 2168, loss: 3.2766100931167603
+Epoch: 96, batch: 500 of 2168, loss: 3.371144623756409
+Epoch: 96, batch: 600 of 2168, loss: 3.3983418345451355
+Epoch: 96, batch: 700 of 2168, loss: 3.392967309951782
+Epoch: 96, batch: 800 of 2168, loss: 3.434371342658997
+Epoch: 96, batch: 900 of 2168, loss: 3.3302496314048766
+Epoch: 96, batch: 1000 of 2168, loss: 3.3371375751495362
+Epoch: 96, batch: 1100 of 2168, loss: 3.4718006825447083
+Epoch: 96, batch: 1200 of 2168, loss: 3.4041580891609193
+Epoch: 96, batch: 1300 of 2168, loss: 3.448557617664337
+Epoch: 96, batch: 1400 of 2168, loss: 3.4406010723114013
+Epoch: 96, batch: 1500 of 2168, loss: 3.4620143032073973
+Epoch: 96, batch: 1600 of 2168, loss: 3.3733238530158998
+Epoch: 96, batch: 1700 of 2168, loss: 3.363629159927368
+Epoch: 96, batch: 1800 of 2168, loss: 3.3830147910118105
+Epoch: 96, batch: 1900 of 2168, loss: 3.4090445280075072
+Epoch: 96, batch: 2000 of 2168, loss: 3.395921361446381
+Epoch: 96, batch: 2100 of 2168, loss: 3.3691728854179384
+Epoch 96 done, here is a sample (creativity 4):
+jesus the son, and
+ solomon' sons of his house, and the captains, the children of
+ jeroham the son and captains the son and the third. ) 12 was it, o king
+ christ; but the word that thou art come to the lord thy god: for the
+ people of israel hath done thee. selah.
+ amen another amen, amen of the lord; but i am the
+ people. for i am come up to him; and if thou wilt hear the word
+ that is in thee, let us find. then all israel did so
+ according to him: therefore they brought up the people that was with them: and they
+ shall be a sign for thee; they will not be put into captivity; for the lord
+ your high land, to the land of our father. selah: therefore i will not be put into
+ the hand. selah thou shalt go unto the children. and he shall say
+ among his voice, i am a son. this, and
+Epoch: 97, batch: 100 of 2168, loss: 3.437149338722229
+Epoch: 97, batch: 200 of 2168, loss: 3.316942644119263
+Epoch: 97, batch: 300 of 2168, loss: 3.3472824931144713
+Epoch: 97, batch: 400 of 2168, loss: 3.271152400970459
+Epoch: 97, batch: 500 of 2168, loss: 3.3698367214202882
+Epoch: 97, batch: 600 of 2168, loss: 3.395224812030792
+Epoch: 97, batch: 700 of 2168, loss: 3.3910401916503905
+Epoch: 97, batch: 800 of 2168, loss: 3.4287698245048523
+Epoch: 97, batch: 900 of 2168, loss: 3.3271482229232787
+Epoch: 97, batch: 1000 of 2168, loss: 3.3330382609367373
+Epoch: 97, batch: 1100 of 2168, loss: 3.4697125935554505
+Epoch: 97, batch: 1200 of 2168, loss: 3.39942658662796
+Epoch: 97, batch: 1300 of 2168, loss: 3.443882312774658
+Epoch: 97, batch: 1400 of 2168, loss: 3.443068866729736
+Epoch: 97, batch: 1500 of 2168, loss: 3.4645917344093324
+Epoch: 97, batch: 1600 of 2168, loss: 3.372262623310089
+Epoch: 97, batch: 1700 of 2168, loss: 3.366087634563446
+Epoch: 97, batch: 1800 of 2168, loss: 3.3778268671035767
+Epoch: 97, batch: 1900 of 2168, loss: 3.405624988079071
+Epoch: 97, batch: 2000 of 2168, loss: 3.4003753519058226
+Epoch: 97, batch: 2100 of 2168, loss: 3.368334529399872
+Epoch 97 done, here is a sample (creativity 3):
+jesus, and said to
+ them, i am not the god of god, and the lord god, and i will not
+ give you a son of the land of egypt: for thou will not be a wife.
+ and he said and spake to him, and said to the lord.
+ and they said. then the king answered unto them, i will go up, and thou
+ will be a stranger: for the people of israel is not in the land
+ of egypt: but the lord will be put out from the house, that he shall go to
+ him.
+
+ 22 who 49 and the children that were therein in the book of
+ god.
+ and i shalt give the levites in their land to be the
+ lord' s: but thou shalt bring them out of the hand of israel. this shall
+ not be broken. and the people shall say to thee. this shall therefore be
+ cut to the king of assyria. this shall he be the holy priest
+ according
+Epoch: 98, batch: 100 of 2168, loss: 3.4335623717308046
+Epoch: 98, batch: 200 of 2168, loss: 3.314767246246338
+Epoch: 98, batch: 300 of 2168, loss: 3.3458779072761535
+Epoch: 98, batch: 400 of 2168, loss: 3.2692285203933715
+Epoch: 98, batch: 500 of 2168, loss: 3.3731121134757998
+Epoch: 98, batch: 600 of 2168, loss: 3.39214958190918
+Epoch: 98, batch: 700 of 2168, loss: 3.3895989155769346
+Epoch: 98, batch: 800 of 2168, loss: 3.4272955656051636
+Epoch: 98, batch: 900 of 2168, loss: 3.32535475730896
+Epoch: 98, batch: 1000 of 2168, loss: 3.3308734560012816
+Epoch: 98, batch: 1100 of 2168, loss: 3.469285581111908
+Epoch: 98, batch: 1200 of 2168, loss: 3.3991886162757874
+Epoch: 98, batch: 1300 of 2168, loss: 3.4462127161026
+Epoch: 98, batch: 1400 of 2168, loss: 3.44000789642334
+Epoch: 98, batch: 1500 of 2168, loss: 3.460160837173462
+Epoch: 98, batch: 1600 of 2168, loss: 3.3669230127334595
+Epoch: 98, batch: 1700 of 2168, loss: 3.36355521440506
+Epoch: 98, batch: 1800 of 2168, loss: 3.3770220637321473
+Epoch: 98, batch: 1900 of 2168, loss: 3.4015036821365356
+Epoch: 98, batch: 2000 of 2168, loss: 3.395820264816284
+Epoch: 98, batch: 2100 of 2168, loss: 3.3630878281593324
+Epoch 98 done, here is a sample (creativity 5):
+jesus and all israel shall go unto them; and they that have committed the name,
+ which they shall give the land which thou shalt give unto you;
+ for ye be the people which ye may give unto him the lord, which
+ they did unto you to possess it to the king' s. then the
+ king of the house was the children of levi the firstborn,
+ that thou shalt not be in him, and thou hast given him
+ thy covenant in thee; 1 hast the son among thee that thou
+ hast made him the land which they had given, to go to possess them: for the
+ philistines is the god which they shall do: and he that
+ have his name and thy mother shall not go into it to possess his people; for
+ thou am holy of all thy firstborn, and shall possess them in thy sight
+ which the philistines shall choose; but i am my lord. and the lord was a
+ judgments in the name. 19 so he answered, what do
+Epoch: 99, batch: 100 of 2168, loss: 3.4309527492523193
+Epoch: 99, batch: 200 of 2168, loss: 3.3159961795806883
+Epoch: 99, batch: 300 of 2168, loss: 3.3457867097854614
+Epoch: 99, batch: 400 of 2168, loss: 3.267061803340912
+Epoch: 99, batch: 500 of 2168, loss: 3.3694386887550354
+Epoch: 99, batch: 600 of 2168, loss: 3.3911106848716734
+Epoch: 99, batch: 700 of 2168, loss: 3.382235369682312
+Epoch: 99, batch: 800 of 2168, loss: 3.4255534744262697
+Epoch: 99, batch: 900 of 2168, loss: 3.326067943572998
+Epoch: 99, batch: 1000 of 2168, loss: 3.324730339050293
+Epoch: 99, batch: 1100 of 2168, loss: 3.4648891735076903
+Epoch: 99, batch: 1200 of 2168, loss: 3.3947369861602783
+Epoch: 99, batch: 1300 of 2168, loss: 3.440468511581421
+Epoch: 99, batch: 1400 of 2168, loss: 3.438981626033783
+Epoch: 99, batch: 1500 of 2168, loss: 3.4572477889060975
+Epoch: 99, batch: 1600 of 2168, loss: 3.3672096228599546
+Epoch: 99, batch: 1700 of 2168, loss: 3.35699348449707
+Epoch: 99, batch: 1800 of 2168, loss: 3.3765478563308715
+Epoch: 99, batch: 1900 of 2168, loss: 3.399250319004059
+Epoch: 99, batch: 2000 of 2168, loss: 3.392708761692047
+Epoch: 99, batch: 2100 of 2168, loss: 3.3624117279052737
+Epoch 99 done, here is a sample (creativity 3):
+jesus' s servants:
+ but he said and told them. and the king answered to pharaoh. then they said,
+ what is the son that i am.
+
+ 12: 4 now the children that came out from me shall come to
+ jerusalem; and they will be a stranger unto you: and the people will
+ be a wife, saith to him that shall be in the midst, and the
+ lord will deliver it to thee. then they shall be with them, and
+ the children of the children of israel shall come out.
+ shall the sons of the people shall be in him: but the lord will give them.
+
+ 22: 1 then it shall be in thee that are born of the land of israel
+ and the inhabitants thereof, that the children of israel shall
+ not go to death, nor the land shall come forth from a own land. so the lord said
+ unto the lord, i shalt be the king of the land, which i have given
+ before
+Epoch: 100, batch: 100 of 2168, loss: 3.432480034828186
+Epoch: 100, batch: 200 of 2168, loss: 3.3147659373283385
+Epoch: 100, batch: 300 of 2168, loss: 3.3436032152175903
+Epoch: 100, batch: 400 of 2168, loss: 3.2670182728767396
+Epoch: 100, batch: 500 of 2168, loss: 3.364909393787384
+Epoch: 100, batch: 600 of 2168, loss: 3.3889095997810363
+Epoch: 100, batch: 700 of 2168, loss: 3.384868047237396
+Epoch: 100, batch: 800 of 2168, loss: 3.4263607335090636
+Epoch: 100, batch: 900 of 2168, loss: 3.323366634845734
+Epoch: 100, batch: 1000 of 2168, loss: 3.325980694293976
+Epoch: 100, batch: 1100 of 2168, loss: 3.465145583152771
+Epoch: 100, batch: 1200 of 2168, loss: 3.393905608654022
+Epoch: 100, batch: 1300 of 2168, loss: 3.437381138801575
+Epoch: 100, batch: 1400 of 2168, loss: 3.435045549869537
+Epoch: 100, batch: 1500 of 2168, loss: 3.453191556930542
+Epoch: 100, batch: 1600 of 2168, loss: 3.3600179958343506
+Epoch: 100, batch: 1700 of 2168, loss: 3.3547549557685854
+Epoch: 100, batch: 1800 of 2168, loss: 3.3760054326057434
+Epoch: 100, batch: 1900 of 2168, loss: 3.3971337413787843
+Epoch: 100, batch: 2000 of 2168, loss: 3.397331917285919
+Epoch: 100, batch: 2100 of 2168, loss: 3.3609097623825073
+Epoch 100 done, here is a sample (creativity 4):
+jesus, the daughter, and the
+ elders. these are he the son, the son was the fifth. the sons also, and the chief, the
+ levites, a brethren of bethlehem, the son of the nethinims. all these are,
+ that they might not go to jerusalem: but they had made them a people of all that were in him.
+
+ 15 him 57 and he had not seen, and said unto me: for the lord had
+ done me in the sight, but in his name.
+
+ 22 what 17 and he that is numbered of him was come to anger: but
+ the people, which he had spoken, the children that were in jerusalem.
+
+ 14. and all he called them. then he said unto them, let me not be
+ taken off. then he took him the second year and night, the name. then when he was, he had made
+ him the people.
+
+ 12 what 9 he was the king of old that was
+
+Process finished with exit code 0
