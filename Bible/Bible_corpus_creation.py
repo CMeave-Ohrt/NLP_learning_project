@@ -4,18 +4,26 @@ from Tokenization_for_Textgen import Corpus
 #run and generate corpus
 
 #read in file
-path = './Bible/Data/Bible.txt'
-file = open(path, 'r')
+path = './Data/German_Bible.txt'
+file = open(path, 'rb')
 theText = file.read()
+
+theText = theText.decode('utf-8', 'replace')
+
+theText = theText.replace('\r\n', ' \n ')
+
+print(theText[:1000])
 
 #generate basic corpus
 my_corpus = Corpus()
-punctuation = {'.', '!', '?', ':', '\n', "'", ',', ';'}
+punctuation = {'.', '!', '?', ':', '\n', "'", ',', ';', '"'}
 my_corpus.add_punctuation(punctuation)
 
 df = my_corpus.analyze(theText)
 
-my_corpus.make_vocab(theText, 6000)
+print(df.describe())
+
+my_corpus.make_vocab(theText, 10000)
 
 print('parsing')
 
@@ -30,4 +38,4 @@ print(parsed[:100])
 
 #saving
 
-my_corpus.save_vocab('./Bible/Parameters/bible_corpus.pt')
+my_corpus.save_vocab('./Parameters/German_bible_corpus.pt')

@@ -2,6 +2,7 @@ import torch
 import torch.nn as nn
 import pandas as pd
 import numpy as np
+from Beaming import Beam
 
 class TextGenerator:
     """Initiates LSTM based model for text generation"""
@@ -26,8 +27,9 @@ class TextGenerator:
         self.embedding[self.corpus.word_to_ind[self.corpus.UNKNOWN], :] = 0
         self.embedding[self.corpus.word_to_ind[self.corpus.UNKNOWN], -1] = 1
 
-        self.LSTM_model = LSTMModel(input_size=self.vocab_size, embed_size=self.embed_size,
-                                    hidden_size=128, class_count=self.vocab_size, LSTM_count=LSTM_count)
+        self.LSTM_model = LSTMModel(input_size=self.vocab_size, embed_size=self.embed_size, hidden_size=128,
+                                    class_count=self.vocab_size, LSTM_count=LSTM_count,
+                                    ignore_class=self.corpus.word_to_ind[self.corpus.UNKNOWN])
 
         self.LSTM_model.embedding.weight.data = self.embedding
 
@@ -112,19 +114,18 @@ class TextGenerator:
 
             #User update and sample printing:
             creativity = int(np.random.choice(range(2, 6)))
-            print('Epoch {} done, here is a sample (creativity {}):'.format(epoch+1, creativity))
+            print('Epoch {} done, here is a sample:'.format(epoch+1))
 
-            sample_indices = self.generate('jesus', 200, creativity=creativity)
+            sample_indices = self.generate_with_beam('er', 200, creativity=1, beam_width=100, window=4)
 
             print(self.unparse(sample_indices))
 
-            #save model state every 5 epochs:
+            #save model state every 10 epochs:
             if (epoch % 10) == 9:
                 path = './Parameters/text_generator_autosave_epoch'+str(epoch+1)+'.pt'
                 torch.save(self.LSTM_model.state_dict(), path)
 
-
-    def generate(self, start_words, max_length, creativity=5):
+    def generate(self, start_words, max_length, creativity=5, use_distribution=False):
         """Generates text sample starting with start words, text sample will be returned as list of indices"""
 
         start_indices = self.corpus.parse_to_index(start_words, use_punctuation=True)
@@ -147,19 +148,41 @@ class TextGenerator:
 
             #find indices for next word
             probs = probs[-1] #only care about the last entry if X was a list
-            _, candidates = torch.topk(probs, creativity)
+            top_probs, candidates = torch.topk(probs, creativity)
             candidates = candidates.tolist()
+            top_probs = top_probs.numpy()
+
+            #make prob distribution:
+            if use_distribution:
+                top_probs = top_probs/top_probs.sum()
+            else:
+                top_probs = None
+
+            choices = np.random.choice(candidates, size=(2,), p=top_probs, replace=False)
+
+            choice = choices[0]
 
             #drop UNKNOWN from candidates:
-            if self.corpus.word_to_ind[self.corpus.UNKNOWN] in candidates:
-                candidates.remove(self.corpus.word_to_ind[self.corpus.UNKNOWN])
+            if self.corpus.word_to_ind[self.corpus.UNKNOWN] == choice:
+                choice = choices[1]
 
-            choice = np.random.choice(candidates)
 
             result_indices.append(choice)
             start_indices = [choice]
 
         return result_indices
+
+    def generate_with_beam(self, start_words, max_length, beam_width=10, creativity=0, window=2):
+
+        start_indices = self.corpus.parse_to_index(start_words, use_punctuation=True)
+        start_indices = torch.Tensor(start_indices).type(torch.LongTensor)
+
+        my_beam = Beam(self.LSTM_model, ignore_index=self.corpus.word_to_ind[self.corpus.UNKNOWN])
+
+        result = my_beam.generate_with_var(start_indices, length=max_length, beam_width=beam_width,
+                       creativity=creativity, window=window)
+
+        return result
 
     def unparse(self, indices):
         """turns list of indices into text:"""
@@ -177,11 +200,12 @@ class TextGenerator:
         self.LSTM_model.load_state_dict(torch.load(path))
 
 class LSTMModel (nn.Module):
-    def __init__(self, input_size, embed_size, hidden_size, class_count, LSTM_count):
+    def __init__(self, input_size, embed_size, hidden_size, class_count, LSTM_count, ignore_class=None):
         super(LSTMModel, self).__init__()
 
         self.LSTM_layers = LSTM_count
         self.hidden_size = hidden_size
+        self.ignore_class = ignore_class
 
         self.embedding = nn.Embedding(input_size, embed_size)
         self.LSTM = nn.LSTM(embed_size, self.hidden_size, num_layers=self.LSTM_layers,
@@ -204,6 +228,11 @@ class LSTMModel (nn.Module):
 
         if self.training: #only calculate loss
             target = target.reshape(-1)  # ->(b-s*s-l)
+
+            #drop any instances, where target = Unknown
+            x = x[target != self.ignore_class]
+            target = target[target != self.ignore_class]
+
             loss = self.Adaptive_Softmax(x, target).loss
             return loss, state
 

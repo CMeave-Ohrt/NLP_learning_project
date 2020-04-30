@@ -2,17 +2,17 @@ import torch
 
 class Beam:
     def __init__(self, model, start_index, stop_index, ignore_index=None):
-        """Model must sequential model with functions:
-        -initialize_state"""
+        """Implements beam search for single- and multi-line batches."""
         self.model = model
         self.ignore_index = ignore_index
         self.start_index = start_index
         self.stop_index = stop_index
 
-
     def generate(self, context, max_length, beam_width=10):
         """generates beam-width many sequences and chooses best one
-        context must have shape (in-seq-l, bs=1, 2*hidden_size)"""
+        context must be triple (in-seq-l, bs=1, 2*hidden_size), (bs=1, h-s), (bs=1, h-s)"""
+
+        context, final_forward, final_backward = context
 
         self.model.eval()
 
@@ -29,8 +29,9 @@ class Beam:
         #first forward step
         with torch.no_grad():
             probs, state, prev_context = self.model(sort_ind=sort_index, output=start, output_lengths=lengths,
-                                          state=state, context=context)  #->(1*1, class-count), (layers, 1, hidden-size),
-                                                                        # (1, h-s)
+                                                    state=state, context=context, final_forward=final_forward,
+                                                    final_backward=final_backward)
+                                                    # ->(1*1, class-count), (layers, 1, hidden-size), (1, h-s)
 
 
         #get last output state and squeeze:
@@ -132,108 +133,11 @@ class Beam:
 
         return choice
 
-    def generate_with_var(self, start, length, beam_width=10, creativity=0, window=2):
-        """generates beam-width many sequences,
-        at time t, randomly locks in one of the possibilities created at time t-window
-        additionally adds noise to probability distributions before settling on the best choice
-        (noise is guarded by creativity)"""
-
-        self.model.eval()
-
-        result = start.tolist()
-
-        # reshape start:
-        start = start.reshape(1, -1) #-> (1, start_length)
-
-        #initialize first hidden state:
-        state = self.model.initialize_state(1)
-
-        #first forward step
-        with torch.no_grad():
-            probs, state = self.model(start, state)  #->(1*s-l, class-count), (layers, 1, hidden-size)
-
-
-        #get last output state and squeeze:
-        probs = probs[-1]  #->(class-count)
-
-        #eliminate bad index:
-        probs[self.ignore_index] = float('-inf')
-
-
-        #find first batch of candidates and their probabilities:
-        prob_scores, inputs = torch.topk(probs, beam_width)  #both are of shape (beam-width)
-
-        #stack hidden states to size
-        h, c = state
-        state = h.repeat(1, beam_width, 1), c.repeat(1, beam_width, 1)  #->(layers, b-w, h-s)
-
-        #initialize candidate sequence tensor
-        candidate_seq = torch.zeros(beam_width, length).type(torch.LongTensor)
-        candidate_seq[:, 0] = inputs
-
-        for k in range(1, length):
-
-            if (k % 100)==99:
-                print('Generating word {}/{}'.format(k+1, length))
-
-            # reshape the inputs
-            inputs = inputs.unsqueeze(1) #->(b-s, 1)
-
-            #forward step
-            with torch.no_grad():
-                probs, intermediate_state = self.model(inputs, state)#->(b-s*1, class-count), (layers,b-s, hidden-size)
-
-            #grab class_count
-            class_count = probs.shape[1]
-
-            #eliminate bad index
-            probs[:, self.ignore_index] = float('-inf')
-
-            #add previous probabilities to all entries in rows:
-            probs = probs + prob_scores.unsqueeze(1)   #Attention
-
-            #add noise:
-            probs = probs + torch.randn_like(probs)*creativity
-
-            #reshape into one dimension:
-            probs = probs.reshape(-1)           #->((b-s)*(class-count)) b-w many blocks of class-count
-
-            #pick top probabilities
-            prob_scores, candidates = probs.topk(beam_width) #both shape (b-w)
-
-            #convert candidates index (0<...<b-w*class-count) to class index:
-            inputs = candidates % class_count
-
-            #find seq that contributed:
-            prev_seq = candidates // class_count  #entries are smaller than b-s
-
-            #update saved sequences:
-            candidate_seq = candidate_seq[prev_seq]
-            candidate_seq[:, k] = inputs
-
-            #pick k-window element
-            if k >= window:
-                #choose element
-                ran = torch.randint(high=beam_width, size=(1,)).item()
-                choice = candidate_seq[ran, k-window]
-                result.append(choice.item())
-
-                #update all data
-                mask = candidate_seq[:, k-window] == choice
-                candidate_seq = candidate_seq[mask] #shape (b-s, length)
-                inputs = candidate_seq[:, k] #shape(b-s)
-                prob_scores = prob_scores[mask]
-                prev_seq = prev_seq[mask]
-
-            #update hidden state:
-            h, c = intermediate_state
-            state = h[:, prev_seq], c[:, prev_seq]
-
-        return result
-
     def batch_generate(self, context, max_length, beam_width=10):
-        """generates beam-width many sequences and chooses best one
-        context must have shape (in-seq-l, bs, 2*hidden_size)"""
+        """generates beam-width many sequences and chooses best one for each example in batch
+        context must be triple(in-seq-l, bs, 2*hidden_size), (bs, hs), (bs, hs)"""
+
+        context, final_forward, final_backward = context
 
         self.model.eval()
 
@@ -252,18 +156,23 @@ class Beam:
 
         #first forward step
         with torch.no_grad():
-            probs, state = self.model(sort_ind=sort_index, output=start, output_lengths=lengths,
-                                          state=state, context=context)  # ->(1*b-s, class-count), (layers, b-s, hidden-size)
+            probs, state, prev_context = self.model(sort_ind=sort_index, output=start, output_lengths=lengths,
+                                                    state=state, context=context, final_forward=final_forward,
+                                                    final_backward=final_backward)
+                                                    # ->(1*b-s, class-count), (layers, b-s, hidden-size), (b-s, h-s)
 
-        #eliminate bad index:
+        # eliminate bad index:
         probs[:, self.ignore_index] = float('-inf')         # shape (b-s, class-count)
 
-
         # find first batch of candidates and their probabilities:
-        prob_scores, inputs = torch.topk(probs, beam_width)  # both are of shape (b-s, beam-width)
+        prob_scores, inputs = torch.topk(probs, beam_width, dim=1)  # both are of shape (b-s, beam-width)
 
         # stack hidden states to size
-        state = state.repeat(1, beam_width, 1)      # ->(layers, b-w*b-s, h-s) grouped by batches
+        state = torch.repeat_interleave(state, beam_width, dim=1)      # ->(layers, b-w*b-s, h-s) grouped by batches
+
+
+        if prev_context != None:
+            prev_context = torch.repeat_interleave(prev_context, beam_width, dim=0) # ->(bw*bs, hs)
 
         # initialize candidate sequence tensor
         candidate_seq = torch.zeros(0)
@@ -287,9 +196,10 @@ class Beam:
 
             #forward step
             with torch.no_grad():
-                probs, intermediate_state = self.model(sort_ind=sort_index, output=inputs, output_lengths=lengths,
-                                                       state=state, context=this_context)
-                                                        # ->(b-s*b-w, class-count), (layers,b-s*b-w, hidden-size)
+                probs, intermediate_state, prev_context = self.model(sort_ind=sort_index, output=inputs,
+                                                                     output_lengths=lengths, state=state,
+                                                                     context=this_context, prev_context=prev_context)
+                                                            # ->(b-s*b-w, class-count), (layers,b-s*b-w, hs), (bs, hs)
 
             #grab class_count
             class_count = probs.shape[1]
@@ -297,10 +207,10 @@ class Beam:
             # eliminate bad index
             probs[:, self.ignore_index] = float('-inf')
 
-            # keep prob for finished seq
-            set_values = torch.Tensor([float('-inf')]*class_count)
-            set_values[self.stop_index] = 0
-            probs[inputs.squeeze(0) == self.stop_index] = set_values
+            # sequences that stopped must continue with STOP:
+            fixed_probs = torch.zeros(0).new_full((class_count, ), fill_value=float('-inf'))
+            fixed_probs[self.stop_index] = 0
+            probs[inputs.squeeze(0) == self.stop_index] = fixed_probs
 
             # add previous probabilities to all entries in rows:
             probs = probs + prob_scores.reshape(-1, 1)
@@ -353,6 +263,12 @@ class Beam:
             # choose relevant batches in order
             state = intermediate_state[:, prev_seq]
 
+            # same for prev_context
+            if prev_context != None:
+                prev_context = prev_context.reshape(batch_size, beam_width, -1)
+                prev_context = prev_context[future_batches].reshape(-1, prev_context.shape[2])
+                prev_context = prev_context[prev_seq]
+
             # update batch size
             batch_size = future_batches.shape[0]
 
@@ -361,8 +277,6 @@ class Beam:
         for k in range(len(result)):
             if self.stop_index in result[k]:
                 result[k] = result[k][:result[k].index(self.stop_index)]
-
-        print(result)
 
         return result
 

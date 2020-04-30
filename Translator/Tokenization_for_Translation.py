@@ -90,7 +90,7 @@ class Corpus:
 
         return result
 
-    def parse(self, text, use_UNKNOWN=False, use_STOP=False, use_punctuation=False):
+    def parse(self, text, use_UNKNOWN=False, use_STOP=False, use_punctuation=False, for_BLEU=False):
         """Takes text and converts it into numpy array of tokens.
         Unknown words will be transcribed as #UNKNOWN or dropped
         Stop words will be transcribed as #STOP or dropped
@@ -113,6 +113,10 @@ class Corpus:
 
         raw_tokens = pd.DataFrame()
         raw_tokens['Token'] = pd.Series(split_text)
+
+        # For BLEU score calculation, we're done here
+        if for_BLEU:
+            return split_text
 
         #convert stop words into STOP token if requested
         tokens_wt_stops = raw_tokens
